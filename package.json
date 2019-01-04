@@ -40,7 +40,7 @@
     "eslint-plugin-react": "^7.11.1",
     "prettier": "^1.14.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/jwworth/jakeworth#readme",
   "keywords": [
     "gatsby"
   ],
@@ -48,7 +48,7 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/jwworth/jakeworth"
   },
   "scripts": {
     "dev": "gatsby develop",
