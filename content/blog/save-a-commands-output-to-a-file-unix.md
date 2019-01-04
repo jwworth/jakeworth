@@ -1,5 +1,5 @@
 ---
-title: 'Save a Command's Output to a File (Unix)'
+title: Save a Command's Output to a File (Unix)
 date: '2014-04-08T23:44:42-05:00'
 ---
 

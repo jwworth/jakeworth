@@ -1,5 +1,5 @@
 ---
-title: 'I'm a Rustacean'
+title: I'm a Rustacean
 date: '2015-11-06T15:53:11-06:00'
 ---
 

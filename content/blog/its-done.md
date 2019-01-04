@@ -1,5 +1,5 @@
 ---
-title: 'It's done'
+title: It's done
 date: '2017-07-19T12:53:12-05:00'
 ---
 

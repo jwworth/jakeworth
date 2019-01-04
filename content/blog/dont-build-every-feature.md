@@ -1,6 +1,6 @@
 ---
-title: 'Don't Build Every Feature'
-date: '2017-06-19T19:55:21-05:00'
+title: Don't Build Every Feature
+date: 2017-06-19T19:55:21-05:00
 ---
 
 > Thirty spokes unite at the single hub;
