@@ -5,7 +5,7 @@ date: '2016-09-11T21:15:36-05:00'
 
 Today I solved the Exercism Hamming Distance problem in Elixir.
 
-#### Problem Description
+### Problem Description
 
 *From Exercism:*
 
@@ -38,7 +38,7 @@ nucleotides are different from their equivalent in the other string.
 
 The Hamming distance between these two DNA strands is 7.
 
-#### My Solution
+### My Solution
 
 ```elixir
 defmodule Hamming do
@@ -67,7 +67,7 @@ defmodule Hamming do
 end
 ```
 
-#### Notes
+### Notes
 
 I wanted a solution that was 'classic Elixir', utilizing the unique features of the language I've learned so far. It starts with guard-clause-like `when` statement to filter out error cases, followed by a function that computes the solution via pattern matching and tail-call recursion, and finally a catch-all function to break the recursion and prepare the output.
 

@@ -11,17 +11,17 @@ These recommendations are priceless. A book that has been read and enjoyed by so
 
 I try to read every book recommended to me, which is challenging. My solution?
 
-#### Buy the book
+### Buy the book
 
 As soon as I get a recommendation, without fail, I head over to http://www.half.ebay.com and purchase the cheapest decent copy of the book I can find.
 
 Half.com is a resource I discovered in college. You can find almost any used book for dirt cheap, shipped via media mail (cheap but also slow). I am shocked by how often people I talk to have never heard of this site.
 
-#### Why buy the book immediately?
+### Why buy the book immediately?
 
 For me the biggest obstacle to reading is not having a good book to read. When I don't have a queue of books that I'm interested in, I'll waste time trying to choose between the books I do have or looking online. Buying books all the time prevents this situation from ever occurring. I typically have a queue of ten or twelve books waiting to be read.
 
-#### Why buy the book at all? Why not try to borrow it?
+### Why buy the book at all? Why not try to borrow it?
 
 Buying books all the time might seem expensive, but it actually saves me a lot of money.
 
@@ -33,10 +33,10 @@ A six or seven dollar book is an investment. Buying a hundred of these a year co
 
 A side effect of this policy is that I have a giant pile of read books on the shelf. How do I handle that?
 
-#### Give (most of) them away
+### Give (most of) them away
 
 Sure, I could spend a lot of time trying to resell these used books for four or five dollars apiece back to Half.com. But why? That's a lot of work for a small amount of money. A better solution is to donate them to your coworkers, office bookshelf, or the aforementioned libraries that are so desperately in need of good technical books. Giving a book strengthens your ties to the community and costs almost nothing.
 
-#### Conclusion
+### Conclusion
 
 I am a conduit, through which a river of used technical books rages. They make me a better developer, are basically free, and end up in my workplace, social network, local libraries, and city. It lets me focus on what I love: learning.

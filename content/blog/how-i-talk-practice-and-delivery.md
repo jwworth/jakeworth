@@ -9,7 +9,7 @@ is [here](/how-i-talk).
 Today, I'll be covering the final steps of my process: practice and
 delivery.
 
-#### Practice
+### Practice
 
 In the time I've been writing this series, Gary Bernhardt published an
 outstanding blog post, [How to Prepare a
@@ -36,7 +36,7 @@ behind, I speed up and start policing my ad libs.
 Every minute of my talk has been practiced again and again. It's the only
 way I know how to present, and it works for me.
 
-#### Delivery
+### Delivery
 
 If I've been practicing, delivery is an afterthought. When
 I'm onstage, I feel unstoppable, despite nerves. There are some
@@ -49,7 +49,7 @@ avoid them because I don't feel seasoned enough onstage to control the hairy
 situations that can arise when I share control with extra hardware, software,
 and other people. I've seen it go wrong many times.
 
-#### Conclusion
+### Conclusion
 
 Thank you for reading this series. I'll conclude with this Tweet from Saron:
 

@@ -13,7 +13,7 @@ anybody reading: *you* should blog.
 Why? For me, it's been an invaluable opportunity to practice explaining
 my thoughts, and to watch myself grow.
 
-#### Explaining Thoughts
+### Explaining Thoughts
 
 Translating technical ideas into words is one of the great challenges of being
 a programmer. We have to master it. Communicating with technical and
@@ -37,7 +37,7 @@ me a stone to regularly sharpen that tool against.
 Whether somebody reads the posts is almost irrelevant. The obstacle is the
 path. Start blogging and watch your communication skills flourish.
 
-#### Watching Myself Grow
+### Watching Myself Grow
 
 Each of my ~100 blog posts are a record of my professional journey. They help me
 remember how I've grown.
@@ -59,7 +59,7 @@ variations, in my everyday conversations at work.
 
 Write a blog and watch yourself change.
 
-#### Conclusion
+### Conclusion
 
 Blogging scares some people; it certainly intimidated me for a while.
 I wrote code for almost two years before finally deciding to publish.

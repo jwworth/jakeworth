@@ -31,7 +31,7 @@ to use my own newbie code to think about the feedback I give and crystallize the
 
 Today I'll be looking at the first file in the program, `start.rb`.
 
-#### Startup
+### Startup
 
 The `README` declares that to start the program, we type:
 

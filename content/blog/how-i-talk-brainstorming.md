@@ -17,7 +17,7 @@ my mind, ideas in the world, and relevant ideas of my colleagues and friends.
 
 Here's a little more about each step.
 
-#### Thinking
+### Thinking
 
 To prepare a good talk, I need to generate a lot of ideas.
 
@@ -77,14 +77,14 @@ into the final presentation.
 
 Not all these ideas are good. But they will give me a lot of potential paths to take.
 
-#### Record Everything
+### Record Everything
 
 I use [GTD](http://gettingthingsdone.com/) for taking notes in a physical
 notebook. Whatever your method, be sure to capture every one of the great ideas
 you generate. Without a rigorous system of note-taking, I would lose a lot of
 the ideas to simple forgetfulness.
 
-#### Conclusion
+### Conclusion
 
 Thinking deeply about a subject, while also being a sponge to the world,
 combined with an effective system of note-taking, is how I get from an idea to

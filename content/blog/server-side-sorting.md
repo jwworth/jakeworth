@@ -30,7 +30,7 @@ type of work down to the client-side, and don't bother the server with repeated 
 
 Here's how I'd tackle this problem.
 
-#### Send a Parameter
+### Send a Parameter
 
 ```ruby
 # app/views/movies/index.html.haml
@@ -48,7 +48,7 @@ controller action, and we'll use it to sort the movies. As a side note, this det
 be used to quickly iterate on changes, as you can type your parameters directly
 into the browser address bar.
 
-#### Sort Based on Parameter
+### Sort Based on Parameter
 
 Here's the controller code:
 

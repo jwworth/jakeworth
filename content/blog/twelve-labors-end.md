@@ -34,7 +34,7 @@ prompt (`>`), and the `dead` method, which kills the program.
 
 Here are my issues with this method.
 
-#### Bad Game Design
+### Bad Game Design
 
 This method represents a cardinal sin of the program: `Process.exit(0)`. When
 Hercules makes the wrong choice, what happens? We annihilate the program with
@@ -46,14 +46,14 @@ A kinder solution would be to ask the player whether or not they want to
 exit. If you played my game, you'd realize choosing incorrectly is a 
 jarring experience. It's tough to iterate toward a victory, and thus bad game design.
 
-#### Lack of Ruby Idioms
+### Lack of Ruby Idioms
 
 This method references `@quips` twice, an instance variable defined on
 initialization. This instance variable could and
 should be a constant, or at least accessed via `attr_reader`. And instead of
 `@quips[rand(@quips.length)]`, I'd use the more conventional `sample`.
 
-#### Single Responsibility Principle
+### Single Responsibility Principle
 
 The last issue I have is that this method violates the [Single
 Responsibility Principle](https://en.wikipedia.org/wiki/Single_responsibility_principle),
@@ -106,7 +106,7 @@ tradition, it's `false` only if the player types exactly `n`).
 
 This is a hasty refactor, but it's heading in the right direction.
 
-#### Conclusion
+### Conclusion
 
 Reviewing my own beginner code was illuminating. There is so much I didn't
 know. I'd like to do this again in the future on more recent work.

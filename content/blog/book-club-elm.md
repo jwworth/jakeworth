@@ -5,7 +5,7 @@ date: '2016-02-07T10:05:09-06:00'
 
 This week at Hashrocket Chicago we had the third meeting of an internal company book club. Our focus was chapter three of [Seven More Languages in Seven Weeks](https://pragprog.com/book/7lang/seven-more-languages-in-seven-weeks), 'Elm'.
 
-#### Elm Overview
+### Elm Overview
 
 Elm is a functional programming language that uses the functional reactive style to build graphical users interfaces. It seeks to eliminate runtime exceptions with a strong precompile step. Elm claims a clean syntax, fast rendering, libraries with guarantees like semantic versioning, and smooth JavaScript interop.
 
@@ -33,11 +33,11 @@ As a newbie to the ML-family of languages, I found Elm hard to learn. I would di
 
 Another major question is whether the language will gain the critical mass it needs to survive in today's harsh JavaScript ecosystem. This is a concern that matters when you are investing personal time in a framework or language.
 
-#### Output
+### Output
 
 I kept a big list of the links I found useful this week, available here: https://github.com/jwworth/resources#elm.
 
-#### Final Thoughts
+### Final Thoughts
 
 I think Elm may end up changing the world, even if Elm itself isn't the final iteration. Some of the concepts it represents, like functional and reactive programming, signals, and the reduction of runtime exceptions, are of great interest to me. They are where I think the web is headed. In the meantime, I found Elm an interesting diversion, and a welcome challenge to my conventional ideas of a language.
 

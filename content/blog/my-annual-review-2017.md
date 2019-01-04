@@ -6,7 +6,7 @@ date: '2017-12-31T18:38:24-06:00'
 Each year I conduct an annual review to help me reflect on the ending year.
 Here's a [link](/my-annual-review-2016) to last year's.
 
-#### What Went Well
+### What Went Well
 
 I learned a lot this year.
 
@@ -48,7 +48,7 @@ partnering with
 [CJUG](https://www.meetup.com/Vim-Chicago/events/239299991/), and hosting the
 inimitable [Andy Lester](https://www.meetup.com/Vim-Chicago/events/237180162/).
 
-#### Last Year's Goals
+### Last Year's Goals
 
 From last year's review:
 
@@ -59,7 +59,7 @@ How did I do? I submitted eleven CFPs. Waiting until December for my final submi
 bad strategy, because I couldn't find any conferences accepting CFPs this month
 that matched my interests.
 
-#### Next Year's Goals
+### Next Year's Goals
 
 My main professional goal for 2018 is to submit 10 CFPs.
 
@@ -81,7 +81,7 @@ submitted dozens of manuscripts before his first publication and went on to an
 illustrious career. If I want another shot, I'll need to submit at least
 another ten CFPs.
 
-#### Thank You's
+### Thank You's
 
 Thanks to:
 

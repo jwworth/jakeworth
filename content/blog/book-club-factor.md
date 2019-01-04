@@ -5,7 +5,7 @@ date: '2016-01-21T21:13:57-06:00'
 
 This week at Hashrocket Chicago, we had the second meeting of an internal company book club. Our focus was chapter two of [Seven More Languages in Seven Weeks](https://pragprog.com/book/7lang/seven-more-languages-in-seven-weeks), 'Factor'.
 
-#### Factor Overview
+### Factor Overview
 
 > Factor is a concatenative, functional programming language that uses Reverse Polish notation to push data into and out of a stack.
 
@@ -33,7 +33,7 @@ I have mixed feelings about the often sparse documentation, the difficult error 
 
 I may pick up Factor again someday, and be glad for this week. But in the meantime, stuff that is trivial in Ruby is really hard (for me) to do in Factor, so I'll be moving on to languages that interest me more.
 
-#### Output
+### Output
 
 I added some Factor links to my Resources project:
 

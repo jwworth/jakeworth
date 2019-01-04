@@ -7,7 +7,7 @@ Sigils are a mechanism for working with textual representations in Elixir. If yo
 
 A neat feature of sigils is that we can make custom variants, or override existing Kernel variants. The latter is generally discouraged.
 
-#### Creating a Sigil
+### Creating a Sigil
 
 Here's some code I wrote for an exercise, defining a new sigil, `u`:
 
@@ -44,7 +44,7 @@ iex(1)> SigilWriter.split_and_downcase("SHUT IT DOWN")
 ["shut", "it", "down"]
 ```
 
-#### Overriding a Sigil
+### Overriding a Sigil
 
 Next, I wrote some code to override an existing sigil:
 

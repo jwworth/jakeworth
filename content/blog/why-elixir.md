@@ -9,7 +9,7 @@ More than once, I've been asked some version of the question: why are you learni
 
 I thought I'd take a moment and try to distill my rationale. There are two main points: Elixir solves problems, and it's aesthetically interesting to me as a language.
 
-#### Real Problem Solving
+### Real Problem Solving
 
 Elixir is written in Erlang, a language for telephony. Erlang is thus optimized for two things:
 
@@ -20,13 +20,13 @@ As networks grow, tenants multiply, and microchip processor speeds approach phys
 
 Elixir's (Erlang's, really) outstanding uptime is useful, too.
 
-#### Aesthetically Pleasing
+### Aesthetically Pleasing
 
 Elixir was written by a Rubyist, and Ruby idioms abound. I've never picked up a language faster than Elixir. Ruby was optimized for programmer happiness, and Elixir shares many of those friendly, hard-won conventions.
 
 I've been fascinated by functional programming since reading *Seven More Languages in Seven Weeks*, and learning Elixir helps me further develop that new perspective. It's made me a better Rubyist— I am much more aware of side effects and more likely to consider recursion to solve problems.
 
-#### Conclusion
+### Conclusion
 
 Is Elixir going to replace Ruby? I'm not yet convinced. But it does solve some real problems in ways Ruby can't or won't, and it's been fun and pleasant to learn.
 

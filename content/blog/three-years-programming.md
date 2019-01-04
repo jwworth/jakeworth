@@ -5,13 +5,13 @@ date: '2015-11-03T21:21:02-06:00'
 
 This month marks three years since I started programming; I’d like to take a minute and reflect on this milestone.
 
-#### Programming is Awesome
+### Programming is Awesome
 
 Learning to program changed my life. I love what I do.
 
 All day long I solve tough problems with brilliant people. I have a network of colleagues who are also my friends. They challenge and inspire me every day.
 
-#### Programming is Hard
+### Programming is Hard
 
 Programming is hard.
 
@@ -25,7 +25,7 @@ Programming is hard because you must force yourself into the uncomfortable posit
 
 That feeling hasn't gone away. I don't think it ever does. You have to use it as fuel. It's a signal that you're on the right track.
 
-#### Programming is Fun
+### Programming is Fun
 
 Building an application is a rush.
 
@@ -33,7 +33,7 @@ It's fun to be hours into a tough problem with my pair, writing tests, ping-pong
 
 I can’t think of a career more inherently gamified the programming. I seek improvement just because it's more fun to be good.
 
-#### Go For It
+### Go For It
 
 >There has never been more ways to learn, and more distractions. —Unknown
 

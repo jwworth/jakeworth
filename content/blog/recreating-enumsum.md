@@ -44,7 +44,7 @@ iex(1)> MyList.sum([1,2,3,4,5])
 15
 ```
 
-#### Explanation
+### Explanation
 
 Elixir doesn't have loops, so `sum` must be written using recursion. When `MyList.sum([1,2,3,4,5]` is called, here's what happens.
 

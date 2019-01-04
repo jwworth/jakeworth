@@ -9,7 +9,7 @@ https://github.com/jwworth/jakeworth.com/pull/5
 
 I look forward to building on this platform and trying out the latest features. Please let me know if you notice irregularities. Thanks to the Rails 5 team and contributors for making this upcoming release possible!
 
-#### Update! (1/3/2017)
+### Update! (1/3/2017)
 
 Turns out I missed a few steps.
 

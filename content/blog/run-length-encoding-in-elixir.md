@@ -40,7 +40,7 @@ defmodule RunLengthEncoder do
 end
 ```
 
-#### Encoding
+### Encoding
 
 First off, this was a tough problem that I spent several hours solving. So far I've tried to tackle every Elixir project using recursion and pattern matching. While both are amazing features of the language, sometimes they just don't make sense. Writing four versions of `encode` and `decode` feels a bit heavy-handed to me, given the power of the the standard library. That said, I saw some clever solutions using that style on the site.
 
@@ -56,7 +56,7 @@ After that it's pretty straightforward: build a string of the count and letter, 
 
 I would have liked to use pattern matching in my `map` to get the first item, rather than `List.first`, but I needed the whole list inside the function to find the length.
 
-#### Decoding
+### Decoding
 
 The decoding function starts off with a unique split that I learned reading Jose Valim's comments on an Elixir Talk thread. By adding captures before and after my `[A-Z]` regex, and `on: [1,2]`, I split on capital letters while keeping those delimiters in the list. This takes advantage of the predictable nature of RLE— the code is always number, capital letter.
 
@@ -66,7 +66,7 @@ With this list, building a string is easy. I was glad to use pattern matching he
 
 `String.duplicate/2` was a hack to get around the fact that string multiplication in Elixir doesn't seem to be possible. I do miss Ruby's excellent string manipulation, but it is sort of strange that string multiplication works at all, the more I think about it. Elixir seems to be more rigid about types.
 
-#### Chicago Elixir Update!
+### Chicago Elixir Update!
 
 This was a fun problem! After a [Chicago Elixir](https://www.meetup.com/ChicagoElixir) hack night, I had a chance to learn and refactor this solution.
 

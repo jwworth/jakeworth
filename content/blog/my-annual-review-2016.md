@@ -49,7 +49,7 @@ I've written a lot about it, starting
 journey with some of my coworkers at Hashrocket. We are all hungry for
 an Elixir client project in 2017.
 
-#### 2016 Goals (Last Year)
+### 2016 Goals (Last Year)
 
 From last year's review:
 
@@ -75,7 +75,7 @@ My strategy for finding them was, however, flawed. Starting off with a survey
 are massive, unrelated subjects. That I could learn even two of these (whatever that means), let
 alone all three, in a year, is laughable to me now. Picking Elixir and giving it my attention was crucial.
 
-#### 2017 Goals (This Year)
+### 2017 Goals (This Year)
 
 Effective goals are said to be **S.M.A.R.T**: specific, measurable,
 attainable, realistic, and timely. In this spirit, my professional goal for
@@ -104,7 +104,7 @@ accepted, so more CFPs means a better chance of getting onstage.
 I've already submitted to Elixir Daze 2017,
 which I'm counting as my January submission. Eleven to go.
 
-#### Thank You's
+### Thank You's
 
 I am the beneficiary of a tremendous team of coworkers and mentors. Thank you to:
 

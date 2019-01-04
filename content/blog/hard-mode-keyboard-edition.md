@@ -11,7 +11,7 @@ https://twitter.com/jwworth/status/667412510170087424
 
 Ok, I kept four of the original keys, which spell my name. This is a WASD mechanical keyboard with Cherry MX Clear switches, which feel great and sound loud.
 
-#### Observations
+### Observations
 
 Typing on a blank keyboard is tough. It is a lot harder than I thought it would be. I was under the impression that I never looked at the keys; this proved to be false. I actually look at the keys a lot. Taking that away has been illuminating.
 
@@ -21,7 +21,7 @@ The toughest keys to do without? Numbers and symbols. As a Vim user I rely on pl
 
 Keeping printed keys on my laptop, where I do at least 50% of my programming, is a crutch. But switching out a Macbook's keys is a surgery-like process I don't intend to embark on anytime soon. I recognize that this is an obstacle. There is certainly friction in the daily switching back-and-forth.
 
-#### Future Plans
+### Future Plans
 
 I'm planning to stick with the blank keyboard for now.
 

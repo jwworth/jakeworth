@@ -9,7 +9,7 @@ Today, I'll be covering the third step of my process: researching and preparing
 slides. Every speaker I know has their own techniques for handling this part of
 the process; I look forward to sharing mine.
 
-#### Research
+### Research
 
 When possible, I start in an unusual place: the library. Libraries
 often contain a wealth of information on many technical subjects. Connecting a
@@ -23,7 +23,7 @@ most often. They require experimentation. I use the ideas I found
 during [brainstorming](/how-i-talk-brainstorming) to try a lot of
 experiments in my text editor or REPL. What are the nuances? Which are worth explaining?
 
-#### Preparing Slides
+### Preparing Slides
 
 After trying PowerPoint, Keynote, and even Vim buffers navigated
 with `]f` and `[f` (an idea I borrowed from Steve Klabnik; not recommended unless
@@ -59,7 +59,7 @@ with a link to a blog post that inspired the talk. I've given a few like this
 that I didn't love. A good talk isn't a recipe for accomplishing some
 narrow problem you solved, it is a performance only you can give.
 
-#### Conclusion
+### Conclusion
 
 Researching and preparing the slides is a unique process and these ideas have
 worked for me in the past. Experimenting and automating my process has helped

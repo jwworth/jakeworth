@@ -9,19 +9,19 @@ The repo for the new codebase is [here](https://github.com/hashrocket/tilex).
 
 There's a lot of work to do to reproduce even the MVP functionality of TIL. We're using the 'Projects' feature of Github to track progress right in the repo. 
 
-#### Purpose
+### Purpose
 
 The purpose of this project is to learn Phoenix, explore the Elixir community, and further develop myself and my colleagues as functional programmers.
 
 A secondary benefit would be building an application that's more performant than the Ruby version, or leverages unique Elixir features. Also, releasing an open source project that excites people outside Hashrocket and serves as an example of the type of functional programming work we are capable of.
 
-#### Status
+### Status
 
 At this point, we've built a working Phoenix application with the same basic assets as the Rails application, a working post index page, and a working post show page.
 
 We are developing this application 100% TDD-- unit testing with ExUnit and integration testing with [Hound](https://github.com/HashNuke/hound).
 
-#### Observations
+### Observations
 
 I'm really enjoying this project thus far.
 

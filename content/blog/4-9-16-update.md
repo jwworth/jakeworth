@@ -10,7 +10,7 @@ Consider me inspired:
 
 Here's what I've been learning and working on.
 
-#### Learning
+### Learning
 
 My learnings live here:
 
@@ -26,7 +26,7 @@ I keep a list of the tools I stumble across that have helped me. The Rust and Re
 
 https://github.com/jwworth/resources
 
-#### Working On
+### Working On
 
 This year I've been working on Rails applications with Postgres databases and React.js on the front end. This stack is pretty killer.
 
@@ -34,7 +34,7 @@ On the social side, I've been co-organizing [Vim Chicago](http://www.meetup.com/
 
 Last month I submitted my first CFP proposal ever, to [Windy City Rails](https://windycityrails.com/). The topic is apprenticeship projects, something I'm passionate about as a former Hashrocket apprentice and current mentor to one. Pushing the 'submit' button on the CFP form was tough! The notification emails should be coming out soon. 
 
-#### Conclusion
+### Conclusion
 
 Lots of stuff going on. Thank you to everybody who inspires and helps me. I will end this post with one of my favorite TILs from this year ([original post here](https://til.hashrocket.com/posts/eeedb8dda0-variable-hoisting-in-javascript)):
 

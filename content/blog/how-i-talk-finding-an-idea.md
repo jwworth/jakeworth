@@ -23,7 +23,7 @@ Chicago](https://www.meetup.com/Vim-Chicago/events/242379732/) and
 [React Chicago](https://www.meetup.com/React-Chicago/events/238418830/) Meetups,
 *React.js + Vim*.
 
-#### Passion
+### Passion
 
 I love Vim; learning this 25-year-old text editor changed my career. I went
 [all-in](/vim-or-bust) on Vim three years ago and have translated my passion
@@ -39,7 +39,7 @@ seek that perfection. What mappings, plugins, and workflow hacks can I use to
 get there? It's a subject that I care about, and that's is the most important
 trait of a good talk.
 
-#### Familiarity
+### Familiarity
 
 An idea that's explored in [Speaking.io](http://speaking.io) is that
 aspirational talks, i.e.– "I want to know about this subject, so I'll sign up
@@ -50,7 +50,7 @@ great.
 I have to start with a solid base of understanding. I need to already be at least at the same level of the average listener. Only then do I have a chance at pushing myself and that listner beyond that
 level into unfamiliar ground. 
 
-#### Freshness
+### Freshness
 
 For passion to translate to an interesting talk, I need to have done the
 work recently. You can tell when somebody is speaking about an idea that's fresh in 
@@ -63,7 +63,7 @@ constantly changing, and any techniques I haven't validated or re-validated rece
 Another benefit of talking about recent completed work is that I've
 usually had time to recognize the things I could have done better. With perspective, I can integrate these lessons into the talk.
 
-#### Conclusion
+### Conclusion
 
 Talks are entertainment, and with
 the right passion, familiarity, and freshness, I hope to produce something worth

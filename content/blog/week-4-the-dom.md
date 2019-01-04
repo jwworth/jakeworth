@@ -5,13 +5,13 @@ date: '2015-01-23T15:57:39-06:00'
 
 This week I've been learning more about the Document Object Model, known as the DOM. I'd like to summarize my thoughts, with the goal of explaining what the DOM is, why it is relevant today, and why it can seem difficult to understand. I'd also like to share resources I found informative.
 
-#### What is the DOM?
+### What is the DOM?
 
 The DOM is a cross-browser, language-independent convention for representing and manipulating objects in HTML.
 
 When an internet browser receives the HTTP response it needs to build a web page, it parses that response into a hierarchy known as the DOM tree  This tree is a series of nodes that represent the nested nature of HTML. From here, JavaScript can be used to dynamically interact with any node on the tree.
 
-#### Why is the DOM relevant?
+### Why is the DOM relevant?
 
 The DOM is one of the most important features of the modern internet. Anytime a script is changing elements on a web page, it's referencing the DOM.
 
@@ -21,7 +21,7 @@ Eventually, the demand for dynamic content increased, and software engineers wor
 
 In 2015, JavaScript and its frameworks are more popular than ever, suggesting that the importance of the DOM in web development will only increase.
 
-#### Why is the DOM difficult to understand?
+### Why is the DOM difficult to understand?
 
 In a tech talk at Yahoo! in 2006, Douglas Crockford, one of the key architects of modern JavaScript, one called the DOM a 'vast source of incompatibility, pain, and misery.'
 
@@ -31,7 +31,7 @@ The DOM was born during the browser wars of the 1990's, as Microsoft and Netscap
 
 Today, the browser market is more fragmented than ever. Luckily, the major players are working with the W3 to standardize and document the DOM. However, I think that the legacy of incompatibility and secrecy has given the DOM a confusing reputation.
 
-#### Further Reading
+### Further Reading
 
 The DOM is a massive subject; here is a short list of related resources I recommend:
 

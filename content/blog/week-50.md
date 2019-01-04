@@ -5,7 +5,7 @@ date: '2014-12-12T11:13:16-06:00'
 
 This was an interesting week.  I worked on some open source projects, experimented with the Pure Data language, and learned some new Ruby methods.  Some notes:
 
-#### Ruby + Ubuntu = Music
+### Ruby + Ubuntu = Music
 
 Last week I started reading <em>Practical Ruby Projects</em> by Topher Cyll.  This is a collection of thoughtful Ruby programs that touch a broad variety of CS topics.  If you are an intermediate Rubyist looking for fresh ideas, check it out.
 
@@ -13,7 +13,7 @@ I worked through Chapter 2, 'Making Music with Ruby', resulting in my <a href='h
 
 This was a fun project.  It taught me about how Linux and Ruby can interact, and hearing music from Ruby code is awesome.  Next up: OS X compatibility and more features.
 
-#### Pure Data
+### Pure Data
 
 Another thing I explored was the Pure Data language.  Pure Data is a visual programming language created by Miller Puckette in the 1990's for building music and multimedia interfaces.
 
@@ -29,7 +29,7 @@ How about some math?  I've made an addition program in the palette, top right.  
 
 Building programs with Pure Data is much like connecting hardware in a rack, which feels intentional.
 
-#### Ruby Methods
+### Ruby Methods
 
 What happens when you type <code>String.methods</code> into IRB?  You see all public methods for that class.  I did that for strings and integers, and for each one I didn't know, I ran <code>help</code>, then the method name.  Here is a summary of what I learned:
 

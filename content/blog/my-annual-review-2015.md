@@ -7,7 +7,7 @@ date: '2016-01-01T10:48:17-06:00'
 
 Each year I conduct an annual review, counting successes and failures, looking forward to the future, both personal and professional. This year I'll be documenting the professional portion of this review here, as a time capsule of where I am today as a programmer.
 
-#### Last Year (2015)
+### Last Year (2015)
 
 **I Got Promoted**
 
@@ -61,7 +61,7 @@ I created [Resources](https://github.com/jwworth/resources), a list of links tha
 
 For my personal learning, this year I got deeper into PostgreSQL, Go, and React.js. I improved at pair programming, building strong professional relationships, and working with clients. I [replaced all the keys on my keyboard with blank ones](http://www.jakeworth.com/hard-mode-keyboard-edition) and improved at touch typing.
 
-#### Next Year (2016)
+### Next Year (2016)
 
 My major professional goal in 2016 is to become an expert at learning languages and frameworks. I aim to slash the time it takes me to pick up a new tool by gaining fluency in the full spectrum of major design patterns.
 
@@ -76,6 +76,6 @@ I will start by reading *7 More Languages in 7 Weeks* with some peers at Hashroc
 
 I have signed up for some Meetups, and have a queue of books and tutorials ready to go. By being a faster learner, I hope to be able to better serve my clients in a rapidly changing technological world.
 
-#### Conclusion
+### Conclusion
 
 Thank you to everybody who helped me this year, and thanks for reading this lengthy post. I recommend a review like this to anybody with wild aspirations; it's helped me clarify what I've done and where I'm headed, and maintain accountability. Look for posts in 2016 about Clojure, Go, React.js, React Native, and whatever else I decide to hack on this year.

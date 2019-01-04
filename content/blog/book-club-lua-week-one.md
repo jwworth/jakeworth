@@ -11,7 +11,7 @@ I threw the idea out to some coworkers as a project for the new year, and the re
 
 The first week we read chapter one of [Seven More Languages in Seven Weeks](https://pragprog.com/book/7lang/seven-more-languages-in-seven-weeks), 'Lua'.
 
-#### Preparation
+### Preparation
 
 The setup steps I took to prepare for this meeting where:
 
@@ -24,7 +24,7 @@ The setup steps I took to prepare for this meeting where:
 
 It was a fun meeting, and I learned a lot.
 
-#### Lua Overview
+### Lua Overview
 
 Lua has some cool features: it's a scripting language that works well with lower-level languages like C and C++, it's already installed on some Unix systems, and it has a REPL. Functions are first-class values, they accept flexible arguments, and they can return multiple values.
 
@@ -44,7 +44,7 @@ During this process I learned that Hashrocket has hosted book clubs before. It's
 
 https://www.youtube.com/watch?v=omp719GCmkU
 
-#### Output
+### Output
 
 I wrote some Lua code this week, starting with solving an office-wide programming challenge we've been discussing:
 

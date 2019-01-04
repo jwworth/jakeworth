@@ -5,7 +5,7 @@ date: '2018-12-31T11:18:51-06:00'
 
 Each year I conduct an annual review to help me reflect on the ending year. Here's this year's entry.
 
-#### News
+### News
 
 This was an important year for me professionally; here's a summary of what I did:
 
@@ -26,7 +26,7 @@ This was an important year for me professionally; here's a summary of what I did
   projects, became obsessed with TypeScript
 - Celebrated four years at Hashrocket 🎂
 
-#### Last Year's Goal
+### Last Year's Goal
 
 My professional goal for 2018 was to submit 10 proposals to technical
 conferences. That number was based on my previous 1/10 proposal acceptance
@@ -44,7 +44,7 @@ submitting any more proposals in 2018. Unless I start repeating talks or
 develop a more improvisational style, one conference per year seems to be my
 limit.
 
-#### This Year's Goal
+### This Year's Goal
 
 This year I plan to pivot to a single mantra: *ship*.
 
@@ -67,7 +67,7 @@ https://opening-day-progressbar.herokuapp.com/
 
 Here's to more shipping in 2019.
 
-#### Thanks
+### Thanks
 
 Thanks to everyone at Hashrocket, my Meetup crew, clients, family, and friends
 for making this year memorable.

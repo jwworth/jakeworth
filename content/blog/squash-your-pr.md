@@ -32,7 +32,7 @@ The final commit, `724d574`, has been approved to merge by the repo maintainer, 
 
 Let's squash it!
 
-#### The Squash
+### The Squash
 
 We'll use  `git rebase`, interactive mode, going back to the start of our branch (six commits in the past):
 
@@ -154,7 +154,7 @@ $ git push -f
 
 Now we have a clean pull request that's ready to merge.
 
-#### Fixing Mistakes
+### Fixing Mistakes
 
 Is your rebase going wrong? Don't panic. You can abort the rebase with:
 
@@ -164,6 +164,6 @@ $ git rebase --abort
 
 Even with the rebase is complete, you can travel go back in time with the [git reflog](https://til.hashrocket.com/posts/9c3ea5a6f6-undo-a-git-mistake).
 
-#### Conclusion
+### Conclusion
 
 Keeping the history of a big project tidy is a never-ending process. As an open-source project maintainer, I'm always trying to make commits smaller, better organized, more coherent. Do your favorite OSS maintainer and your own projects a favor and do your work on a feature branch, and when finished, squash your commits as logically as you can. It will make your code and the project better.

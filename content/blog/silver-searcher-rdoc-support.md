@@ -23,6 +23,6 @@ $ ag 'foo' --rdoc
 
 This pull request allowed me to write and test in C, something I've never done before. I hope that this feature will allow programmers and OSS contributors to more easily navigate documentation from the command line. In a large project like Rails, a flag that can cut through the noise should be helpful.
 
-#### Update (November 12, 2015)
+### Update (November 12, 2015)
 
 This pull request was merged; Silver Searcher now accepts `--rdoc` as a filter flag.

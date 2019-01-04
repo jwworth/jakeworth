@@ -7,7 +7,7 @@ It's getting cold in Chicago.  Luckily, programming is an indoor activity.
 
 This week I wrote my first proper Ruby gem, then wrote two more.  The process was fun and I learned a lot.
 
-#### Runge
+### Runge
 
 My first gem is <a href='https://github.com/jwworth/runge'>Runge</a>.  The name is a mashup of the words 'Ruby' and 'munge'.  Here is a definition of 'munge' from <a href='http://www.catb.org/jargon/html/index.html'>The Jargon File</a>:
 <em>
@@ -29,7 +29,7 @@ I'd like to add an 'unmunge' function so the gem could be used for hobby crypto.
 
 Building Runge taught me how to build a test-driven gem, polish it, and publish it to Rubygems.
 
-#### Three Ideas
+### Three Ideas
 
 Next came <a href='https://github.com/jwworth/three-ideas'>Three-Ideas</a>.  Three Ideas generates three random programming project ideas.  Some sample output:
 
@@ -42,7 +42,7 @@ Word processors written in C
 
 The ideas are built from scraping Wikipedia for software types and programming languages.  Most are ridiculous.
 
-#### Secret Santa
+### Secret Santa
 
 Remember Secret Santa?  You pass around a hat with everybody's name inside, each person draws a name, and then you purchase a gift for the person whose name you drew.  It's fun, but the setup is slow, because somebody always draws themselves, or two people draw each other, which isn't fun.
 
@@ -50,7 +50,7 @@ Remember Secret Santa?  You pass around a hat with everybody's name inside, each
 
 Any time you need a round-robin assignment you can use Secret Santa.  I will be using it in 2015.
 
-#### Command Chaining
+### Command Chaining
 
 Here is a cool trick.  With most shells you can run this:
 

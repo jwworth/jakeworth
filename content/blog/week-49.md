@@ -5,7 +5,7 @@ date: '2014-12-05T14:36:17-06:00'
 
 This week was awesome.  I learned every day and hope to bring some new ideas to my work.  A recurring theme was testing; some notes:
 
-#### TDD - Helpful When Stuck
+### TDD - Helpful When Stuck
 
 My respect for test-driven development grew a lot this week.  Watching part of an outstanding Jim Weirich talk, <a href='https://www.youtube.com/watch?v=983zk0eqYLY'>Roman Numerals Kata</a>, reminded me of the value of TDD.  My prescription for TDD success:
 
@@ -25,7 +25,7 @@ From here you can add more test cases until the test is failing again.  This is 
 
 TDD can be vital when you are staring at a blank screen.
 
-#### Cucumber Does Not Distinguish Given-When-Then
+### Cucumber Does Not Distinguish Given-When-Then
 
 A sample Cucumber feature:
 
@@ -44,7 +44,7 @@ The words 'given', 'when', 'then', and 'and' give us context, and you might thin
 
 As to the actual meaning of the words, Cucumber doesn't care.
 
-#### Testing is Vast
+### Testing is Vast
 
 Testing is vast. It is a big enough subject to support entire careers in programming.
 

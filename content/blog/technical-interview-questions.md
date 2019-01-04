@@ -17,7 +17,7 @@ After reading Jeff Atwood's great post <a href='http://blog.codinghorror.com/how
 
 After 'breaking the ice' to make us both comfortable, we got started.
 
-#### Whiteboard Test
+### Whiteboard Test
 
 I love the whiteboard.  It reveals much about a person, from how they work under pressure to their ability to explain an abstract idea.
 
@@ -25,7 +25,7 @@ We did a few whiteboard programming tests together.  There is ample raw material
 
 I asked the candidate to use the language she felt most comfortable with, with a preference for Ruby.  She chose Ruby and worked through the problem on the board.  When finished, we walked together through each iteration of the method with her in the lead, explaining, and me asking questions.
 
-#### Technical Questions
+### Technical Questions
 
 I had three or four questions prepared in a couple of different subject areas.  I like to ask a broad question, take notes, and then ask any follow-up questions that come to mind.  It's much more fun to have a discussion.
 
@@ -37,7 +37,7 @@ The third subject area was Testing.  A sample question: <em>Do you use TDD?  Why
 
 The fourth area was General Programming.  Anything relevant is fair game here.  I want to know what the candidate thinks about working at a small startup.  Will they thrive in the uncertainty?  Have they developed self-reliance and a strong professional voice?  What do they think about the current debates going on within our field?
 
-#### Q & A
+### Q & A
 
 At the end, I open up for questions.  Having any questions at all is an essential indicator of mutual interest for me.  Provided those questions show interest and a basic understanding of what we do, and I can answer them, then this phase is successful.
 

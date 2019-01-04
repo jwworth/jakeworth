@@ -9,7 +9,7 @@ Today I stared porting the *Sprinkles of JavaScript*™ to our ongoing Phoenix p
 
 Here are the steps I took.
 
-#### Setup
+### Setup
 
 Add jQuery as a dependency to your `package.json`.
 
@@ -48,6 +48,6 @@ Finally, import your `$` into the application assets, above any other imported J
 import $ from "jquery"
 ```
 
-#### Conclusion
+### Conclusion
 
 That's it! Enjoy jQuery in your Phoenix application. Here's the [commit](https://github.com/hashrocket/tilex/commit/57f1b94a2a1f632ad6e39bac519054efbc1edfad) where I made these changes, and the relevant [Phoenix Docs](http://www.phoenixframework.org/docs/static-assets).

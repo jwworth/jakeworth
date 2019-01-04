@@ -13,7 +13,7 @@ Hence this list, here, on the scary internet. **I aim to have a public record of
 
 I'm going to use the [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/) as a guide. Like any list, this one is subjective, but I think it's a good starting point for self-reflection.
 
-#### The List
+### The List
 
 Okay, *deep breath*, here we go. Here's where I am ignorant:
 
@@ -27,7 +27,7 @@ Okay, *deep breath*, here we go. Here's where I am ignorant:
 * VimScript
 * White hat hacking (sigh)
 
-#### Conclusion
+### Conclusion
 
 Many of these deficiencies align with my [Annual Review](http://www.jakeworth.com/my-annual-review-2015) goals. I feel competent enough in my craft to learn about and hack my way through any of these tasks under pressure, with the help of tutorials and libraries. But I'd like to do better, and cross these items off in time.
 
