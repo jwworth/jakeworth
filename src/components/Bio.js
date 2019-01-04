@@ -31,11 +31,11 @@ function Bio() {
               Written by <strong>{author}</strong>, a developer at Hashrocket
               based in Chicago.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                Follow him on Twitter
-              </a>
-              {` `}
               <Link to={`/about/`}>Learn more</Link>
+              {` `}
+              <a href={`https://twitter.com/${social.twitter}`}>
+                Follow on Twitter
+              </a>
             </p>
           </div>
         )
