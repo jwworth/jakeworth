@@ -1,6 +1,6 @@
-import React from 'react'
-import { StaticQuery, graphql } from 'gatsby'
+import { Link, StaticQuery, graphql } from 'gatsby'
 import Image from 'gatsby-image'
+import React from 'react'
 
 import { rhythm } from '../utils/typography'
 
@@ -34,6 +34,8 @@ function Bio() {
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow him on Twitter
               </a>
+              {` `}
+              <Link to={`/about`}>Learn more</Link>
             </p>
           </div>
         )
