@@ -35,7 +35,7 @@ function Bio() {
                 Follow him on Twitter
               </a>
               {` `}
-              <Link to={`/about`}>Learn more</Link>
+              <Link to={`/about/`}>Learn more</Link>
             </p>
           </div>
         )
