@@ -31,7 +31,7 @@ function Bio() {
               Written by <strong>{author}</strong>, a developer at Hashrocket
               based in Chicago.
               {` `}
-              <Link to={`/about/`}>Learn more</Link>
+              <Link to={`/about/`}>Learn about Jake</Link>
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow on Twitter
