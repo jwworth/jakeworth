@@ -2,7 +2,7 @@
 
 This is the source code for my developer's blog, available here:
 
-http://jakeworth.com
+https://www.jakeworth.com
 
 Here's my intention, from the [first post](http://www.jakeworth.com/hello-world):
 
