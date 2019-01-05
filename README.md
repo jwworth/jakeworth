@@ -26,9 +26,16 @@ Here's my intention, from the [first post](http://www.jakeworth.com/hello-world)
 
 ### Setup
 
+To run in development mode:
+
 ```
-$ yarn
-$ yarn start
+$ yarn dev
+```
+
+To run in production mode:
+
+```
+$ yarn prod
 ```
 
 ### License
