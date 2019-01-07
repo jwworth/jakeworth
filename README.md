@@ -38,6 +38,14 @@ To run in production mode:
 $ yarn prod
 ```
 
+### Testing
+
+Run the [Cypress](https://www.cypress.io/) integration tests:
+
+```
+$ npx cypress open
+```
+
 ### License
 
 This project is released under the [MIT License](http://www.opensource.org/licenses/MIT).
