@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "jakeworth",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "Weblog of Jake Worth, a developer at Hashrocket based in Chicago",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Jake Worth <jake@jakeworth.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/jwworth/jakeworth/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.76",
