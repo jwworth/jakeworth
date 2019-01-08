@@ -28,13 +28,13 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>, a developer at Hashrocket
-              based in Chicago.
+              I'm <strong>{author}</strong>, a developer at Hashrocket based in
+              Chicago.
               {` `}
-              <Link to={`/about/`}>Learn about Jake</Link>
+              <Link to={`/about/`}>Learn about me</Link>
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                Follow on Twitter
+                Follow me on Twitter
               </a>
             </p>
           </div>
