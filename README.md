@@ -43,7 +43,7 @@ $ yarn prod
 Run the [Cypress](https://www.cypress.io/) integration tests:
 
 ```
-$ npx cypress open
+$ yarn test
 ```
 
 ### License
