@@ -108,10 +108,9 @@ class About extends React.Component {
             </a>
             <em>
               <p>
-                This application shows the JavaScript value-comparison operators{' '}
-                <code>==</code> and <code>===</code>
-                in action. It is written in React.js and TypeScript and inspired
-                by the{' '}
+                This application shows the JavaScript value-comparison operators
+                == and === in action. It is written in React.js and TypeScript
+                and inspired by the{' '}
                 <a
                   href="https://dorey.github.io/JavaScript-Equality-Table/"
                   target="_blank"
