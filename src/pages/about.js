@@ -103,6 +103,16 @@ class About extends React.Component {
             </em>
           </li>
           <li>
+            <a href="https://github.com/jwworth/typescript-node-module-starter">
+              TypeScript Node Module Starter
+            </a>
+            <em>
+              <p>
+                Kick off a new Node module, with TypeScript and Jest included.
+              </p>
+            </em>
+          </li>
+          <li>
             <a href="https://javascript-equality.herokuapp.com/">
               JavaScript Equality
             </a>
