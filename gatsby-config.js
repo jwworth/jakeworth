@@ -7,7 +7,7 @@ module.exports = {
     social: {
       twitter: `jwworth`,
     },
-    twitterCard: `https://www.jakeworth.com/assets/twittercard.jpg`,
+    twitterCard: `https://www.jakeworth.com/twittercard.jpg`,
   },
   plugins: [
     {
