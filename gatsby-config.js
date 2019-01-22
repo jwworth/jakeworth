@@ -3,7 +3,7 @@ module.exports = {
     title: `Jake Worth`,
     author: `Jake Worth`,
     description: `Weblog of Jake Worth, a developer at Hashrocket based in Chicago`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://www.jakeworth.com/`,
     social: {
       twitter: `jwworth`,
     },
