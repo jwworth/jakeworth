@@ -11,16 +11,9 @@ class About extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title="About"
-          keywords={[`blog`, `about`, `developer`, `chicago`]}
-        />
+        <SEO title="About" keywords={[`about`]} />
         <h1>About</h1>
-        <p>
-          Technology is my passion. I'm currently excited about React.js,
-          TypeScript, Elixir, Phoenix, Ruby, Rails, PostreSQL, Vim, and
-          automated tests.
-        </p>
+        <p>These are the projects, talks, and web profiles I'm proud of.</p>
         <h3>Projects</h3>
         <ul>
           <li>
@@ -270,16 +263,6 @@ class About extends React.Component {
               Exercism
             </a>
             : writing algorithms and experimenting with different languages.
-          </li>
-          <li>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://www.goodreads.com/jwworth"
-            >
-              Goodreads
-            </a>
-            : recording what I read.
           </li>
           <li>
             <a
