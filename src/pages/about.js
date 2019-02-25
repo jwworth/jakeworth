@@ -268,16 +268,6 @@ class About extends React.Component {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://www.goodreads.com/jwworth"
-            >
-              Goodreads
-            </a>
-            : recording what I read.
-          </li>
-          <li>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
               href="https://hashrocket.com/blog/rocketeers/jake-worth"
             >
               Hashrocket Blog
