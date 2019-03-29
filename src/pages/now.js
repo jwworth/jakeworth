@@ -42,17 +42,6 @@ class Now extends React.Component {
             .
           </li>
           <li>
-            Organizing the{' '}
-            <a
-              href="https://www.meetup.com/Vim-Chicago/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Vim Chicago
-            </a>{' '}
-            Meetup.
-          </li>
-          <li>
             Learning and writing about user interfaces, language design, static
             typing, data modeling, algorithms, functional programming, project
             management, organizational leadership, and more.
