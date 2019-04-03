@@ -19,7 +19,7 @@ class Now extends React.Component {
         <p>Here's what I'm up to:</p>
         <ul>
           <li>
-            Coding and consulting for{' '}
+            Working at{' '}
             <a
               href="https://hashrocket.com/"
               target="_blank"
@@ -31,7 +31,7 @@ class Now extends React.Component {
           </li>
           <li>Shipping side projects.</li>
           <li>
-            Mentoring and teaching a quarterly SQL workshop at{' '}
+            Mentoring and teaching a SQL workshop once per cohort at{' '}
             <a
               href="https://www.codeplatoon.org/"
               target="_blank"
@@ -41,6 +41,10 @@ class Now extends React.Component {
             </a>
             .
           </li>
+          <li>
+            Reading <em>Extreme Programming Explained</em> by Kent Beck.
+          </li>
+          <li>Studying for an AWS Academy Cloud Foundations certification.</li>
           <li>
             Learning and writing about user interfaces, language design, static
             typing, data modeling, algorithms, functional programming, project
