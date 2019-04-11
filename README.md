@@ -29,13 +29,13 @@ Here's my intention, from the [first post](http://www.jakeworth.com/hello-world)
 To run in development mode:
 
 ```
-$ npm dev
+$ yarn dev
 ```
 
 To run in production mode:
 
 ```
-$ npm prod
+$ yarn prod
 ```
 
 ### Testing
@@ -43,7 +43,7 @@ $ npm prod
 Run the [Cypress](https://www.cypress.io/) integration tests:
 
 ```
-$ npm test
+$ yarn test
 ```
 
 ### License
