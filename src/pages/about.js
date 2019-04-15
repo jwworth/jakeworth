@@ -171,7 +171,7 @@ class About extends React.Component {
             <em>SQL Workshop</em>, Code Platoon (Hotel), Feruary 2019.
           </li>
           <li>
-            <em>Writing a Programming Langauge</em>, Hashrocket Winter Miniconf,
+            <em>Writing a Programming Language</em>, Hashrocket Winter Miniconf,
             December 2018.
           </li>
           <li>
