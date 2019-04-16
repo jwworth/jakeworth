@@ -261,41 +261,11 @@ class About extends React.Component {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              href="https://exercism.io/profiles/jwworth"
-            >
-              Exercism
-            </a>
-            : writing algorithms and experimenting with different languages.
-          </li>
-          <li>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
               href="https://hashrocket.com/blog/rocketeers/jake-worth"
             >
               Hashrocket Blog
             </a>
             : writing for my company.
-          </li>
-          <li>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://www.meetup.com/members/12542589/"
-            >
-              Meetup
-            </a>
-            : talking about code on the scene.
-          </li>
-          <li>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://www.quora.com/profile/Jake-Worth"
-            >
-              Quora
-            </a>
-            : answering and asking programming questions.
           </li>
           <li>
             <a
@@ -326,6 +296,36 @@ class About extends React.Component {
               Speaker Deck
             </a>
             : a place where some of my slide decks are saved.
+          </li>
+          <li>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://exercism.io/profiles/jwworth"
+            >
+              Exercism
+            </a>
+            : writing algorithms and experimenting with different languages.
+          </li>
+          <li>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://www.meetup.com/members/12542589/"
+            >
+              Meetup
+            </a>
+            : talking about code on the scene.
+          </li>
+          <li>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://www.quora.com/profile/Jake-Worth"
+            >
+              Quora
+            </a>
+            : answering and asking programming questions.
           </li>
         </ul>
       </Layout>
