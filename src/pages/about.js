@@ -298,6 +298,15 @@ class About extends React.Component {
             <a
               target="_blank"
               rel="noopener noreferrer"
+              href="https://www.linkedin.com/in/jakeworth"
+            >
+              LinkedIn
+            </a>
+          </li>
+          <li>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
               href="https://speakerdeck.com/jwworth"
             >
               Speaker Deck
