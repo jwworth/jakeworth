@@ -255,6 +255,7 @@ class About extends React.Component {
             June 2015.
           </li>
         </ul>
+
         <h3>Jake Around the 'Net</h3>
         <ul>
           <li>
@@ -265,7 +266,6 @@ class About extends React.Component {
             >
               Hashrocket Blog
             </a>
-            : writing for my company.
           </li>
           <li>
             <a
@@ -275,7 +275,6 @@ class About extends React.Component {
             >
               Stack Overflow
             </a>
-            : answering and asking programming questions.
           </li>
           <li>
             <a
@@ -285,7 +284,15 @@ class About extends React.Component {
             >
               Today I Learned
             </a>
-            : writing short articles about things I have learned.
+          </li>
+          <li>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://twitter.com/jwworth"
+            >
+              Twitter
+            </a>
           </li>
           <li>
             <a
@@ -295,7 +302,6 @@ class About extends React.Component {
             >
               Speaker Deck
             </a>
-            : a place where some of my slide decks are saved.
           </li>
           <li>
             <a
@@ -305,7 +311,6 @@ class About extends React.Component {
             >
               Exercism
             </a>
-            : writing algorithms and experimenting with different languages.
           </li>
           <li>
             <a
@@ -315,7 +320,6 @@ class About extends React.Component {
             >
               Meetup
             </a>
-            : talking about code on the scene.
           </li>
           <li>
             <a
@@ -325,7 +329,6 @@ class About extends React.Component {
             >
               Quora
             </a>
-            : answering and asking programming questions.
           </li>
         </ul>
       </Layout>
