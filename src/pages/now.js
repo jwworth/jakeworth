@@ -42,13 +42,14 @@ class Now extends React.Component {
             .
           </li>
           <li>
-            Reading <em>Extreme Programming Explained</em> by Kent Beck.
+            Reading <em>Work Rules!</em> by Laszlo Bock.
           </li>
           <li>Studying for an AWS Academy Cloud Foundations certification.</li>
           <li>
-            Learning and writing about user interfaces, language design, static
-            typing, data modeling, algorithms, functional programming, project
-            management, organizational leadership, and more.
+            Learning and writing about Ruby, Elixir,
+            JavaScript/TypeScript/React, SQL, testing, DevOps, mentorship,
+            project management, organizational leadership, public speaking,
+            ethics of technology, and algorithms.
           </li>
         </ul>
         <p>
