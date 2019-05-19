@@ -37,7 +37,7 @@ Output:
 ```
 
 It works for these examples, and fails for many others. Why? I think it isn't
-trained on enough examples. This was mostly a bit of hacking answer to this
+trained on enough examples. This was mostly a bit of hacking to answer this
 Stack Overflow question:
 
 [Brain js NaN](https://stackoverflow.com/questions/56191600/brain-js-nan-when-predicting-is-a-combination-of-words-is-a-complete-sentence/56193689#56193689)
