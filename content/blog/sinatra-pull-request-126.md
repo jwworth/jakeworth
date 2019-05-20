@@ -5,7 +5,7 @@ date: '2014-03-28T17:20:15-05:00'
 
 Reading Sinatra's documentation today, I found a few things to improve.  I checked and didn't see anybody working on them, so I decided to fix them.
 
-I've already contributed <a href='http://worth-chicago.co/my-first-pull-request-sinatra'>once</a> to this project, so I had a fork and local repo ready.  My fork was almost a month old, so I wanted to ensure it was current.
+I've already contributed once to this project, so I had a fork and local repo ready.  My fork was almost a month old, so I wanted to ensure it was current.
 
 To do this, I needed to sync my fork with the project.  Step one was to verify that I didn't have an upstream already set.
 

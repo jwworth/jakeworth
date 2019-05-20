@@ -13,7 +13,7 @@ Taking a look at this principle, we start off with:
 'Welcome changing requirements, even late in development.'
 </em>
 
-If we can agree that satisfying the customer is the <a href='http://worth-chicago.co/twelve-principles-of-agile-software-1/'>top priority</a> for an Agile team, and that customers can change their minds, then this idea follows Principle #1.  You have to satisfy the customer, even when they aren't sure what they want.  I think a few important steps here are stating the requirements, checking in regularly, anticipating changing requirements, and deploying early.
+If we can agree that satisfying the customer is the top priority for an Agile team, and that customers can change their minds, then this idea follows Principle #1.  You have to satisfy the customer, even when they aren't sure what they want.  I think a few important steps here are stating the requirements, checking in regularly, anticipating changing requirements, and deploying early.
 
 One of the most important steps is stating the requirements from the start.  We use <a href='http://trello.com'>Trello</a>, a free online project management tool that is easy to use.  Trello lets us make 'cards' on a virtual whiteboard.  The cards are a record of our conversation, the requirements we've agree on, and any external links.  It's a great tool.
 

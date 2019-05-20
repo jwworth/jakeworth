@@ -3,7 +3,7 @@ title: 'Code Club: Rails Console'
 date: '2014-08-19T13:25:52-05:00'
 ---
 
-Another week, another showdown in the <a href='http://worth-chicago.co/code-club/'>Code Club</a>.
+Another week, another showdown in the Code Club.
 
 Still being challenged by the one-hundred line requirement.  We keep it (generally) because it seems like a reasonable goal for an hour of time.
 
