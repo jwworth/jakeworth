@@ -23,11 +23,11 @@ net.train([
 ```
 
 What's going on here? First, I instantiate an instance of Brain's LSTM (Long
-Short-Term Memory). Then, I train it on collection of sentences, telling the
+Short-Term Memory). Then, I train it on a collection of sentences, telling the
 system if each is complete or incomplete. Even six examples is computationally
-expensive on a fast new iMac.
+expensive on a new iMac.
 
-Output:
+Here's the output:
 
 ```
 > net.run("I'm Stil.");
@@ -36,11 +36,11 @@ Output:
 "complete"
 ```
 
-It works for these examples, and fails for many others. Why? I think it isn't
-trained on enough examples. This was mostly a bit of hacking to answer this
-Stack Overflow question:
+It works for these examples, and fails for others. Why? Too small a dataset
+certainly. My solution was mostly a bit of hacking to answer this Stack Overflow
+question:
 
 [Brain js NaN](https://stackoverflow.com/questions/56191600/brain-js-nan-when-predicting-is-a-combination-of-words-is-a-complete-sentence/56193689#56193689)
 
 I'd like to explore neural networking in the future, when there's a practical
-application for me to explore.
+application driving me toward it.
