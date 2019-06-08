@@ -1,5 +1,5 @@
 ---
-title: 'My First Pull Request: HAML'
+title: 'First Pull Request to HAML'
 date: '2014-02-19T10:00:12-06:00'
 ---
 

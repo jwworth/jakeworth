@@ -1,5 +1,5 @@
 ---
-title: 'Action Name'
+title: 'Rails Action Name Method'
 date: '2015-10-07T17:58:46-05:00'
 ---
 

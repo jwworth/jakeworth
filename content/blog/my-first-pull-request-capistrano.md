@@ -1,5 +1,5 @@
 ---
-title: 'My First Pull Request: Capistrano'
+title: 'First Pull Request to Capistrano'
 date: '2014-03-20T12:48:37-05:00'
 ---
 

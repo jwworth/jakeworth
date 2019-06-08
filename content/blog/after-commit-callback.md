@@ -1,5 +1,5 @@
 ---
-title: 'After Commit Callback'
+title: 'ActiveRecord After Commit Callback'
 date: '2015-10-05T17:08:11-05:00'
 ---
 

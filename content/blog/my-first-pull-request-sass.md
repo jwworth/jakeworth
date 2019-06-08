@@ -1,5 +1,5 @@
 ---
-title: 'My First Pull Request: SASS'
+title: 'First Pull Request to SASS'
 date: '2014-03-24T11:14:42-05:00'
 ---
 

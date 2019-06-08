@@ -1,5 +1,5 @@
 ---
-title: 'Hard Mode: Keyboard Edition'
+title: 'My Blank Keyboard'
 date: '2015-12-16T20:54:13-06:00'
 ---
 

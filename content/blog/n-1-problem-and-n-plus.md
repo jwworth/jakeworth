@@ -1,5 +1,5 @@
 ---
-title: 'N + 1 Problem and N Plus'
+title: 'The N + 1 Problem'
 date: '2015-02-22T02:30:20-06:00'
 ---
 
