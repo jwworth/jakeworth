@@ -1,5 +1,5 @@
 ---
-title: 'Reset an Ecto Heroku Database'
+title: 'Reset an Ecto Heroku Postgres Database'
 date: '2017-01-07T18:03:36-06:00'
 ---
 

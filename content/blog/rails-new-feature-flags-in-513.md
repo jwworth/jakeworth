@@ -1,5 +1,5 @@
 ---
-title: 'Rails New Feature Flags in 5.1.3'
+title: 'New Feature Flags in Rails 5.1.3'
 date: '2017-08-06T18:23:10-05:00'
 ---
 

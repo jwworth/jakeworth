@@ -1,5 +1,5 @@
 ---
-title: 'Server Side Sorting'
+title: 'Server Side Sorting in Ruby'
 date: '2016-06-28T15:02:26-05:00'
 ---
 

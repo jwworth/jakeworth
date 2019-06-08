@@ -3,7 +3,7 @@ title: 'Tilex Progress'
 date: '2017-06-05T22:54:43-05:00'
 ---
 
-First, some [background](http://www.jakeworth.com/porting-til-to-phoenix-initial-commits).
+First, some [background](https://www.jakeworth.com/porting-til-to-phoenix-initial-commits).
 
 Tilex, our Phoenix port of [Today I Learned](https://til.hashrocket.com), is coming really well. After a personal hiatus for RailsConf prep, I'm back full-swing. My coworkers have really been bringing quality commits as well, and I feel we are very close to a successful port.
 
