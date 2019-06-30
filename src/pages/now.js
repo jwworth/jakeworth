@@ -29,7 +29,6 @@ class Now extends React.Component {
             </a>
             .
           </li>
-          <li>Shipping side projects.</li>
           <li>
             Mentoring and teaching a SQL workshop once per cohort at{' '}
             <a
@@ -46,17 +45,11 @@ class Now extends React.Component {
           </li>
           <li>Studying for an AWS Academy Cloud Foundations certification.</li>
           <li>
-            Learning and writing about Ruby, Elixir,
-            JavaScript/TypeScript/React, SQL, testing, DevOps, mentorship,
-            project management, organizational leadership, public speaking,
-            ethics of technology, and algorithms.
+            Learning and writing about Elixir, React, Ruby, SQL, testing,
+            DevOps, mentorship, project management, organizational leadership,
+            public speaking, ethics of technology, and algorithms.
           </li>
         </ul>
-        <p>
-          In the past I’ve done conference speaking, and I’m always open to new
-          speaking opportunities. Contact me if you'd like me to speak at an
-          upcoming event: jake@jakeworth.com.
-        </p>
       </Layout>
     )
   }
