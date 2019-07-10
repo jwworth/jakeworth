@@ -8,10 +8,10 @@ a summary of each.
 
 - [Beyond Console Log](https://medium.com/@mattburgess/beyond-console-log-2400fdf4a9d8): a breakdown of some of the more useful alternatives to JavaScript's `console.log()`.
 - [XY Problem](http://xyproblem.info/): summary of an antipattern where a
-  person asks for help for enacting their solution to a problem, without
-  sharing the problem itself. Often the solution they are trying to enact is
-  the wrong solution, but they are asking the helper to start further down that
-  erroneous road. I've done this, and been on the receiving end of this, many
+  person asks for help enacting their solution to a problem, without sharing
+  the problem itself. Often the solution they are pursuing is the wrong
+  solution, but they're asking the helper to start helping further down that erroneous
+  road. I've done this, and been on the receiving end of this, many
   times.
 - [ReasonML: Strict, powerful and forgiving](https://www.harigopal.in/talks/2018/jsfoo): slides from Hari Gopal's intro to ReasonML at JSFoo.
 - [Google is using AI to help The New York Times digitize 5 million historical photos](https://www.theverge.com/2018/11/9/18079386/google-ai-new-york-times-digitize-archive-history-photos): brief overview of Google's work digitizing the vast library of New York Times images.
