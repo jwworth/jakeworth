@@ -71,7 +71,7 @@ class About extends React.Component {
             <em>
               <p>
                 A gem that mocks external requests for Capybara JavaScript
-                drivers. Co-written with{' '}
+                drivers. Written with{' '}
                 <a
                   href="https://www.dillonhafer.com/"
                   target="_blank"
@@ -89,9 +89,9 @@ class About extends React.Component {
             </a>
             <em>
               <p>
-                This is the test app I built for a talk at Hashrocket's Summer
-                Miniconf 2015. Its purpose is to benchmark the performance of
-                the drivers available for use with Capybara.
+                This is the application I built for a talk at Hashrocket's
+                Summer Miniconf 2015. Its purpose is to benchmark the
+                performance of drivers available for use with Capybara.
               </p>
             </em>
           </li>
@@ -198,7 +198,12 @@ class About extends React.Component {
             2018.
           </li>
           <li>
-            <em>Format Your Elixir Code Now</em>, ElixirDaze 2018, March 2018.
+            <em>
+              <a href="https://www.youtube.com/watch?v=dwphyQmD6n8">
+                Format Your Elixir Code Now
+              </a>
+            </em>
+            , ElixirDaze 2018, March 2018.
           </li>
           <li>
             <em>Format Your Elixir Code Now</em>, Chicago Elixir Meetup, January
@@ -228,8 +233,12 @@ class About extends React.Component {
             Labs (webinar), June 2017.
           </li>
           <li>
-            <em> Observing Change: A Gold Master Test in Practice</em>,
-            RailsConf, April 2017.
+            <em>
+              <a href="https://www.youtube.com/watch?v=D9awDBUQvr4">
+                Observing Change: A Gold Master Test in Practice
+              </a>
+            </em>
+            , RailsConf, April 2017.
           </li>
           <li>
             <em>SQL Workshop</em>, Code Platoon (Bravo), February 2017.
