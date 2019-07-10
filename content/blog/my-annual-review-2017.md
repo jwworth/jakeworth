@@ -30,16 +30,16 @@ I wrote a lot of React and Redux this year, and my competency with these tools
 exploded, thanks to reading this
 [cartoon](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
 about ten times and embracing the beautiful nightmare that is JavaScript. I
-loved this work and hunger for more.
+loved this work.
 
-Another exciting experience was teaching three times at [Code
+Another exciting experience was teaching at [Code
 Platoon](https://www.codeplatoon.org/) with my friend Jack Christensen.
 [Here](https://hashrocket.com/blog/posts/hashrocket-and-code-platoon) I explained this unique partnership.
 
-A personal milestone was speaking at RailsConf 2017. Here's my
+Another milestone was speaking at RailsConf 2017. Here's my
 [summary](https://hashrocket.com/blog/posts/observing-change-a-gold-master-test-in-practice)
 of that experience, including the video. I was honored to speak twelve other
-times, including at the excellent [React Chicago](meetup.com/react-chicago).
+times, including at [React Chicago](meetup.com/react-chicago).
 
 Our [Vim Chicago](https://www.meetup.com/vim-chicago/) community hosted ten
 Meetups and reached 400 members, double our size from two years ago. I loved
@@ -55,9 +55,9 @@ From last year's review:
 > [My major professional goal is to] submit twelve CFP proposals to technical
 > conferences in 2017.
 
-How did I do? I submitted eleven CFPs. Waiting until December for my final submission was a
-bad strategy, because I couldn't find any conferences accepting CFPs this month
-that matched my interests.
+In the end I submitted eleven CFPs. Waiting until December for my final
+submission was a bad strategy, because I couldn't find any conferences
+accepting CFPs this month that matched my interests.
 
 ### Next Year's Goals
 
@@ -68,18 +68,18 @@ Why this focus again? This tweet from Charity Majors echos my feelings:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The biggest boost for my career the past five years wasn&#39;t working at Facebook or being a manager, it was developing public speaking skills.</p>&mdash; Charity Majors (@mipsytipsy) <a href="https://twitter.com/mipsytipsy/status/912103246017294336?ref_src=twsrc%5Etfw">September 24, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Submitting CFPs had many incredible side effects. In the process of workshopping ideas, I prepared a group of small talks for Meetups, and learned
+Submitting CFPs had many incredible side effects. In the process of
+workshopping ideas, I prepared a group of small talks for Meetups, and learned
 a [lot](/how-i-talk). It forced me to stick with ideas for a long time,
-synthesize information, and practice commanding a room. And it led to
-an unforgettable speaking opportunity at RailsConf. Most importantly, it made me a better consultant and
-developer in ways I'm still discovering.
+synthesize, and practice commanding a room. And it led to an unforgettable
+opportunity at RailsConf. Most importantly, it made me a better developer in
+ways I'm still discovering.
 
-Why ten? They say one in ten CFPs is selected. This year I submitted
-eleven CFPs; one was selected. I'm an average submitter; recognizing this has
-been an odd relief. I'm not Sandi Metz. But I could be Stephen King, who
-submitted dozens of manuscripts before his first publication and went on to an
-illustrious career. If I want another shot, I'll need to submit at least
-another ten CFPs.
+Why ten? They say one in ten CFPs is selected. This year I submitted eleven
+CFPs; one was selected. I'm an average submitter. I'm not Sandi Metz. But I
+could be Stephen King, who submitted dozens of manuscripts before his first
+publication and went on to an illustrious career. If I want another shot, I'll
+need to submit at least another ten CFPs.
 
 ### Thank You's
 
@@ -90,7 +90,7 @@ Thanks to:
 1. Everyone at Hashrocket, and Marian Phelan for sponsoring all my quests
 1. Followers of [@hashrockettil](https://twitter.com/hashrockettil), and everyone who contributed to the Phoenix port
 1. Chris Erin and the members of Vim Chicago
-1. Dorian Karter for continuing to organize the excellent [Chicago Elixir](https://www.meetup.com/ChicagoElixir)
+1. Dorian Karter for continuing to organize [Chicago Elixir](https://www.meetup.com/ChicagoElixir)
 1. Jack Christensen for teaching at Code Platoon with me
 1. All the OSS maintainers who volunteer to make the world a better place
 1. [Elixir Radar](http://plataformatec.com.br/elixir-radar/) and [ElixirWeekly](http://plataformatec.com.br/elixir-radar/)
