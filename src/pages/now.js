@@ -13,8 +13,8 @@ class Now extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="Now" keywords={[`now`]} />
         <h1>Now</h1>
-        <p>This is what I'm working on now, inspired by Derek Sivers.</p>
-        <p>Location: Chicago, IL.</p>
+        <p>This is what I'm working on now.</p>
+        <p>Location: Chicago, IL, USA.</p>
         <p>Mantra: Ship. 📦 </p>
         <p>Here's what I'm up to:</p>
         <ul>
@@ -27,7 +27,7 @@ class Now extends React.Component {
             >
               Hashrocket
             </a>
-            .
+            , writing Elixir and Elm.
           </li>
           <li>
             Mentoring and teaching a SQL workshop once per cohort at{' '}
@@ -41,9 +41,12 @@ class Now extends React.Component {
             .
           </li>
           <li>
-            Reading <em>Work Rules!</em> by Laszlo Bock.
+            Reading <em>So Good They Can't Ignore You</em> by Cal Newport.
           </li>
-          <li>Studying for an AWS Academy Cloud Foundations certification.</li>
+          <li>
+            Preparing to take my AWS Academy Cloud Foundations certification
+            test.
+          </li>
           <li>
             Learning and writing about Elixir, React, Ruby, SQL, testing,
             DevOps, mentorship, project management, organizational leadership,
