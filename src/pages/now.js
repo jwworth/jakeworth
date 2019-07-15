@@ -44,13 +44,13 @@ class Now extends React.Component {
             Reading <em>So Good They Can't Ignore You</em> by Cal Newport.
           </li>
           <li>
-            Preparing to take my AWS Academy Cloud Foundations certification
+            Studying for an AWS Certified Developer-Associate certification
             test.
           </li>
           <li>
             Learning and writing about Elixir, React, Ruby, SQL, testing,
-            DevOps, mentorship, project management, organizational leadership,
-            public speaking, ethics of technology, and algorithms.
+            DevOps, mentorship, project management, algorithms, organizational
+            leadership, public speaking, and ethics of technology.
           </li>
         </ul>
       </Layout>
