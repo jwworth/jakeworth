@@ -44,8 +44,7 @@ class Now extends React.Component {
             Reading <em>So Good They Can't Ignore You</em> by Cal Newport.
           </li>
           <li>
-            Studying for an AWS Certified Developer-Associate certification
-            test.
+            Studying for an AWS Certified Developer-Associate certification.
           </li>
           <li>
             Learning and writing about Elixir, React, Ruby, SQL, testing,
