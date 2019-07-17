@@ -47,9 +47,10 @@ class Now extends React.Component {
             Studying for an AWS Certified Developer-Associate certification.
           </li>
           <li>
-            Learning and writing about Elixir, React, Ruby, SQL, testing,
-            DevOps, mentorship, project management, algorithms, organizational
-            leadership, public speaking, and ethics of technology.
+            Learning, writing, and speaking about Elixir, React, Ruby, SQL,
+            testing, DevOps, mentorship, project management, algorithms,
+            organizational leadership, public speaking, and ethics of
+            technology.
           </li>
         </ul>
       </Layout>
