@@ -13,7 +13,7 @@ class About extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="About" keywords={[`about`]} />
         <h1>About</h1>
-        <p>These are the projects, talks, and web profiles I'm proud of.</p>
+        <p>These are my projects, talks, and web profiles.</p>
         <h3>Projects</h3>
         <ul>
           <li>
