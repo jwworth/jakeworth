@@ -12,9 +12,6 @@ developer.
 
 ### The Plan
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Next month I&#39;m speaking at <a href="https://twitter.com/hashrocket">@hashrocket</a> Chicago about <a href="https://twitter.com/hashtag/vim?src=hash">#vim</a> + <a href="https://twitter.com/hashtag/reactjs?src=hash">#reactjs</a>! Come join me and level up your text-editing: <a href="https://t.co/5GWouSlCcl">https://t.co/5GWouSlCcl</a> <a href="https://t.co/7xouksjJhr">pic.twitter.com/7xouksjJhr</a></p>&mdash; Jake Worth (@jwworth) <a href="https://twitter.com/jwworth/status/895284804467523584">August 9, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 I'm speaking at [Vim Chicago](https://www.meetup.com/vim-chicago/) next month
 about integrating React.js with Vim, and I'd like to use that obligation as an excuse to
 write about my speaking preparation process.

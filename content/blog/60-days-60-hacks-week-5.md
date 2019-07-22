@@ -3,7 +3,7 @@ title: '60 Days 60 Hacks Week 5'
 date: '2015-06-13T14:00:32-05:00'
 ---
 
-I'm now five weeks into my learning project [#60days60hacks](https://twitter.com/search?src=typd&q=%2360Days60Hacks).
+I'm now five weeks into my learning project #60days60hacks.
 
 I've been documenting this all on [Today I Learned](http://til.hashrocket.com), a project I built with my team at Hashrocket. We recently hit 100 posts on that site, and every day Rocketeers in Jacksonville and Chicago are producing great content there. I encourage you to check it out.
 

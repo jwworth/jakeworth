@@ -3,7 +3,7 @@ title: '60 Days 60 Hacks Week 6'
 date: '2015-06-18T15:14:26-05:00'
 ---
 
-I'm now six weeks into my learning project [#60days60hacks](https://twitter.com/search?src=typd&q=%2360Days60Hacks). I'd like to take a minute and reflect.
+I'm now six weeks into my learning project #60days60hacks. I'd like to take a minute and reflect.
 
 This week I've written about Vim, RSpec, Rails, and Capybara. It's amazing how deep these tools are. You really can't know it all, and even if you could, they are constantly changing.
 

@@ -3,7 +3,7 @@ title: '60 Days 60 Hacks Week 4'
 date: '2015-06-04T23:17:05-05:00'
 ---
 
-I'm now one month into my learning project [#60days60hacks](https://twitter.com/search?src=typd&q=%2360Days60Hacks).
+I'm now one month into my learning project #60days60hacks.
 
 The bulk of my writing is now going into [Today I Learned](http://til.hashrocket.com/), a project I'll explain in greater detail in a forthcoming post. I'm still keeping the Github repo updated with posts I find personally significant.
 

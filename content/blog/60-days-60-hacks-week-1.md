@@ -3,7 +3,7 @@ title: '60 Days 60 Hacks Week 1'
 date: '2015-05-13T20:19:24-05:00'
 ---
 
-The first week of my project [#60days60hacks](https://twitter.com/search?src=typd&q=%2360Days60Hacks) is complete.
+The first week of my project #60days60hacks.
 
 Committing to learning and posting something new and useful every day has been a good exercise.
 

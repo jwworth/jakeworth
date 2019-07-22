@@ -20,8 +20,7 @@ This was an important year for me professionally; here's a summary of what I did
 - Attended Chicago JS Camp 2018 and React Boston 2018
 - Wrote a handful of blog posts for my blog and the Hashrocket blog
 - Served as a formal mentor for the fall cohort of [Code Platoon](https://www.codeplatoon.org/), which was awesome!
-- Started
-  [#100DaysofCode](https://twitter.com/search?q=%23100DaysOfCode%20from%3Ajwworth)
+- Started #100DaysofCode
   (in progress). Built two programming languages, shipped some
   projects, became obsessed with TypeScript
 - Celebrated four years at Hashrocket 🎂

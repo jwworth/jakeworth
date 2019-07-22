@@ -12,6 +12,4 @@ My goals for this project:
 
 Possible areas of study include: language design, statically typed JavaScript (Flow, TypeScript, ReasonML), automated content creation, and understanding my operating system better. I welcome any idea that pops into my head.
 
-Track my daily progress [here](https://twitter.com/search?q=%23100DaysOfCode%20from%3Ajwworth).
-
-**Update:** I [finished the challenge!](https://twitter.com/jwworth/status/1091469058409721857)
+**Update:** I finished the challenge!

@@ -37,10 +37,10 @@ listening to the people around me, and non-judgementally writing things down.
 With this mindset, I can cultivate a long list of ideas which will help me fill
 out the time and hopefully keep the audience engaged.
 
-Leading up to a talk, I like to solicit ideas from my coworkers and the general programming. I had some great conversations and received many ideas through our company Slack. The Tweet below did the same thing with the community outside my office. I think borrowing ideas from others makes your talk stronger against the inevitable blind spots we all possess.
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m speaking soon about <a href="https://twitter.com/hashtag/reactjs?src=hash">#reactjs</a> and <a href="https://twitter.com/hashtag/vim?src=hash">#vim</a>! If you&#39;re using this combo of tools, I&#39;d love to hear any tools + techniques you&#39;ve discovered...</p>&mdash; Jake Worth (@jwworth) <a href="https://twitter.com/jwworth/status/895640143528439812">August 10, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+Leading up to a talk, I like to solicit ideas from my coworkers and the general
+programming. I had some great conversations and received many ideas through our
+company Slack. Borrowing ideas from others makes your talk stronger
+against the inevitable blind spots we all possess.
 
 Here is my current brainstorm list for my talk next month. I check off an idea
 when I've researched it, regardless of whether or not it survives and makes it 
