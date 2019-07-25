@@ -168,6 +168,9 @@ class About extends React.Component {
         <h3>Talks</h3>
         <ul>
           <li>
+            <em>SQL Workshop</em>, Code Platoon (Juliet), September 2019.
+          </li>
+          <li>
             <em>Hashrocket Developer Survey 2019</em>, Hashrocket Summer
             Miniconf, June 2019.
           </li>
