@@ -33,7 +33,7 @@ Often in Ruby, we are using a method that invokes a given block.  The methods <c
 
 This is fine, but there is a more concise expression, known as the Ruby <code>Symbol#to_proc</code> method.  From the Ruby 2.1.3 <a href='http://www.ruby-doc.org/core-2.1.3/Symbol.html'>documentation</a>, the <code>to_proc</code> method 'returns a Proc object which respond to the given method by sym.'  Here it is in action:
 
-```
+```ruby
 [1,2,3,4,5].select(&:odd?) #=> [1,3,5]
 ```
 

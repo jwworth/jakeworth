@@ -19,7 +19,7 @@ Here's the short version:
 
 For more info, check out the Vim help pages for each:
 
-```
+```vim
 :help syn-keyword
 :help syn-match
 :help syn-region

@@ -1,10 +1,13 @@
 import React from 'react'
+import Prism from 'prismjs'
 import { Link, graphql } from 'gatsby'
 
 import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import { rhythm } from '../utils/typography'
+
+import '../../css/prism.css'
 
 class BlogIndex extends React.Component {
   render() {

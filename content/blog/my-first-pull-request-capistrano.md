@@ -5,7 +5,7 @@ date: '2014-03-20T12:48:37-05:00'
 
 The makers of <a href='http://capistranorb.com/'>Capistrano</a> describe it as a 'remote server and automation tool written in Ruby'.  Capistrano allows you to script repetitive tasks, such as the many steps needed to deploy.  Here is a command I run frequently:
 
-```
+```shell
 $ bundle exec cap internal deploy
 ```
 
@@ -21,13 +21,13 @@ The first step I took was to fork the <a href='https://github.com/capistrano/cap
 
 Next, I cloned the fork to my computer.
 
-```
+```shell
 $ git clone https://github.com/jwworth/capistrano.git
 ```
 
 To start work, I changed into the new capistrano directory, switched my Ruby to a newer version (2.1.0) using RVM, and installed the bundle.
 
-```
+```shell
 $ cd capistrano
 $ rvm use 2.1.0
 $ bundle install
@@ -35,7 +35,7 @@ $ bundle install
 
 Once all of the gems were installed, it was time to run the test suite:
 
-```
+```shell
 $ bundle exec rake
 ```
 
@@ -45,7 +45,7 @@ I made my changes to the project and was ready to commit.  I did not include tes
 
 I like to commit my changes to a dedicated feature branch.  To do that, I use 'git stash'.  From the master branch:
 
-```
+```shell
 $ git stash
 $ git checkout -b task/fix_typos
 $ git stash apply
@@ -55,7 +55,7 @@ $ git commit
 
 I wrote a simple commit message: 'Fix some typos'.  Next I dropped the stash and pushed to origin.
 
-```
+```shell
 $ git stash drop
 $ git push origin
 ```

@@ -63,6 +63,7 @@ round_robin('Denver', 'New England', 'Jacksonville', 'Green Bay', 'San Diego')
 -- Green Bay vs. San Diego
 -- 10 games
 ```
+
 https://gist.github.com/jwworth/5b9d80f514a15efc780d
 
 Thanks Josh Branchaud for posting this challenge.

@@ -7,9 +7,10 @@ Today, using parts of this [Gist](https://gist.github.com/caniszczyk/3856584) I
 found a command to clone all the repos in a Github organization. Here it is,
 tested on Ruby 2.3:
 
-```
-$ curl -u <your-username> -s  https://api.github.com/orgs/<target-org>/repos?per_page=200 | \
-ruby -rubygems -e 'require "json"; JSON.load(STDIN.read).each \
+```shell
+$ curl -u <your-username> -s |\
+https://api.github.com/orgs/<target-org>/repos?per_page=200 | \
+ruby -rubygems -e 'require "json"; JSON.load(STDIN.read).each | \
 { |repo| %x[git clone \"#{repo["ssh_url"]}\" ]}'
 ```
 
