@@ -9,7 +9,7 @@ I've already contributed once to this project, so I had a fork and local repo re
 
 To do this, I needed to sync my fork with the project.  Step one was to verify that I didn't have an upstream already set.
 
-```sh
+```shell
 $ git remote -v
 origin  ssh://git@github.com/jwworth/sinatra-contrib.git (fetch)
 origin  ssh://git@github.com/jwworth/sinatra-contrib.git (push)
@@ -17,13 +17,13 @@ origin  ssh://git@github.com/jwworth/sinatra-contrib.git (push)
 
 This lists each remote that is set with the tag 'verbose' (give me more information').  My only remote was my fork, 'origin', so I set an upstream.
 
-```sh
+```shell
 $ git remote add upstream https://github.com/sinatra/sinatra-contrib
 ```
 
 Running the 'remote' command again, I saw my upstream:
 
-```sh
+```shell
 $ git remote -v
 origin  ssh://git@github.com/jwworth/sinatra-contrib.git (fetch)
 origin  ssh://git@github.com/jwworth/sinatra-contrib.git (push)
@@ -33,7 +33,7 @@ upstream  https://github.com/sinatra/sinatra-contrib (push)
 
 Next, I fetched the changes:
 
-```sh
+```shell
 $ git fetch upstream
 remote: Counting objects: 1, done.
 remote: Total 1 (delta 0), reused 1 (delta 0)
@@ -50,7 +50,7 @@ From https://github.com/sinatra/sinatra-contrib
 
 You can do a lot of things at this step, but my goal was to get the 'upstream' changes and merge them into my 'downstream' master branch.
 
-```sh
+```shell
 $ git merge upstream/master
 Updating dc38ff1..1094b86
 Fast-forward
