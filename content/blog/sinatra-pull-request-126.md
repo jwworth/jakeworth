@@ -61,7 +61,7 @@ Fast-forward
 
 Next I installed the bundle (output omitted) and ran the tests.
 
-```sh
+```shell
 $ bundle install
 $ bundle exec rake
 
