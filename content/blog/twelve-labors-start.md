@@ -35,7 +35,7 @@ Today I'll be looking at the first file in the program, `start.rb`.
 
 The `README` declares that to start the program, we type:
 
-```
+```shell
 $ ruby start.rb
 ```
 

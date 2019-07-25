@@ -9,7 +9,7 @@ https://github.com/ggreer/the_silver_searcher/pull/782
 
 Silver Searcher can be installed on OSX with Homebrew and is a fantastic command line search tool. Here's a search I wrote recently to hunt down Ruby getter methods:
 
-```
+```shell
 $ ag 'def (\w+);?\s+@\1;?\s+end'
 ```
 
@@ -17,7 +17,7 @@ $ ag 'def (\w+);?\s+@\1;?\s+end'
 
 My pull request adds support for the RDoc file extension, which is common in many Ruby projects, including Rails. If it gets merged, the following search will be scoped only to RDoc files.
 
-```
+```shell
 $ ag 'foo' --rdoc
 ```
 

@@ -15,7 +15,7 @@ My approach was to create a test database for the app, the same size and configu
 
 First, provision a new test database for the app.
 
-```sh
+```shell
 $ heroku addons:add heroku-postgresql:standard-yanari --app my-custom-app
 Adding heroku-postgresql:standard-yanari on my-custom-app... done, v77 ($50/mo)
 Attached as HEROKU_POSTGRESQL_GREEN_URL
@@ -30,7 +30,7 @@ Note, the new database is known as 'HEROKU_POSTGRESQL_GREEN_URL'; for reference,
 
 Next, turn on maintenance mode to prevent users from modifying the database.
 
-```sh
+```shell
 $ heroku maintenance:on --app my-custom-app
 ```
 
@@ -38,7 +38,7 @@ You can verify this by going to the website and looking for a maintenance page.
 
 Next, fire up a Rails console.  We are going to both count the users and create a new user as a checksum against the test database.  If it's a legitimate copy, the data should transfer.
 
-```sh
+```shell
 $ heroku run rails c --app my-custom-app
 Running `rails c` attached to terminal... up, run.5324
 Loading production environment (Rails 3.2.18)
@@ -52,7 +52,7 @@ Notice that the username contains the user count (2411), a hack to help me remem
 
 Next, verify that we have backups running regularly (I set them to run daily a few weeks ago):
 
-```sh
+```shell
 $ heroku pgbackups --app my-custom-app
 ID    Backup Time                Status                                Size    Database
 ----  -------------------------  ------------------------------------  ------  -----------------------------------------
@@ -70,7 +70,7 @@ Looks like we have a bunch of daily backups.
 
 Next, capture a backup of the database:
 
-```sh
+```shell
 $ heroku pgbackups:capture --app my-custom-app
 
 HEROKU_POSTGRESQL_CYAN_URL (DATABASE_URL)  ----backup--->  b002
@@ -82,7 +82,7 @@ Storing... done
 
 Then, verify that the backup exists:
 
-```sh
+```shell
 $ heroku pgbackups --app my-custom-app
 ID    Backup Time                Status                                Size    Database
 ----  -------------------------  ------------------------------------  ------  -----------------------------------------
@@ -99,7 +99,7 @@ b002  2014/08/06 20:10.11 +0000  Finished @ 2014/08/06 20:10.42 +0000  13.3MB  H
 
 It's the last backup on the list, 'b002'.  Next, restore the backup onto the empty test database.
 
-```sh
+```shell
 $ heroku pgbackups:restore HEROKU_POSTGRESQL_GREEN_URL b002 --app my-custom-app
 
 HEROKU_POSTGRESQL_GREEN_URL  <---restore---  b002
@@ -119,14 +119,14 @@ Restoring... done
 
 Next, promote the test database, telling Heroku to direct requests there.
 
-```sh
+```shell
 $ heroku pg:promote HEROKU_POSTGRESQL_GREEN_URL --app my-custom-app
 Promoting HEROKU_POSTGRESQL_GREEN_URL to DATABASE_URL... done
 ```
 
 To verify that this database is operational and valid, fire up another Rails console.
 
-```sh
+```shell
 $ heroku run rails c --app my-custom-app
 Running `rails c` attached to terminal... up, run.5324
 Loading production environment (Rails 3.2.18)
@@ -142,14 +142,14 @@ The user count is 2412, one more than the production database was before I creat
 
 I also verified through the UI that the checksum user existed (you must turn maintenance mode off to do this, of course).  If you want to skip this step, continue by promoting the production database:
 
-```sh
+```shell
 $ heroku pg:promote HEROKU_POSTGRESQL_CYAN_URL --app my-custom-app
 Promoting HEROKU_POSTGRESQL_CYAN_URL to DATABASE_URL... done
 ```
 
 And disable maintenance mode:
 
-```sh
+```shell
 $ heroku maintenance:off --app my-custom-app
 Disabling maintenance mode for my-custom-app... done
 ```

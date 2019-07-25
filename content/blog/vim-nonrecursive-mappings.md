@@ -9,14 +9,14 @@ For context, vim-termbux is a plugin by my friend Dillon Hafer that emulates the
 
 My patch changes this:
 
-```viml
+```vim
 nmap <leader>t :call <SID>ITermTestRunnerLine()<cr>
 nmap <leader>T :call <SID>ITermTestRunnerFile()<cr>
 ```
 
 To this:
 
-```viml
+```vim
 nnoremap <leader>t :call <SID>ITermTestRunnerLine()<cr>
 nnoremap <leader>T :call <SID>ITermTestRunnerFile()<cr>
 ```

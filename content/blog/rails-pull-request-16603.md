@@ -11,7 +11,7 @@ I was browsing the Github Issues page for the project, and noticed a call for co
 
 To start work on a contribution, I opened my local fork of Rails and updated my master branch:
 
-```
+```shell
 $ git fetch upstream
 $ git merge upstream/master
 ```
@@ -24,7 +24,7 @@ Because of the contribution request, I was also searching for ways to improve th
 
 I like editing, and I'm using Vim 100% these days, so this soon devolved into me trying to augment my brain with Vim technology. I picked up a tool in the process, Vim spell checking:
 
-```
+```vim
 :setlocal spell :wqspelllang=en_us
 :set background=dark
 ```

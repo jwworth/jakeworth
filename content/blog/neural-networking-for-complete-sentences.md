@@ -29,7 +29,7 @@ expensive on a new iMac.
 
 Here's the output:
 
-```
+```javascript
 > net.run("I'm Stil.");
 "incomplete"
 > net.run("Great job!")

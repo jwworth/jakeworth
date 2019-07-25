@@ -13,7 +13,7 @@ Next, I ran the tests, which failed.  When this happens, it's tempting to assume
 
 The failure message was 'this method is depreciated'.  From past experiences, this seemed Ruby-related.  Sure enough, switching from Ruby 2.1.0 to Ruby 1.9.3 fixed it.
 
-```sh
+```shell
 $ rvm use ruby-1.9.3-p448
 $ bundle exec rake
 ```
@@ -26,7 +26,7 @@ Many teams won't accept commits that only remove whitespace, arguing that the ga
 
 I wanted a script to find and fix the whitespace. After some reading, I found <a href='http://stackoverflow.com/questions/10711051/trailing-whitespace-elimination-script-for-multiple-files'>this post</a> and tweaked the command as such:
 
-```sh
+```shell
 $ find . -type f -name '*.rb' -exec sed --in-place 's/[[:space:]]+$//' {} +
 ```
 

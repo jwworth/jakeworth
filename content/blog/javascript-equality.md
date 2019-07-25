@@ -32,7 +32,7 @@ constructor function:
      threequals: yValue === xValue,
    }))
  );
- ```
+```
 
 What I do here is create an array of arrays, `comparatorArray`, that has all
 the comparators (`true`, `false`, etc.) in the axis, in order, with as many

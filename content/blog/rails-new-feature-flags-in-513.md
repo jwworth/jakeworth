@@ -9,7 +9,7 @@ How? With some interesting feature flags. Here are three of my favorites. A few 
 
 ### Skip Yarn
 
-```sh
+```shell
 [--skip-yarn], [--no-skip-yarn] # Don't use Yarn for managing JavaScript dependencies
 ```
 
@@ -17,7 +17,7 @@ As this flag implies, [Yarn](https://yarnpkg.com/en/) has replaced NPM as the de
 
 ### API
 
-```sh
+```shell
 [--api], [--no-api] # Preconfigure smaller stack for API only apps
 ```
 
@@ -25,7 +25,7 @@ According to the [documentation](http://edgeguides.rubyonrails.org/api_app.html)
 
 ### Webpack with Options
 
-```sh
+```shell
 [--webpack=WEBPACK] # Preconfigure for app-like JavaScript with Webpack (options: react/vue/angular)
 ```
 

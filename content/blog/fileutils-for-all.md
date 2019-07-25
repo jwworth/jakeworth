@@ -9,7 +9,7 @@ The problem comes when a Windows developer joins the project. Windows does not h
 
 Ruby’s `FileUtils` library to the rescue:
 
-```
+```ruby
 FileUtils.rm_rf(‘build/assets/ui’)
 ```
 

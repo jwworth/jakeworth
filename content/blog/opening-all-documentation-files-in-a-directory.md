@@ -9,9 +9,9 @@ Last week I was reading Rails source code, and wondered: <em>would it be possibl
 
 The first step was to define what kind of files have the content I need.  Rails uses '.rdoc' and '.md' files for documentation, so that's what I wanted to look at.
 
-I used the <code>find</code> command for my search (only 10 results are shown):
+I used the `find` command for my search (only 10 results are shown):
 
-```sh
+```shell
 $ find -name *.md -o -name *.rdoc
 ./railties/CHANGELOG.md
 ./railties/RDOC_MAIN.rdoc
@@ -30,7 +30,7 @@ My goals was to open every file in this list with a text editor.
 
 This is the command I tried:
 
-```sh
+```shell
 $ find -name *.md -o -name *.rdoc | subl
 ```
 
@@ -38,11 +38,11 @@ This command executes the arguments on the left side of the pipe (find every fil
 
 After some research, I learned that programs do not accept STDIN arguments by default. A program must be deliberately designed to accept STDIN arguments, which takes development time and energy.  Looks like the Sublime Text team chose the simplest solution: let the command line worry about parsing user input.
 
-Just as I was about to abandon the idea, I found a helpful <a href='http://unix.stackexchange.com/questions/93334/why-cant-certain-programs-like-readlink-take-input-from-a-pipe'>Stack Exchange thread</a>, which pointed me to the <code>xargs</code> command.  <code>xargs</code> takes a program that only accepts command-line arguments, and makes it accept STDIN.
+Just as I was about to abandon the idea, I found a helpful <a href='http://unix.stackexchange.com/questions/93334/why-cant-certain-programs-like-readlink-take-input-from-a-pipe'>Stack Exchange thread</a>, which pointed me to the `xargs` command. `xargs` takes a program that only accepts command-line arguments, and makes it accept STDIN.
 
 Here is the command I ran, which opened in my text editor every '.md' and '.rdoc' file (71 in Rails):
 
-```sh
+```shell
 $ find -name *.rdoc -o -name *.md | xargs subl
 ```
 
