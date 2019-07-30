@@ -1,6 +1,6 @@
 ---
 title: 'Pangram in TypeScript'
-date: '2019-29-07T22:54:43-05:00'
+date: '2019-07-29T02:54:43-05:00'
 ---
 
 I've been doing Exercism's TypeScript exercises, and wanted to share some of my
