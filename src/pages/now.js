@@ -41,16 +41,17 @@ class Now extends React.Component {
             .
           </li>
           <li>
-            Reading <em>So Good They Can't Ignore You</em> by Cal Newport.
+            Reading <em>The Shallows</em> by Nicholas Carr.
           </li>
           <li>
-            Studying for an AWS Certified Developer-Associate certification.
+            Building my first mobile application, a React Native meditation
+            timer.
           </li>
           <li>
-            Learning, writing, and speaking about Elixir, React, Ruby, SQL,
-            testing, DevOps, mentorship, project management, algorithms,
-            organizational leadership, public speaking, and ethics of
-            technology.
+            Learning, writing, and speaking about Elixir, React, Ruby,
+            TypeScript, SQL, testing, DevOps, mentorship, project management,
+            algorithms, organizational leadership, public speaking, and ethics
+            of technology.
           </li>
         </ul>
       </Layout>
