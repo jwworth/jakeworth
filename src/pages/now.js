@@ -27,7 +27,7 @@ class Now extends React.Component {
             >
               Hashrocket
             </a>
-            , writing Elixir and Elm.
+            , writing Elixir.
           </li>
           <li>
             Mentoring and teaching a SQL workshop once per cohort at{' '}
