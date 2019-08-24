@@ -76,6 +76,10 @@ into the final presentation.
 
 Most of these ideas aren't good. But they give me options.
 
+This is a brain exercise, so don't be tired, distracted, or under any kind of
+pressure.
+
+
 ### Record Everything
 
 I use [GTD](http://gettingthingsdone.com/) for taking notes in a physical
