@@ -27,7 +27,7 @@ class Now extends React.Component {
             >
               Hashrocket
             </a>
-            , writing Elixir.
+            , writing Elixir, Elm, and SQL.
           </li>
           <li>
             Mentoring and teaching a SQL workshop once per cohort at{' '}
@@ -41,17 +41,17 @@ class Now extends React.Component {
             .
           </li>
           <li>
-            Reading <em>The Shallows</em> by Nicholas Carr.
+            Reading every piece of writing about React state that I can find.
           </li>
           <li>
-            Building my first mobile application, a React Native meditation
-            timer.
+            Preparing a talk on React Hooks for{' '}
+            <a href="https://www.ancientcityruby.com/">Ancient City Ruby</a>.
           </li>
           <li>
             Learning, writing, and speaking about Elixir, React, Ruby,
-            TypeScript, SQL, testing, DevOps, mentorship, project management,
-            algorithms, organizational leadership, public speaking, and ethics
-            of technology.
+            TypeScript, Elm, SQL, testing, DevOps, mentorship, project
+            management, algorithms, organizational leadership, public speaking,
+            and ethics of technology.
           </li>
         </ul>
       </Layout>
