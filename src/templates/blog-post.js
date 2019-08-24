@@ -6,6 +6,8 @@ import Layout from '../components/Layout'
 import SEO from '../components/seo'
 import { rhythm, scale } from '../utils/typography'
 
+import '../../css/prism.css'
+
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
