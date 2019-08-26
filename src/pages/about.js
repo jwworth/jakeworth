@@ -353,15 +353,6 @@ class About extends React.Component {
               Meetup
             </a>
           </li>
-          <li>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              href="https://www.quora.com/profile/Jake-Worth"
-            >
-              Quora
-            </a>
-          </li>
         </ul>
       </Layout>
     )
