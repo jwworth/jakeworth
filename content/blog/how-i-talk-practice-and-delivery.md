@@ -14,27 +14,37 @@ delivery.
 In the time I've been writing this series, Gary Bernhardt published an
 outstanding blog post, [How to Prepare a
 Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk). Gary hits
-most of the major points I would make. I'd recommend it to any aspiring speaker.
+most of the major points I would make. I'd recommend it to any aspiring
+speaker.
 
-TL;DR, practice is key. I rehearse each section of my talk at least five times, and then run through the entire
-talk without stopping another 10-20 times prior to any presentation. I do every rehearsal with a timer, at a podium,
-projecting my slides onto something (even just a television screen), wearing
-the type of clothing I'll be wearing at the presentation.
+Practice is everything. I rehearse each section of my talk at least five times,
+and then run through the entire talk without stopping another 10-20 times prior
+to any presentation. I do every rehearsal with a timer, at a podium, projecting
+my slides onto something (even just a television screen), even wearing the type
+of clothing I'll be wearing at the presentation.
 
-I practice setting up my equipment including plugging in the HDMI cable or Airplay,
-putting my devices into Airplane mode, setting up live coding, and switching
-viewports and display preferences. These mundane tasks can seem impossible 
-when standing in front of 300 people.
+I practice setting up my equipment, including plugging in the HDMI cable or
+Airplay, putting my devices into Airplane/silent mode, setting up live coding,
+and switching display preferences. These little things can be hard to do
+smoothly when standing in front of 300 people.
 
 I practice handling loss of Internet, my presentation software crashing, and
-the loss of my actual computer.
+even losing my physical computer.
 
-I practice staying in a time window by writing timestamps (*T: 10:30*) in the presenter notes of each transition point in the talk.
-If I'm ahead of the timestamp, I breathe and drink water. If I'm
-behind, I speed up and start policing my ad libs.
+I practice staying in a time window by writing timestamps (for example: *T:
+10:30*) in the presenter notes of each transition point in the talk. If I'm
+ahead of the timestamp, I breathe and drink water. If I'm behind, I speed up
+and start policing my digressions.
 
-Every minute of my talk has been practiced again and again. It's the only
-way I know how to present, and it works for me.
+Every minute of my talk has been practiced again and again. It's the only way I
+know how to present, and it works.
+
+If you get a chance, deliver the talk once to a real audience. For a Meetup
+talk, deliver it first to your coworkers or friends. For a conference talk,
+deliver it once at a Meetup. Leave time for Q & A in the practice run; the
+questions your audience asks are very valuable. Answer them preemptively on
+the next run, or add a section addressing common counterarguments or edge
+cases. The end result will be a tighter, stronger argument.
 
 ### Delivery
 
