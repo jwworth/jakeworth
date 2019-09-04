@@ -38,6 +38,12 @@ To run in production mode:
 $ yarn prod
 ```
 
+Generate a new blog post in Vim:
+
+```
+:Eblog my-title-slug
+```
+
 ### Testing
 
 Run the [Cypress](https://www.cypress.io/) integration tests:
