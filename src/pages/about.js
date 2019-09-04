@@ -168,8 +168,12 @@ class About extends React.Component {
         <h3>Talks</h3>
         <ul>
           <li>
-            <em>Functioning in React: A Deep-Dive into useState</em>, Ancient
-            City Ruby, October 2019.
+            <em>
+              <a href="https://www.ancientcityruby.com/">
+                Functioning in React: A Deep-Dive into useState
+              </a>
+            </em>
+            , Ancient City Ruby, October 2019.
           </li>
           <li>
             <em>Functioning in React: A Deep-Dive into useState</em>, Chicago
