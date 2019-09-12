@@ -44,7 +44,7 @@ Here's my playlist of resources that shaped my understanding of TDD.
 - [Roman Numerals Kata - Jim Weirich][kata]: Master Rubyist Jim Weirich
   live-codes a Ruby programming puzzle using TDD. This is where my concept of _naive
   implementation_ comes from.
-  - [Exercism][exercism]: Exercism is an open source project designed to help
+- [Exercism][exercism]: Exercism is an open source project designed to help
   people get better at algorithms, and all exercises are test-driven. Because
   it's initially so counterintuitive, deliberate practice is the key to TDD. This is a
   great resource to get that practice.
