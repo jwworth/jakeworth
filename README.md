@@ -30,12 +30,22 @@ To run in development mode:
 
 ```shell
 $ yarn dev
+
+
+
+
+
 ```
 
 To run in production mode:
 
 ```shell
 $ yarn prod
+
+
+
+
+ 
 ```
 
 Generate a new blog post in Vim:
