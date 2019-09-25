@@ -3,8 +3,13 @@ title: 'How I Talk: Practice and Delivery'
 date: '2018-03-07T19:06:14-06:00'
 ---
 
-This post is part of a series about preparing technical talks; the introduction
-is [here](/how-i-talk).
+I'm writing a blog post series about preparing technical talks, here are the five parts:
+
+1. [How I Talk](/how-i-talk)
+1. [Finding an idea](/how-i-talk-finding-an-idea)
+1. [Brainstorming](/how-i-talk-brainstorming)
+1. [Researching and preparing slides](/how-i-talk-researching-and-preparing-slides)
+1. [Practice and Delivery](/how-i-talk-practice-and-delivery)
 
 Today, I'll be covering the final steps of my process: practice and
 delivery.

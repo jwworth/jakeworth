@@ -11,7 +11,6 @@ I'm writing a blog post series about preparing technical talks, here are the fiv
 1. [Researching and preparing slides](/how-i-talk-researching-and-preparing-slides)
 1. [Practice and Delivery](/how-i-talk-practice-and-delivery)
 
-
 Today, I'll be covering the third step of my process: researching and preparing
 slides.
 
