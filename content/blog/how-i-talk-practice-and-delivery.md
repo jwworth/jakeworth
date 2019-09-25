@@ -14,8 +14,7 @@ delivery.
 In the time I've been writing this series, Gary Bernhardt published an
 outstanding blog post, [How to Prepare a
 Talk](https://www.deconstructconf.com/blog/how-to-prepare-a-talk). Gary hits
-most of the major points I would make. I'd recommend it to any aspiring
-speaker.
+most of the major points I would make. I'd recommend it.
 
 Practice is everything. I rehearse each section of my talk at least five times,
 and then run through the entire talk without stopping another 10-20 times prior
@@ -24,20 +23,17 @@ my slides onto something (even just a television screen), even wearing the type
 of clothing I'll be wearing at the presentation.
 
 I practice setting up my equipment, including plugging in the HDMI cable or
-Airplay, putting my devices into Airplane/silent mode, setting up live coding,
-and switching display preferences. These little things can be hard to do
-smoothly when standing in front of 300 people.
+Airplay, putting my devices into Airplane/Do Not Disturb/silent mode, setting
+up live coding, and switching display preferences. These little things can be
+hard to do smoothly when standing in front of 300 people.
 
 I practice handling loss of Internet, my presentation software crashing, and
-even losing my physical computer.
+even losing my computer.
 
-I practice staying in a time window by writing timestamps (for example: *T:
-10:30*) in the presenter notes of each transition point in the talk. If I'm
-ahead of the timestamp, I breathe and drink water. If I'm behind, I speed up
-and start policing my digressions.
-
-Every minute of my talk has been practiced again and again. It's the only way I
-know how to present, and it works.
+I practice staying in a time window by writing timestamps like *T: 10:30* in
+the presenter notes of each transition point in the talk. If I'm ahead of the
+timestamp, which is usually the case, I breathe and drink water. If I'm behind,
+I speed up.
 
 If you get a chance, deliver the talk once to a real audience. For a Meetup
 talk, deliver it first to your coworkers or friends. For a conference talk,
@@ -48,16 +44,13 @@ cases. The end result will be a tighter, stronger argument.
 
 ### Delivery
 
-If I've been practicing, delivery is an afterthought. When
-I'm onstage, I feel unstoppable, despite nerves. There are some
-great tips in the aforementioned blog post about eating and
-drinking. My best advice is to practice. Practice, so that you can enjoy actual the moment onstage.
+If I've been practicing, delivery is an afterthought. Knowing that I've put on
+the time makes me feel unstoppable. My only advice is to practice. Practice, so
+that you can enjoy the moment.
 
-Two techniques I avoid: live coding (or technical stunts of any kind) and audience Q & A.
-Both of these bring uncertainty (and energy) into a live talk. I
-avoid them because I don't feel seasoned enough onstage to control the hairy
-situations that can arise when I share control with extra hardware, software,
-and other people. I've seen it go wrong many times.
+Two techniques I avoid: live coding or technical stunts of any kind, and
+audience Q & A in the final performance. Both of these bring uncertainty into a
+live talk. I avoid them because I've seen it go wrong many times.
 
 ### Conclusion
 
