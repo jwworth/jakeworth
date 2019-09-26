@@ -41,10 +41,7 @@ class Now extends React.Component {
             .
           </li>
           <li>
-            Reading every piece of writing about React state that I can find.
-          </li>
-          <li>
-            Preparing a talk on React Hooks for{' '}
+            Rehearsing a talk on React's state hook for{' '}
             <a href="https://www.ancientcityruby.com/">Ancient City Ruby</a>.
           </li>
           <li>
