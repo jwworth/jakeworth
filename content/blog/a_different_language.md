@@ -11,7 +11,7 @@ I'll try to explain this phenomenon.
 Programming is not a language like JavaScript or Python; those are dialects
 that describe a mother tongue called Computer Science. CS is a rag-bag of names
 for abstract concepts like classes, functions, and state. Learning to code
-means learning much of these names up front.
+means learning many of these names up front.
 
 The names are baffling to listen to because they describe ideas that have
 almost no analogy in human life. They are uniquely inhuman, because few things
