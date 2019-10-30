@@ -2,12 +2,16 @@ import Typography from 'typography'
 import Wordpress2016 from 'typography-theme-wordpress-2016'
 
 Wordpress2016.overrideThemeStyles = () => {
+  const pantoneColorOfTheYear = '#ff6f61'
   return {
     'a.gatsby-resp-image-link': {
       boxShadow: `none`,
     },
     body: {
       color: '#3d3e44',
+    },
+    a: {
+      color: pantoneColorOfTheYear,
     },
   }
 }
