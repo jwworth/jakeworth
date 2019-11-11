@@ -50,6 +50,10 @@ class Now extends React.Component {
             .
           </li>
           <li>
+            Reading <em>Originals: How Non-Conformists Move the World</em> by
+            Adam Grant.
+          </li>
+          <li>
             Learning, writing, and speaking about Elixir, React, Ruby,
             TypeScript, SQL, Vim, testing, DevOps, mentorship, project
             management, algorithms, organizational leadership, public speaking,
