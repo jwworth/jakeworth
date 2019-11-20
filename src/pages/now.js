@@ -15,7 +15,6 @@ class Now extends React.Component {
         <h1>Now</h1>
         <p>This is what I'm working on now.</p>
         <p>Location: Chicago, IL, USA.</p>
-        <p>Mantra: Ship. 📦 </p>
         <p>Here's what I'm up to:</p>
         <ul>
           <li>
@@ -30,6 +29,10 @@ class Now extends React.Component {
             , writing Ruby, Elixir, React.
           </li>
           <li>
+            Reading <em>Design Concepts in Programming Languages</em> by Turbak,
+            Gifford, and Sheldon.
+          </li>
+          <li>
             Mentoring and teaching a SQL workshop once per cohort at{' '}
             <a
               href="https://www.codeplatoon.org/"
@@ -41,17 +44,13 @@ class Now extends React.Component {
             .
           </li>
           <li>
-            Organizing the{' '}
-            <a href="https://www.meetup.com/vim-chicago/">Vim Chicago Meetup</a>
-            .
-          </li>
-          <li>
             Maintaining <a href="https://til.hashrocket.com">Today I Learned</a>
             .
           </li>
           <li>
-            Reading <em>Originals: How Non-Conformists Move the World</em> by
-            Adam Grant.
+            Organizing the{' '}
+            <a href="https://www.meetup.com/vim-chicago/">Vim Chicago Meetup</a>
+            .
           </li>
           <li>
             Learning, writing, and speaking about Elixir, React, Ruby,
