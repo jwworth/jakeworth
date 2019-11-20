@@ -3,7 +3,7 @@ title: 'Scrapp Reboot'
 date: '2015-05-19T22:57:57-05:00'
 ---
 
-Over the past month I completely overhauled [Scrapp](https://scrapp.herokuapp.com).
+Over the past month I completely overhauled [Scrapp](https://github.com/jwworth/scrapp).
 
 I wrote Scrapp on a train to Champaign-Urbana, as a demo of my skills as a junior developer.
 

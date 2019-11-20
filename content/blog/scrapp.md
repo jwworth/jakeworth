@@ -3,7 +3,7 @@ title: 'Scrapp'
 date: '2014-09-03T19:45:55-05:00'
 ---
 
-Today I am announcing the launch of <a href='https://scrapp.herokuapp.com'>Scrapp</a>.  Scrapp is an app for tracking Scrabble games.  It allows you to record players, scores, and bingos, with more features in development.
+Today I am announcing the launch of <a href='https://github.com/jwworth/scrapp'>Scrapp</a>.  Scrapp is an app for tracking Scrabble games.  It allows you to record players, scores, and bingos, with more features in development.
 
 My inspiration for this project was <a href='https://github.com/seanmoon/pivot-pong'>Pivot Pong</a> by Pivotal Labs.  Pivot Pong tracks inter-office ping-pong games, and it serves as a living example of how Pivotal Labs approaches problems.
 
