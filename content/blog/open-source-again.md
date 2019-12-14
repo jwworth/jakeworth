@@ -26,4 +26,4 @@ time I push to master, the app is deployed. This allows me to make changes on
 GitHub with my phone, or merge [Dependabot](https://dependabot.com/) PRs, and
 deploy to production automatically.
 
-Hope someone finds in helpful.
+I hope someone finds it helpful.
