@@ -2,7 +2,8 @@ import Typography from 'typography'
 import Wordpress2016 from 'typography-theme-wordpress-2016'
 
 Wordpress2016.overrideThemeStyles = () => {
-  const pantoneColorOfTheYear = '#ff6f61'
+  const _pantoneColorOfTheYear2019 = '#ff6f61'
+  const pantoneColorOfTheYear2020 = '#0f4c81'
   return {
     'a.gatsby-resp-image-link': {
       boxShadow: `none`,
@@ -11,7 +12,7 @@ Wordpress2016.overrideThemeStyles = () => {
       color: '#3d3e44',
     },
     a: {
-      color: pantoneColorOfTheYear,
+      color: pantoneColorOfTheYear2020
     },
   }
 }
