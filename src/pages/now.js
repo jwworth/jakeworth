@@ -12,9 +12,8 @@ const Now = props => {
     <Layout location={props.location} title={siteTitle}>
       <SEO title="Now" keywords={[`now`]} />
       <h1>Now</h1>
-      <p>This is what I'm working on now.</p>
-      <p>Location: Chicago, IL, USA.</p>
-      <p>Here's what I'm up to:</p>
+      <p>Home base: Chicago, IL, USA.</p>
+      <p>This is what I'm doing on now:</p>
       <ul>
         <li>
           Working at{' '}
@@ -25,14 +24,12 @@ const Now = props => {
           >
             Hashrocket
           </a>
-          , writing Ruby, Elixir, React.
+          , writing Ruby, Elixir, and React.
         </li>
+        <li>Developing side projects.</li>
         <li>
-          Reading <em>Design Concepts in Programming Languages</em> by Turbak,
-          Gifford, and Sheldon.
-        </li>
-        <li>
-          Mentoring and teaching a SQL workshop once per cohort at{' '}
+          Mentoring a veteran programmer and teaching a SQL workshop once each
+          per cohort at{' '}
           <a
             href="https://www.codeplatoon.org/"
             target="_blank"
@@ -50,8 +47,11 @@ const Now = props => {
           <a href="https://www.meetup.com/vim-chicago/">Vim Chicago Meetup</a>.
         </li>
         <li>
-          Learning, writing, and speaking about Elixir, React, Ruby, TypeScript,
-          SQL, Vim, testing, DevOps, mentorship, project management, algorithms,
+          <a href="https://www.swyx.io/writing/learn-in-public/">
+            Learning in public
+          </a>{' '}
+          about Elixir, React, Ruby, TypeScript, SQL, Vim, testing, DevOps,
+          mentorship, project management, algorithms, language design,
           organizational leadership, public speaking, and the ethics of
           technology.
         </li>
