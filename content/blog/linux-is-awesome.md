@@ -7,7 +7,7 @@ I've been using Linux (Ubuntu 10.04 LTS and 12.04 LTS) for almost a year.  It's 
 
 For a user, Linux is great because it gives you so much power.  If I want to get software upgrades, I run:
 
-```shell
+```
 $ sudo apt-get update
 $ sudo apt-get upgrade
 ```

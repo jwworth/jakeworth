@@ -5,7 +5,7 @@ date: '2018-07-11T10:49:00-05:00'
 
 My current favorite command line alias is `mgrim`, composed of four other aliases:
 
-```shell
+```
 alias gmr='gco master && gpr && gco - && git rebase master'
 alias grim='git rebase -i master'
 alias mgrim='gmr && grim'

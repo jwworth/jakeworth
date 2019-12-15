@@ -18,7 +18,7 @@ My best guess is that, when an ExUnit test fails at compile time (as my test did
 
 In the meantime, the Ruby project shows how `git bisect run` can successfully work. Issuing the following command, from a state where the regression test is an untracked file (such as `HEAD^`):
 
-```shell
+```
 $ git bisect start HEAD HEAD~13
 $ git bisect run ruby test/regression_test.rb
 ```
