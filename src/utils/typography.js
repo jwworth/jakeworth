@@ -12,7 +12,7 @@ Wordpress2016.overrideThemeStyles = () => {
       color: '#3d3e44',
     },
     a: {
-      color: pantoneColorOfTheYear2020
+      color: pantoneColorOfTheYear2020,
     },
   }
 }
