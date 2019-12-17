@@ -13,7 +13,7 @@ const Now = props => {
       <SEO title="Now" keywords={[`now`]} />
       <h1>Now</h1>
       <p>Home base: Chicago, IL, USA.</p>
-      <p>This is what I'm doing on now:</p>
+      <p>This is what I'm working on now:</p>
       <ul>
         <li>
           Working at{' '}
