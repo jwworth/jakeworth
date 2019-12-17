@@ -4,40 +4,38 @@ import React from 'react'
 
 import { rhythm } from '../utils/typography'
 
-function Bio() {
-  return (
-    <StaticQuery
-      query={bioQuery}
-      render={data => {
-        const { author, social } = data.site.siteMetadata
-        return (
-          <div
+const Bio = () => (
+  <StaticQuery
+    query={bioQuery}
+    render={data => {
+      const { author, social } = data.site.siteMetadata
+      return (
+        <div
+          style={{
+            display: `flex`,
+            marginBottom: rhythm(2.5),
+          }}
+        >
+          <Image
+            fixed={data.avatar.childImageSharp.fixed}
+            alt={author}
             style={{
-              display: `flex`,
-              marginBottom: rhythm(2.5),
+              marginRight: rhythm(1 / 2),
+              marginBottom: 0,
+              minWidth: 50,
+              borderRadius: `100%`,
             }}
-          >
-            <Image
-              fixed={data.avatar.childImageSharp.fixed}
-              alt={author}
-              style={{
-                marginRight: rhythm(1 / 2),
-                marginBottom: 0,
-                minWidth: 50,
-                borderRadius: `100%`,
-              }}
-            />
-            <p>
-              I'm <strong>{author}</strong>, a developer at Hashrocket based in
-              Chicago. <Link to={`/`}>Blog</Link>{' '}
-              <Link to={`/about/`}>About</Link> <Link to={`/now/`}>Now</Link>
-            </p>
-          </div>
-        )
-      }}
-    />
-  )
-}
+          />
+          <p>
+            I'm <strong>{author}</strong>, a developer at Hashrocket based in
+            Chicago. <Link to={`/`}>Blog</Link>{' '}
+            <Link to={`/about/`}>About</Link> <Link to={`/now/`}>Now</Link>
+          </p>
+        </div>
+      )
+    }}
+  />
+)
 
 const bioQuery = graphql`
   query BioQuery {
