@@ -167,6 +167,9 @@ const About = props => {
       <h3>Talks</h3>
       <ul>
         <li>
+          <em>WebAssembly 101</em>, Hashrocket Winter Miniconf, January 2019.
+        </li>
+        <li>
           <em>Functioning in React: A Deep-Dive into useState</em>, Ancient City
           Ruby, October 2019.
         </li>
