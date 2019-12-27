@@ -4,7 +4,7 @@
   "description": "Weblog of Jake Worth, a developer at Hashrocket based in Chicago",
   "version": "1.0.0",
   "engines": {
-    "node": "10.16.3"
+    "node": "10.17.0"
   },
   "author": "Jake Worth <jake@jakeworth.com>",
   "bugs": {
