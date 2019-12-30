@@ -1,7 +1,7 @@
 {
   "name": "jakeworth",
   "private": true,
-  "description": "Weblog of Jake Worth, a developer at Hashrocket based in Chicago",
+  "description": "Blog of Jake Worth, a Chicago-based web developer.",
   "version": "1.0.0",
   "engines": {
     "node": "10.16.3"

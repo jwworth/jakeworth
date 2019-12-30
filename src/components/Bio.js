@@ -27,8 +27,8 @@ const Bio = () => (
             }}
           />
           <p>
-            I'm <strong>{author}</strong>, a developer at Hashrocket based in
-            Chicago. <Link to={`/`}>Blog</Link>{' '}
+            I'm <a href="https://twitter.com/jwworth/">{author}</a>, a
+            Chicago-based web developer. <Link to={`/`}>Blog</Link>{' '}
             <Link to={`/about/`}>About</Link> <Link to={`/now/`}>Now</Link>
           </p>
         </div>
