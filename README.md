@@ -1,26 +1,25 @@
-# jakeworth
+# [jakeworth][production-url]
 
-This is the source code for my developer's blog, available here:
+This is the source code for my developer's blog. It is forked from the [Gatsby blog
+starter][blog-starter].
 
-https://www.jakeworth.com
+Here's my intention, from the [first post][first-post].
 
-Here's my intention, from the [first post](http://www.jakeworth.com/hello-world):
-
-> I’ve been writing code for a few years now, and am proud to be launching my own
-> developer’s blog.
+> I've been writing code for a few years now, and am proud to be launching my
+> own developer’s blog.
 >
-> The developer’s blog is a time-honored tradition in the world of software, and
-> I am indebted to the many great programmers whose blogs I read.  Our community
-> is incredible at sharing information.  My goal with this blog is to provide
-> something of similar value, while building a record of the solutions I've found
-> for future reference.
+> The developer’s blog is a time-honored tradition in the world of software,
+> and I am indebted to the many great programmers whose blogs I read. Our
+> community is incredible at sharing information. My goal with this blog is to
+> provide something of similar value, while building a record of the solutions
+> I've found for future reference.
 >
 > I am a web developer working in Ruby on Rails, but am interested in a broad
 > range of topics, including responsive design, performance, testing, database
 > management, continuous integration, source control, open source contribution
-> and operating systems, automation, 'startup life', and much more.  I hope to
-> use this platform to share the challenges and triumphs I’ve experienced in
-> front of a computer screen.  Thank you for reading.
+> and operating systems, automation, 'startup life', and much more. I hope to
+> use this platform to share the challenges and triumphs I've experienced in
+> front of a computer screen. Thank you for reading.
 >
 > *Feb 9, 2014*
 
@@ -38,7 +37,7 @@ To run in production mode:
 $ yarn prod
 ```
 
-Generate a new blog post in Vim:
+Generate a new blog post in Vim (requires [vim-projectionist][projectionist]):
 
 ```
 :Eblog my-title-slug
@@ -46,7 +45,7 @@ Generate a new blog post in Vim:
 
 ### Testing
 
-Run the [Cypress](https://www.cypress.io/) integration tests:
+Run the [Cypress][cypress] integration tests:
 
 ```
 $ yarn test
@@ -54,4 +53,11 @@ $ yarn test
 
 ### License
 
-This project is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+This project is released under the [MIT License][mit].
+
+[blog-starter]: https://github.com/gatsbyjs/gatsby-starter-blog
+[cypress]: https://www.cypress.io/
+[first-post]: https://www.jakeworth.com/hello-world
+[mit]: http://www.opensource.org/licenses/MIT
+[production-url]: https://www.jakeworth.com/
+[projectionist]: https://github.com/tpope/vim-projectionist
