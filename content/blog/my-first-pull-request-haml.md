@@ -39,7 +39,7 @@ don't plan to be working that long on the fix.
 
 Next I cloned the fork to my machine, using:
 
-```shell
+```
 $ git clone https://github.com/jwworth/haml
 ```
 
@@ -49,14 +49,14 @@ didn't have the right version of Ruby it needed.
 
 I installed Ruby 2.1.0 using RVM:
 
-```shell
+```
 $ rvm install 2.1.0
 $ rvm use 2.1.0
 ```
 
 Next I installed the bundle of gems needed to support HAML.
 
-```shell
+```
 $ bundle install
 ```
 
@@ -64,7 +64,7 @@ This complained several times about various dependencies I was missing, which is
 
 Once `bundle install` finished, it was time to run the test suite.
 
-```shell
+```
 $ rake
 ```
 
@@ -83,13 +83,13 @@ Great– tests are passing. I now should be able to tell if my changes break any
 
 Next I created a task branch for my changes.
 
-```shell
+```
 $ git checkout -b task/fix_typos
 ```
 
 I found and fixed a handful of other typos while reading the documentation, which made my submission feel more significant. With the changes complete, it's time to commit them.
 
-```shell
+```
 $ git add .
 $ git commit
 ```
@@ -98,7 +98,7 @@ This launched Vim, where I wrote this commit message: <strong>Fix some typos [ci
 
 Next I pushed my changes to origin.
 
-```shell
+```
 $ git push origin
 ```
 

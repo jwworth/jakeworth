@@ -54,7 +54,7 @@ Any time you need a round-robin assignment you can use Secret Santa.  I will be 
 
 Here is a cool trick.  With most shells you can run this:
 
-```shell
+```
 $ rake && git push && say 'upload complete'
 ````
 

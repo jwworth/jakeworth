@@ -5,32 +5,32 @@ date: '2014-04-08T23:44:42-05:00'
 
 One tool that I love allows you to take the output of a terminal command and save it in a file.  That command is:
 
-```shell
+```
 $ command > filename
 ```
 
 An example:
 
-```shell
+```
 $ ps aux > data.txt
 ```
 
 This runs the command <code>ps aux</code> and sends the output to a file 'data.txt'.  If that file exists, it will be overwritten; if it doesn't exist, it will be created.  You can check the output using <code>cat</code>:
 
-```shell
+```
 $ cat data.txt
 process status (ps) for all users (a), with owner (u), and processes not attached to the terminal (x)
 ```
 
 Another helpful modification is to replace <code>></code> with <code>>></code>, like this:
 
-```shell
+```
 $ ifconfig >> data.txt
 ```
 
 This command takes the output of the <code>ifconfig</code> command and <em>appends</em> it to the end of 'data.txt'.  Like the first command, if that file doesn't exist, it will be created.  Inspecting that file once again with <code>cat</code>:
 
-```shell
+```
 $ cat data.txt
 process status (ps) for all users (a), with owner (u), and processes not attached to the terminal (x) + interface configuration (ifconfig)
 ```

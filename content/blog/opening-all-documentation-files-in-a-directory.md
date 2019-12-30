@@ -11,7 +11,7 @@ The first step was to define what kind of files have the content I need.  Rails 
 
 I used the `find` command for my search (only 10 results are shown):
 
-```shell
+```
 $ find -name *.md -o -name *.rdoc
 ./railties/CHANGELOG.md
 ./railties/RDOC_MAIN.rdoc
@@ -30,7 +30,7 @@ My goals was to open every file in this list with a text editor.
 
 This is the command I tried:
 
-```shell
+```
 $ find -name *.md -o -name *.rdoc | subl
 ```
 
@@ -42,7 +42,7 @@ Just as I was about to abandon the idea, I found a helpful <a href='http://unix.
 
 Here is the command I ran, which opened in my text editor every '.md' and '.rdoc' file (71 in Rails):
 
-```shell
+```
 $ find -name *.rdoc -o -name *.md | xargs subl
 ```
 

@@ -19,7 +19,7 @@ Prior to the merge, the pull request branch can be pretty messy. We can fix this
 
 Check out this branch:
 
-```shell
+```
 * 724d574 (HEAD -> issue/38) Good to merge!
 * e2af5ac Refactoring the previous commit
 * 3e36475 Test are passing here
@@ -36,13 +36,13 @@ Let's squash it!
 
 We'll use  `git rebase`, interactive mode, going back to the start of our branch (six commits in the past):
 
-```shell
+```
 $ git rebase -i HEAD~6
 ```
 
 This opens our `git-rebase-todo`:
 
-```shell
+```
 pick 4c7ead2 Test breaker
 pick 77aee1d Ooops
 pick ea479cb Revert "Ooops"
@@ -83,7 +83,7 @@ Here's some notes on these commits:
 
 With this in mind, I'd edit this file as such:
 
-```shell
+```
 pick 4c7ead2 Test breaker
 d 77aee1d Ooops
 d ea479cb Revert "Ooops"
@@ -96,7 +96,7 @@ This will delete (`d`) our two useless commits, and squash (`s`) all four useful
 
 Save and close the file, and you'll be in a new commit message editing window, with all four messages available:
 
-```shell
+```
 # This is a combination of 4 commits.
 # The first commit's message is:
 Test breaker
@@ -128,7 +128,7 @@ Good to merge!
 
 Time to write the squash message. If the issue at hand is issue #38, 'Back button is broken', then I'd change the first line of this file to this:
 
-```shell
+```
 Fixes the back button
 
 Close #38
@@ -142,13 +142,13 @@ Close #38
 
 Here's our revised history:
 
-```shell
+```
 * 4e763d3 (HEAD -> issue/38) Fixes the back button
 ```
 
 Much better! Force push it to Github, which we can do because we're on our own feature branch:
 
-```shell
+```
 $ git push -f
 ```
 
@@ -158,7 +158,7 @@ Now we have a clean pull request that's ready to merge.
 
 Is your rebase going wrong? Don't panic. You can abort the rebase with:
 
-```shell
+```
 $ git rebase --abort
 ```
 

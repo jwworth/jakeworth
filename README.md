@@ -28,13 +28,13 @@ Here's my intention, from the [first post](http://www.jakeworth.com/hello-world)
 
 To run in development mode:
 
-```shell
+```
 $ yarn dev
 ```
 
 To run in production mode:
 
-```shell
+```
 $ yarn prod
 ```
 
@@ -48,7 +48,7 @@ Generate a new blog post in Vim:
 
 Run the [Cypress](https://www.cypress.io/) integration tests:
 
-```shell
+```
 $ yarn test
 ```
 

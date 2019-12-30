@@ -10,10 +10,10 @@ pre-rendered markdown.
 
 In five years I've taken this site from WordPress to Rails, and now to Gatsby.
 
-Why change (twice)? For me, blogging has a side benefit of giving me a CMS to
-maintain. I feel driven to make that platform cutting edge, fun, and relevant. I've
-been writing 100% React for almost two years, and so this transition feels
-inevitable.
+Why change, twice? For me, blogging has a side benefit of giving me my own CMS
+to maintain. I feel driven to ensure that platform is cutting-edge, fun to use,
+and relevant to my field. I've been writing 100% React for almost two years,
+and so this transition feels inevitable.
 
 What do I lose in the trade? I lose a Rails app to maintain, and a handful of
 CRUD features I built. Right now that's an acceptable tradeoff. The Rails code

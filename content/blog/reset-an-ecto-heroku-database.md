@@ -9,31 +9,31 @@ This blog post assumes you already have the Heroku Toolbelt and an Ecto-supporte
 
 First, make sure you deploy the breaking changes:
 
-```shell
+```
 $ git push <your_remote> master
 ```
 
 To drop a Heroku database, first we need the name of the database. `DATABASE_URL` is specific enough if there's only one, but I think it's a best practice to reference the specific database you're attempting to destroy, every time.
 
-```shell
+```
 $ heroku pg:info
 ```
 
 This will return something like `Add-on: postgresql-subtle-59939`– that's the name of our database. Drop it with:
 
-```shell
+```
 $ heroku pg:reset postgresql-subtle-59939
 ```
 
 Next, migrate the database:
 
-```shell
+```
 $ heroku run mix ecto.migrate
 ```
 
 Finally, if you have database seeds, run them:
 
-```shell
+```
 $ heroku run "POOL_SIZE=2 mix run priv/repo/seeds.exs"
 ```
 
