@@ -8,6 +8,17 @@ import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 
+const AVERAGEWPM = 200
+
+const minutesToRead = html => {
+  const placeholder = document.createElement('div')
+  placeholder.innerHTML = html
+  const wordCount = placeholder.textContent.split(' ').length
+  const minutes = Math.ceil(wordCount / AVERAGEWPM)
+
+  return `${minutes} min read`
+}
+
 const BlogPostTemplate = props => {
   const post = props.data.markdownRemark
   const siteTitle = props.data.site.siteMetadata.title
@@ -25,7 +36,7 @@ const BlogPostTemplate = props => {
           marginTop: rhythm(-1),
         }}
       >
-        {post.frontmatter.date}
+        {post.frontmatter.date} • {minutesToRead(post.html)}
       </p>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
       <hr
