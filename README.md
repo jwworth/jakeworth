@@ -6,7 +6,7 @@ starter][blog-starter].
 Here's my intention, from the [first post][first-post].
 
 > I've been writing code for a few years now, and am proud to be launching my
-> own developer’s blog.
+> own developer's blog.
 >
 > The developer’s blog is a time-honored tradition in the world of software,
 > and I am indebted to the many great programmers whose blogs I read. Our
