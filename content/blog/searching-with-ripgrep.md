@@ -1,6 +1,6 @@
 ---
 title: 'Searching with Ripgrep'
-date: '2019-12-31T00:00:00-06:00'
+date: '2019-12-30T00:00:00-06:00'
 ---
 
 I've been using [Ripgrep][rg] on my work machine, and for pure performance,
