@@ -11,7 +11,7 @@ year. Here are my notes from this year's review.
 Here are my milestones from 2019. This year, I:
 
 - [Ported my blog](/gatsby-port) from Rails to Gatsby.js. I am ecstatic about
-  this change! Writing React and markdown, and deploying with GitHub, makes for
+  this change. Writing React and markdown, and deploying with GitHub, makes for
   an effortless workflow. I also [open sourced](/open-source-again) the
   codebase ([source code](https://github.com/jwworth/jakeworth)). I'd love some
   PR's or issues on the repo.
@@ -35,9 +35,9 @@ Here are my milestones from 2019. This year, I:
   video forthcoming I hope. I'm averaging once conference presentation a year,
   which feels right. Thanks for the opportunity to share, ACR.
 - Mentored four Code Platoon veterans. Proud to have been a part of your
-  journey, Ben, Kyle, Christian, and Hal! Good luck out there.
+  journey, Ben, Kyle, Christian, and Hal. Good luck out there.
 - Taught SQL three times at Code Platoon with my friend Jack Christensen.
-- Got paid to write Elixir code for the first time!
+- Got paid by a client to write Elixir code for the first time.
 - Attended my first RubyConf with coworkers and friends old and new. Spent some
   one-on-one time with my programming idols.
 
@@ -54,10 +54,10 @@ learned in the past and reflected on again this year.
   point, a lot of programmers want to take the skills they've learned and build
   something personal and audacious, and 2019 was the year I crossed that
   threshold. Consulting provides me with the time and inspiration to make such
-  an investment. Watch this space!
+  an investment. Watch this space.
 - It's better to be working with difficult technology, than a difficult team.
   Applies to many disciplines, including programming.
-- Elixir is a fantastic language to work on professionally! Also, an
+- Elixir is a fantastic language to work on professionally. Also, an
   application written in any language, even a basically perfect language like
   Elixir, can have it's edges.
 - Reading technical books consistently requires small, sustained effort every
