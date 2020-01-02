@@ -59,7 +59,7 @@ learned in the past and reflected on again this year.
   Applies to many disciplines, including programming.
 - Elixir is a fantastic language to work on professionally. Also, an
   application written in any language, even a basically perfect language like
-  Elixir, can have it's edges.
+  Elixir, can have its edges.
 - Reading technical books consistently requires small, sustained effort every
   day.
 - If I drink coffee after noon, I don't fall asleep. ☕️
