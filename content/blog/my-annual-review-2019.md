@@ -32,7 +32,7 @@ Here are my milestones from 2019. This year, I:
 - Spoke at Ancient City Ruby 2019 about React.js. My preparation included some
   of the most challenging source diving I've ever done. My slides are
   [here](https://speakerdeck.com/jwworth/functioning-in-react-a-deep-dive-into-usestate);
-  video forthcoming I hope. I'm averaging once conference presentation a year,
+  video forthcoming I hope. I'm averaging one conference presentation a year,
   which feels right. Thanks for the opportunity to share, ACR.
 - Mentored four Code Platoon veterans. Proud to have been a part of your
   journey, Ben, Kyle, Christian, and Hal. Good luck out there.
