@@ -366,6 +366,15 @@ const About = props => {
             Meetup
           </a>
         </li>
+        <li>
+          <a
+            target="_blank"
+            rel="noopener noreferrer"
+            href="https://jwworth.yelp.com/"
+          >
+            Yelp
+          </a>
+        </li>
       </ul>
     </Layout>
   )
