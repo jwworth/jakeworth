@@ -2,6 +2,7 @@ import { graphql } from 'gatsby'
 import React from 'react'
 
 import Layout from '../components/Layout'
+import LinkListItem from '../components/LinkListItem'
 import SEO from '../components/seo'
 
 const About = props => {
@@ -285,96 +286,40 @@ const About = props => {
 
       <h3>Jake Around the 'Net</h3>
       <ul>
-        <li>
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://github.com/jwworth"
-          >
-            GitHub
-          </a>
-        </li>
-        <li>
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://hashrocket.com/blog/rocketeers/jake-worth"
-          >
-            Hashrocket Blog
-          </a>
-        </li>
-        <li>
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://stackoverflow.com/users/2112512/jake-worth"
-          >
-            Stack Overflow
-          </a>
-        </li>
-        <li>
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://til.hashrocket.com/authors/jakeworth"
-          >
-            Today I Learned
-          </a>
-        </li>
-        <li>
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://twitter.com/jwworth"
-          >
-            Twitter
-          </a>
-        </li>
-        <li>
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://www.linkedin.com/in/jakeworth"
-          >
-            LinkedIn
-          </a>
-        </li>
-        <li>
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://speakerdeck.com/jwworth"
-          >
-            Speaker Deck
-          </a>
-        </li>
-        <li>
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://exercism.io/profiles/jwworth"
-          >
-            Exercism
-          </a>
-        </li>
-        <li>
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://www.meetup.com/members/12542589/"
-          >
-            Meetup
-          </a>
-        </li>
-        <li>
-          <a
-            target="_blank"
-            rel="noopener noreferrer"
-            href="https://jwworth.yelp.com/"
-          >
-            Yelp
-          </a>
-        </li>
+        <LinkListItem displayName="GitHub" href="https://github.com/jwworth" />
+        <LinkListItem
+          displayName="Hashrocket Blog"
+          href="https://hashrocket.com/blog/rocketeers/jake-worth"
+        />
+        <LinkListItem
+          displayName="Stack Overflow"
+          href="https://stackoverflow.com/users/2112512/jake-worth"
+        />
+        <LinkListItem
+          displayName="Today I Learned"
+          href="https://til.hashrocket.com/authors/jakeworth"
+        />
+        <LinkListItem
+          displayName="Twitter"
+          href="https://twitter.com/jwworth"
+        />
+        <LinkListItem
+          displayName="LinkedIn"
+          href="https://www.linkedin.com/in/jakeworth"
+        />
+        <LinkListItem
+          displayName="Speaker Deck"
+          href="https://speakerdeck.com/jwworth"
+        />
+        <LinkListItem
+          displayName="Exercism"
+          href="https://exercism.io/profiles/jwworth"
+        />
+        <LinkListItem
+          displayName="Meetup"
+          href="https://www.meetup.com/members/12542589/"
+        />
+        <LinkListItem href="https://jwworth.yelp.com/" displayName="Yelp" />
       </ul>
     </Layout>
   )
