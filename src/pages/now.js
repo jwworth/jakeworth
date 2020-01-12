@@ -16,7 +16,7 @@ const Now = props => {
       <p>This is what I'm working on now:</p>
       <ul>
         <li>
-          Working at{' '}
+          Coding and consulting for{' '}
           <a
             href="https://hashrocket.com/"
             target="_blank"
@@ -28,8 +28,7 @@ const Now = props => {
         </li>
         <li>Developing side projects.</li>
         <li>
-          Mentoring a veteran programmer and teaching a SQL workshop once each
-          per cohort at{' '}
+          Teaching and volunteering at{' '}
           <a
             href="https://www.codeplatoon.org/"
             target="_blank"
@@ -40,7 +39,8 @@ const Now = props => {
           .
         </li>
         <li>
-          Maintaining <a href="https://til.hashrocket.com">Today I Learned</a>.
+          Writing for and maintaining{' '}
+          <a href="https://til.hashrocket.com">Today I Learned</a>.
         </li>
         <li>
           Organizing the{' '}
@@ -50,8 +50,8 @@ const Now = props => {
           <a href="https://www.swyx.io/writing/learn-in-public/">
             Learning in public
           </a>{' '}
-          about Elixir, React, Ruby, TypeScript, SQL, Vim, testing, DevOps,
-          mentorship, project management, algorithms, language design,
+          about Elixir, React, Ruby, TypeScript, WebAssembly, SQL, Vim, testing,
+          DevOps, mentorship, project management, algorithms, language design,
           organizational leadership, public speaking, and the ethics of
           technology.
         </li>
