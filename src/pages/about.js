@@ -13,7 +13,7 @@ const About = props => {
     <Layout location={props.location} title={siteTitle}>
       <SEO title="About" keywords={[`about`]} />
       <h1>About</h1>
-      <p>These are my favorite projects, talks, and web profiles.</p>
+      <p>These are my favorite projects, talks, and profiles.</p>
       <h3>Projects</h3>
       <ul>
         <li>
@@ -225,42 +225,58 @@ const About = props => {
         </li>
       </ul>
 
-      <h3>Jake Around the 'Net</h3>
+      <h3>Profiles</h3>
       <ul>
-        <LinkListItem displayName="GitHub" href="https://github.com/jwworth" />
         <LinkListItem
+          description="Home to most of my code."
+          displayName="GitHub"
+          href="https://github.com/jwworth"
+        />
+        <LinkListItem
+          description="Writing about code and culture for Hashrocket."
           displayName="Hashrocket Blog"
           href="https://hashrocket.com/blog/rocketeers/jake-worth"
         />
         <LinkListItem
+          description="Helping people fix React and Ruby code."
           displayName="Stack Overflow"
           href="https://stackoverflow.com/users/2112512/jake-worth"
         />
         <LinkListItem
+          description="Writing about what I learn each day."
           displayName="Today I Learned"
           href="https://til.hashrocket.com/authors/jakeworth"
         />
         <LinkListItem
+          description="Announcements, conversations, and ideas."
           displayName="Twitter"
           href="https://twitter.com/jwworth"
         />
         <LinkListItem
+          description="My professional profile."
           displayName="LinkedIn"
           href="https://www.linkedin.com/in/jakeworth"
         />
         <LinkListItem
+          description="Slides from my better talks."
           displayName="Speaker Deck"
           href="https://speakerdeck.com/jwworth"
         />
         <LinkListItem
+          description="My solutions to small code challenges in a variety of langauges."
           displayName="Exercism"
           href="https://exercism.io/profiles/jwworth"
         />
         <LinkListItem
+          description="Meet me IRL at Vim Chicago and other Meetups."
           displayName="Meetup"
           href="https://www.meetup.com/members/12542589/"
         />
-        <LinkListItem href="https://jwworth.yelp.com/" displayName="Yelp" />
+        <LinkListItem
+          description="Reviewing local businesses that I care about."
+          displayName="Yelp"
+          href="https://jwworth.yelp.com/"
+        />
       </ul>
     </Layout>
   )
