@@ -147,47 +147,29 @@ const About = props => {
       <h3>Talks</h3>
       <ul>
         <li>
-          <em>WebAssembly 101</em>, Hashrocket Winter Miniconf, January 2019.
+          <em>SQL Workshop</em>, Code Platoon (Bravo, Charlie, Delta, Foxtrot,
+          Golf, Hotel, India, Juliet, and Kilo cohorts), 2017—2019.
         </li>
         <li>
-          <em>Functioning in React: A Deep-Dive into useState</em>, Ancient City
-          Ruby, October 2019.
+          <em>WebAssembly 101</em>, Hashrocket Winter Miniconf, 2019.
         </li>
         <li>
           <em>Functioning in React: A Deep-Dive into useState</em>, Chicago
-          JavaScript Meetup, September 2019.
-        </li>
-        <li>
-          <em>SQL Workshop</em>, Code Platoon (Juliet), September 2019.
+          JavaScript Meetup / Ancient City Ruby, 2019.
         </li>
         <li>
           <em>Hashrocket Developer Survey 2019</em>, Hashrocket Summer Miniconf,
-          June 2019.
-        </li>
-        <li>
-          <em>SQL Workshop</em>, Code Platoon (India), May 2019.
-        </li>
-        <li>
-          <em>SQL Workshop</em>, Code Platoon (Hotel), February 2019.
+          2019.
         </li>
         <li>
           <em>Writing a Programming Language</em>, Hashrocket Winter Miniconf,
-          December 2018.
+          2018.
         </li>
         <li>
-          <em>Introducing Hooks</em>, React Chicago Meetup, November 2018.
+          <em>Introducing Hooks</em>, React Chicago Meetup, 2018.
         </li>
         <li>
-          <em>SQL Workshop</em>, Code Platoon (Golf), September 2018.
-        </li>
-        <li>
-          <em>Weekly Team Retros</em>, Hashrocket Summer Miniconf, July 2018.
-        </li>
-        <li>
-          <em>SQL Workshop</em>, Code Platoon (Foxtrot), May 2018.
-        </li>
-        <li>
-          <em>Format Your Elixir Code Now</em>, Atlanta Elixir Meetup, May 2018.
+          <em>Weekly Team Retros</em>, Hashrocket Summer Miniconf, 2018.
         </li>
         <li>
           <em>
@@ -195,34 +177,19 @@ const About = props => {
               Format Your Elixir Code Now
             </a>
           </em>
-          , ElixirDaze 2018, March 2018.
-        </li>
-        <li>
-          <em>Format Your Elixir Code Now</em>, Chicago Elixir Meetup, January
+          , Chicago Elixir Meetup / ElixirDaze 2018 / Atlanta Elixir Meeetup,
           2018.
         </li>
         <li>
-          <em>React.js + Vim</em>, Vim Chicago Meetup, November 2017.
-        </li>
-        <li>
-          <em>SQL Workshop</em>, Code Platoon (Delta), October 2017.
-        </li>
-        <li>
-          <em>React.js + Vim</em>, React Chicago Meetup, September 2017.
+          <em>React.js + Vim</em>, React Chicago Meetup, Vim Chicago Meetup,
+          2017.
         </li>
         <li>
           <em>From Troops to Tech: A Panel of Chicago Veterans In Tech</em>,
-          Chicago Veteran Developers Meetup, September 2017.
+          Chicago Veteran Developers Meetup, 2017.
         </li>
         <li>
-          <em>State of the TIL</em>, Hashrocket Summer Miniconf, June 2017.
-        </li>
-        <li>
-          <em>SQL Workshop</em>, Code Platoon (Charlie), June 2017.
-        </li>
-        <li>
-          <em>Observing Change: A Gold Master Test in Practice</em>, Sauce Labs
-          (webinar), June 2017.
+          <em>State of the TIL</em>, Hashrocket Summer Miniconf, 2017.
         </li>
         <li>
           <em>
@@ -230,36 +197,31 @@ const About = props => {
               Observing Change: A Gold Master Test in Practice
             </a>
           </em>
-          , RailsConf, April 2017.
-        </li>
-        <li>
-          <em>SQL Workshop</em>, Code Platoon (Bravo), February 2017.
+          , RailsConf / Sauce Labs (webinar), 2017.
         </li>
         <li>
           <em>Integration Testing with Wallaby</em>, Chicago Elixir Meetup,
-          February 2017.
+          2017.
         </li>
         <li>
-          <em>Git + Vim with Vim-Fugitive</em>, Vim Chicago Meetup, October
-          2016.
+          <em>Git + Vim with Vim-Fugitive</em>, Vim Chicago Meetup, 2016.
         </li>
         <li>
-          <em>Dive into Vim Language Plugins</em>, Vim Chicago Meetup, April
-          2016.
+          <em>Dive into Vim Language Plugins</em>, Vim Chicago Meetup, 2016.
+        </li>
+        <li>
+          <em>Military to Programmer</em>, Code Platoon (Alpha cohort), 2016.
         </li>
         <li>
           <em>Test Driven Development/Pair Programming Workshop</em>, Code
-          Platoon (Alpha), February 2016.
+          Platoon (Alpha cohort), 2016.
         </li>
         <li>
-          <em>Military to Programmer</em>, Code Platoon (Alpha), February 2016.
-        </li>
-        <li>
-          <em>Introduction to Vim</em>, Vim Chicago Meetup, November 2015.
+          <em>Introduction to Vim</em>, Vim Chicago Meetup, 2015.
         </li>
         <li>
           <em>Capybara Driver Benchmarking</em>, Hashrocket Summer Miniconf,
-          June 2015.
+          2015.
         </li>
       </ul>
 
