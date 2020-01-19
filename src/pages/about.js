@@ -1,6 +1,8 @@
 import { graphql } from 'gatsby'
 import React from 'react'
 
+import '../../css/videos.css'
+
 import Layout from '../components/Layout'
 import LinkListItem from '../components/LinkListItem'
 import SEO from '../components/seo'
@@ -174,7 +176,7 @@ const About = props => {
         <li>
           <em>Format Your Elixir Code Now</em>, Chicago Elixir Meetup /
           ElixirDaze 2018 / Atlanta Elixir Meeetup, 2018.
-          <div style={{ marginTop: '1rem' }}>
+          <div class="video-container">
             <iframe
               width="560"
               height="315"
@@ -199,7 +201,7 @@ const About = props => {
         <li>
           <em>Observing Change: A Gold Master Test in Practice</em>, RailsConf /
           Sauce Labs (webinar), 2017.
-          <div style={{ marginTop: '1rem' }}>
+          <div class="video-container">
             <iframe
               width="560"
               height="315"
