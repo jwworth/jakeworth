@@ -13,7 +13,7 @@ const About = props => {
     <Layout location={props.location} title={siteTitle}>
       <SEO title="About" keywords={[`about`]} />
       <h1>About</h1>
-      <p>These are my projects, talks, and web profiles.</p>
+      <p>These are my favorite projects, talks, and web profiles.</p>
       <h3>Projects</h3>
       <ul>
         <li>
@@ -96,16 +96,6 @@ const About = props => {
           </em>
         </li>
         <li>
-          <a href="https://github.com/jwworth/typescript-node-module-starter">
-            TypeScript Node Module Starter
-          </a>
-          <em>
-            <p>
-              Kick off a new Node module, with TypeScript and Jest included.
-            </p>
-          </em>
-        </li>
-        <li>
           <a href="https://javascript-equality.herokuapp.com/">
             JavaScript Equality
           </a>
@@ -138,17 +128,6 @@ const About = props => {
                 Conway's Game of Life
               </a>{' '}
               in React.js and TypeScript.
-            </p>
-          </em>
-        </li>
-        <li>
-          <a href="https://opening-day-progressbar.herokuapp.com/">
-            Opening Day Progress Bar
-          </a>
-          <em>
-            <p>
-              A Gatsby React.js app that tracks how close we are to MLB Opening
-              Day.
             </p>
           </em>
         </li>
