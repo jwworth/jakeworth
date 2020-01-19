@@ -172,13 +172,18 @@ const About = props => {
           <em>Weekly Team Retros</em>, Hashrocket Summer Miniconf, 2018.
         </li>
         <li>
-          <em>
-            <a href="https://www.youtube.com/watch?v=dwphyQmD6n8">
-              Format Your Elixir Code Now
-            </a>
-          </em>
-          , Chicago Elixir Meetup / ElixirDaze 2018 / Atlanta Elixir Meeetup,
-          2018.
+          <em>Format Your Elixir Code Now</em>, Chicago Elixir Meetup /
+          ElixirDaze 2018 / Atlanta Elixir Meeetup, 2018.
+          <div style={{ marginTop: '1rem' }}>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/dwphyQmD6n8"
+              frameborder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            />
+          </div>
         </li>
         <li>
           <em>React.js + Vim</em>, React Chicago Meetup, Vim Chicago Meetup,
@@ -192,13 +197,20 @@ const About = props => {
           <em>State of the TIL</em>, Hashrocket Summer Miniconf, 2017.
         </li>
         <li>
-          <em>
-            <a href="https://www.youtube.com/watch?v=D9awDBUQvr4">
-              Observing Change: A Gold Master Test in Practice
-            </a>
-          </em>
-          , RailsConf / Sauce Labs (webinar), 2017.
+          <em>Observing Change: A Gold Master Test in Practice</em>, RailsConf /
+          Sauce Labs (webinar), 2017.
+          <div style={{ marginTop: '1rem' }}>
+            <iframe
+              width="560"
+              height="315"
+              src="https://www.youtube.com/embed/D9awDBUQvr4"
+              frameborder="0"
+              allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            />
+          </div>
         </li>
+
         <li>
           <em>Integration Testing with Wallaby</em>, Chicago Elixir Meetup,
           2017.
