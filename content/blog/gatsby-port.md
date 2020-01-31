@@ -11,7 +11,7 @@ pre-rendered markdown.
 In five years I've taken this site from WordPress to Rails, and now to Gatsby.
 
 Why change, twice? For me, blogging has a side benefit of giving me my own CMS
-to maintain. I feel driven to ensure that platform is cutting-edge, fun to use,
+to maintain. I feel driven to ensure that my platform is cutting-edge, fun to use,
 and relevant to my current work. I've been writing 100% React for almost two years,
 and so this transition feels inevitable.
 
@@ -27,7 +27,7 @@ The transition was really simple; I dumped my PostgreSQL database into Markdown
 files with a Ruby script, downloaded the [Gatsby Starter Blog][starter], added
 the markdown files, and pushed to Heroku.
 
-Now that I'm in production, I have some work left to do. I'd like add tests,
+Now that I'm in production, I have some work left to do. I'd like to add tests,
 CI, and type support via TypeScript, so I can have more confidence in the code.
 
 Onward! 🎉
