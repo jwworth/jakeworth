@@ -43,9 +43,7 @@ Here are my milestones from 2019. This year, I:
 
 ### What did I learn?
 
-Here are some some of my takeaways after another year in the programming
-trenches. Some of these lessons were from 2019, others were lessons I've
-learned in the past and reflected on again this year.
+Here are some of my takeaways after another year in the programming trenches.
 
 - [How to do faster planning](https://hashrocket.com/blog/posts/planning-poker-speed-mode)
 - [How to pick a good name](https://hashrocket.com/blog/posts/pick-a-good-name)
@@ -58,8 +56,8 @@ learned in the past and reflected on again this year.
 - It's better to be working with difficult technology, than a difficult team.
   Applies to many disciplines, including programming.
 - Elixir is a fantastic language to work on professionally. Also, an
-  application written in any language, even a basically perfect language like
-  Elixir, can have its edges.
+  application written in any language, even a great language like Elixir, can
+  have its edges.
 - Reading technical books consistently requires small, sustained effort every
   day.
 - If I drink coffee after noon, I don't fall asleep. ☕️
@@ -67,6 +65,6 @@ learned in the past and reflected on again this year.
 ### Thank You
 
 Thanks to my family and friends, everyone at Hashrocket, and my clients for another
-wonderful years as a programmer. And thank you for reading.
+wonderful year as a programmer. And thank you for reading.
 
 Happy New Year everyone.
