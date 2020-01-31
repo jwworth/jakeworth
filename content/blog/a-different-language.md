@@ -11,7 +11,7 @@ I'll try to explain this phenomenon.
 Programming is not a language like JavaScript or Python; those are dialects
 that describe a mother tongue called Computer Science. CS is a rag-bag of names
 for abstract concepts like classes, functions, and state. Learning to code
-means learning many of these names up front.
+means learning many of these names upfront.
 
 The names are baffling to listen to because they describe ideas that have
 almost no analogy in human life. They are uniquely inhuman, because few things
@@ -24,5 +24,5 @@ plain old marketing. Some of them seem to come from nowhere.
 
 So yes, programming is a different language. In my talks, I try to build my
 arguments from first principles, avoiding jargon when I can. At some
-point I'll lose the non-programmers, just like I'd get lost at a medical
+point, I'll lose the non-programmers, just like I'd get lost at a medical
 conference, but I try to delay that moment as long as I can.
