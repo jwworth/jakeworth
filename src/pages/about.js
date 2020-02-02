@@ -286,11 +286,6 @@ const About = props => {
           displayName="Meetup"
           href="https://www.meetup.com/members/12542589/"
         />
-        <LinkListItem
-          description="Reviewing local businesses that I care about."
-          displayName="Yelp"
-          href="https://jwworth.yelp.com/"
-        />
       </ul>
     </Layout>
   )
