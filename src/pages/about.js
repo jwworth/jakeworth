@@ -118,7 +118,7 @@ const About = props => {
           </em>
         </li>
         <li>
-          <a href="https://conway-react.herokuapp.com/">Game of Life</a>
+          <a href="https://conway.now.sh/">Game of Life</a>
           <em>
             <p>
               My implementation{' '}
