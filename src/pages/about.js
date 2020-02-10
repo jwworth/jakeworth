@@ -48,7 +48,7 @@ const About = props => {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                open sourced
+                open-sourced
               </a>{' '}
               TIL in early 2016, and today I maintain the project with my fellow
               Rocketeers.
