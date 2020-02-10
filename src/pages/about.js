@@ -67,6 +67,42 @@ const About = props => {
           </em>
         </li>
         <li>
+          <a href="https://conway.now.sh/">Game of Life</a>
+          <em>
+            <p>
+              My implementation{' '}
+              <a
+                href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Conway's Game of Life
+              </a>{' '}
+              in React.js and TypeScript.
+            </p>
+          </em>
+        </li>
+        <li>
+          <a href="https://javascript-equality.herokuapp.com/">
+            JavaScript Equality
+          </a>
+          <em>
+            <p>
+              This application shows the JavaScript value-comparison operators
+              == and === in action. It is written in React.js and TypeScript and
+              inspired by the{' '}
+              <a
+                href="https://dorey.github.io/JavaScript-Equality-Table/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                JavaScript Equality Table
+              </a>
+              .
+            </p>
+          </em>
+        </li>
+        <li>
           <a href="https://github.com/hashrocket/capybara-webmock">
             Capybara::Webmock
           </a>
@@ -98,51 +134,9 @@ const About = props => {
           </em>
         </li>
         <li>
-          <a href="https://javascript-equality.herokuapp.com/">
-            JavaScript Equality
-          </a>
-          <em>
-            <p>
-              This application shows the JavaScript value-comparison operators
-              == and === in action. It is written in React.js and TypeScript and
-              inspired by the{' '}
-              <a
-                href="https://dorey.github.io/JavaScript-Equality-Table/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                JavaScript Equality Table
-              </a>
-              .
-            </p>
-          </em>
-        </li>
-        <li>
-          <a href="https://conway.now.sh/">Game of Life</a>
-          <em>
-            <p>
-              My implementation{' '}
-              <a
-                href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Conway's Game of Life
-              </a>{' '}
-              in React.js and TypeScript.
-            </p>
-          </em>
-        </li>
-        <li>
           <a href="http://novel.herokuapp.com">Ceramic Nation</a>
           <em>
             <p>A Markov Chain generated novel.</p>
-          </em>
-        </li>
-        <li>
-          <a href="https://rubygems.org/gems/remarkovable">Remarkovable</a>
-          <em>
-            <p>A gem that produces Markov chain output from any text.</p>
           </em>
         </li>
       </ul>
