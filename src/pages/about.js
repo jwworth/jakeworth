@@ -175,7 +175,7 @@ const About = props => {
         </li>
         <li>
           <em>Format Your Elixir Code Now</em>, Chicago Elixir Meetup /
-          ElixirDaze 2018 / Atlanta Elixir Meeetup, 2018.
+          ElixirDaze 2018 / Atlanta Elixir Meetup, 2018.
           <div class="video-container">
             <iframe
               width="560"
@@ -277,7 +277,7 @@ const About = props => {
           href="https://speakerdeck.com/jwworth"
         />
         <LinkListItem
-          description="My solutions to small code challenges in a variety of langauges."
+          description="My solutions to small code challenges in a variety of languages."
           displayName="Exercism"
           href="https://exercism.io/profiles/jwworth"
         />
