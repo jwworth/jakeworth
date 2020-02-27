@@ -1,5 +1,5 @@
 ---
-title: "Reviewing Microsoft's Natural Ergonomic Keyboard 4000"
+title: "Microsoft's Natural Ergonomic Keyboard 4000"
 date: '2014-05-13T16:38:14-05:00'
 ---
 

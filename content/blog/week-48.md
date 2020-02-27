@@ -6,8 +6,8 @@ date: '2014-11-25T21:41:02-06:00'
 This week I learned a lot.
 
 I picked up some new (old) slang, with the term 'bare metal'.  Here is a definition from the awesome <a href='http://www.catb.org/jargon/oldversions/jarg262.txt'>Jargon File</a>:
-<
-> bare metal: n. 
+
+> bare metal: n.
 > 1. New computer hardware, unadorned with such snares and delusions as an {operating system}, {HLL}, or even assembler.  Commonly in the phrase `programming on the bare metal', which refers to the arduous work of {bit bashing} needed to create these basic tools for a new machine.  Real bare-metal programming involves things like building boot proms and BIOS chips, implementing basic monitors used to test device drivers, and writing the assemblers that will be used to write the compiler back ends that will give the new machine a real development environment.
 > 2. The same phrase is also used to describe a style of {hand-hacking} that relies on bit-level peculiarities of a particular hardware design, esp. tricks for speed and space optimization that rely on crocks such as overlapping opcodes (or, as in the famous case described in Appendix A, interleaving of opcodes on a magnetic drum to minimize fetch delays due to the device's rotational latency).  This sort of thing has become less common as the relative costs of programming time and machine resources have changed, but is still found in heavily constrained environments like industrial embedded systems.  See {real programmer}.
 </em>
@@ -31,7 +31,7 @@ that looked cool but didn't test anything.  All of the things
 work now!
 ```
 
-A third thing I learned was the Postgres method <code>coalesce</code>.  From the <a href='http://www.postgresql.org/docs/8.1/static/functions-conditional.html'>Postgres 8.1 Docs</a>:
+A third thing I learned was the Postgres method `coalesce`.  From the <a href='http://www.postgresql.org/docs/8.1/static/functions-conditional.html'>Postgres 8.1 Docs</a>:
 
 > The COALESCE function returns the first of its arguments that is not null. Null is returned only if all arguments are null. It is often used to substitute a default value for null values when data is retrieved for display...</em>
 

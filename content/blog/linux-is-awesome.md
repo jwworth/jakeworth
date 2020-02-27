@@ -39,7 +39,7 @@ Here is the same process on a Unix-based system:
 
 * Read about the tool you need
 * Search for it online
-* Install it with <code>apt-get</code>
+* Install it with `apt-get`
 * Code!
 
 Why is this so?

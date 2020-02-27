@@ -13,7 +13,7 @@ When I started a new job, I was given an older computer that didn't support mult
 
 At first, I didn't like the change.  Wouldn't I be half as productive with half as many screens?  It felt archaic and lame.
 
-In a short amount of time, my opinion started to change.  Both Windows and Linux come with the command <code>ALT + TAB</code>, which pulls up a list of every program running.  If you are going back and forth between two programs quickly (like a browser and a text editor), you don't even have to pull up the entire menu, because the default behavior is to switch back to the window you just left.  Committing <code>ALT + TAB</code> to muscle memory took about two hours.  I don't even think about it anymore.  If you use an command prompt text editor like Vim, it's even easier, because the command line and the editor are the same program.
+In a short amount of time, my opinion started to change.  Both Windows and Linux come with the command `ALT + TAB`, which pulls up a list of every program running.  If you are going back and forth between two programs quickly (like a browser and a text editor), you don't even have to pull up the entire menu, because the default behavior is to switch back to the window you just left.  Committing `ALT + TAB` to muscle memory took about two hours.  I don't even think about it anymore.  If you use an command prompt text editor like Vim, it's even easier, because the command line and the editor are the same program.
 
 Here is a short list of why I like this setup:
 

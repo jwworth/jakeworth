@@ -1,5 +1,5 @@
 ---
-title: 'Book Club: Lua (Week One)'
+title: 'Book Club: Lua'
 date: '2016-01-09T19:26:27-06:00'
 ---
 

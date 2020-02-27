@@ -1,5 +1,5 @@
 ---
-title: Save a Command's Output to a File (Unix)
+title: Save a Command's Output to a File
 date: '2014-04-08T23:44:42-05:00'
 ---
 
@@ -15,20 +15,20 @@ An example:
 $ ps aux > data.txt
 ```
 
-This runs the command <code>ps aux</code> and sends the output to a file 'data.txt'.  If that file exists, it will be overwritten; if it doesn't exist, it will be created.  You can check the output using <code>cat</code>:
+This runs the command `ps aux` and sends the output to a file 'data.txt'.  If that file exists, it will be overwritten; if it doesn't exist, it will be created.  You can check the output using `cat`:
 
 ```
 $ cat data.txt
 process status (ps) for all users (a), with owner (u), and processes not attached to the terminal (x)
 ```
 
-Another helpful modification is to replace <code>></code> with <code>>></code>, like this:
+Another helpful modification is to replace `>` with `>>`, like this:
 
 ```
 $ ifconfig >> data.txt
 ```
 
-This command takes the output of the <code>ifconfig</code> command and <em>appends</em> it to the end of 'data.txt'.  Like the first command, if that file doesn't exist, it will be created.  Inspecting that file once again with <code>cat</code>:
+This command takes the output of the `ifconfig` command and <em>appends</em> it to the end of 'data.txt'.  Like the first command, if that file doesn't exist, it will be created.  Inspecting that file once again with `cat`:
 
 ```
 $ cat data.txt
