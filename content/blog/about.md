@@ -94,7 +94,7 @@ Jake
 [gol]: https://conway.now.sh/
 [hr]: https://hashrocket.com/
 [js-eq-dorey]: https://dorey.github.io/JavaScript-Equality-Table/
-[js-eq]: https://javascript-equality.herokuapp.com/
+[js-eq]: https://javascript-equality.now.sh/
 [learn-ip]: https://www.swyx.io/writing/learn-in-public/
 [mgr-of-one]: https://signalvnoise.com/posts/1430-hire-managers-of-one
 [nobody-hits]: https://m.signalvnoise.com/nobody-hits-the-ground-running/
