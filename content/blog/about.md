@@ -35,6 +35,8 @@ Jake
   original Rails application was my Hashrocket apprentice project. We
   [open-sourced][oss-til] TIL in early 2016, and today I maintain the project
   with my fellow Rocketeers. Written in Elixir/Phoenix.
+- [The Bell][bell]: My COVID-19 social-distancing project&mdash; a way to stay
+  connected when you're apart. Written in Elixir/Phoenix with WebSockets.
 - [Game of Life][gol]: My implementation Conway's Game of Life in React.js and
   TypeScript.
 - [JavaScript Equality][js-eq]: This application shows the JavaScript
@@ -108,3 +110,4 @@ Jake
 [tilex]: https://github.com/hashrocket/tilex
 [twitter]: https://twitter.com/jwworth
 [webmock]: https://github.com/hashrocket/capybara-webmock
+[bell]: https://www.thebellisringing.com/
