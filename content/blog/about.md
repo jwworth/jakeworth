@@ -10,7 +10,7 @@ I am an Army veteran, self-taught programmer, and consultant working at
 I strive to be reliable, positive, systematic, a great listener and problem
 solver. My teammates would describe me as an expert communicator, methodical
 and rigorous, but also fun and empathetic in writing and conversation. I'm an
-inquisitive person who [learns in public][learn-ip]— I level up quickly, and
+inquisitive person who [learns in public][learn-ip]&mdash; I level up quickly, and
 bring those around me along for the ride.
 
 Check out my [blog][blog] to explore my writing, [now][now] to see what I'm
