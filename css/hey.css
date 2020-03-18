@@ -1,0 +1,9 @@
+.hey {
+  background: #d0fff3;
+  border-radius: 1rem;
+  padding: 3rem;
+}
+
+.hey p:last-child {
+  margin-bottom: 0;
+}

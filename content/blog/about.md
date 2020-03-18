@@ -2,6 +2,8 @@
 title: About
 ---
 
+<div class="hey">
+
 Hi there! I'm Jake. 👋
 
 I am an Army veteran, self-taught programmer, and consultant working at
@@ -22,6 +24,7 @@ referrer of traffic to my company website.
 Thanks for stopping by!
 
 Jake
+</div>
 
 ### Projects
 
