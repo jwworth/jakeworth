@@ -6,7 +6,7 @@ title: About
 
 Hi there! I'm Jake. 👋
 
-I am an Army veteran, self-taught programmer, and consultant working at
+I am an Army veteran, self-taught programmer, and consultant working remotely at
 [Hashrocket][hr] in Chicago.
 
 I strive to be reliable, positive, systematic, a great listener and problem
