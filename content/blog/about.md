@@ -61,8 +61,8 @@ Jake
 -  _Writing a Programming Language_, Hashrocket Winter Miniconf, 2018.
 -  _Introducing Hooks_, React Chicago Meetup, 2018.
 -  _Weekly Team Retros_, Hashrocket Summer Miniconf, 2018.
--  _Format Your Elixir Code Now_, Chicago Elixir Meetup / ElixirDaze 2018 /
-   Atlanta Elixir Meetup, 2018.
+-  _Format Your Elixir Code Now_, Chicago Elixir Meetup / ElixirDaze / Atlanta
+   Elixir Meetup, 2018.
 <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/dwphyQmD6n8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe></div>
 -  _React.js + Vim_, React Chicago Meetup, Vim Chicago Meetup, 2017.
 -  _From Troops to Tech: A Panel of Chicago Veterans In Tech_, Chicago Veteran
