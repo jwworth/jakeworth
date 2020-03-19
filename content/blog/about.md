@@ -53,7 +53,7 @@ Jake
 ### Talks
 
 -  _SQL Workshop_, Code Platoon (Bravo, Charlie, Delta, Foxtrot, Golf, Hotel,
-   India, Juliet, and Kilo cohorts), 2017—2020.
+   India, Juliet, Kilo, Lima, and Mike cohorts), 2017—2020.
 -  _WebAssembly 101_, Hashrocket Winter Miniconf, 2019.
 -  _Functioning in React: A Deep-Dive into useState_, Chicago JavaScript Meetup
    / Ancient City Ruby, 2019.
