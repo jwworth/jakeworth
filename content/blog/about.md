@@ -34,21 +34,15 @@ Jake
   is open to any Rocketeer as well as selected friends of Hashrocket. The
   original Rails application was my Hashrocket apprentice project. We
   [open-sourced][oss-til] TIL in early 2016, and today I maintain the project
-  with my fellow Rocketeers. Written in Elixir/Phoenix.
+  with my fellow Rocketeers. Written in Elixir.
 - [The Bell][bell]: My COVID-19 social-distancing project&mdash; a way to stay
-  connected when you're apart. Written in Elixir/Phoenix with WebSockets.
-- [Game of Life][gol]: My implementation Conway's Game of Life in React.js and
-  TypeScript.
+  connected when you're apart. Written in Elixir.
+- [Game of Life][gol]: My implementation Conway's Game of Life. Written in
+  React.js and TypeScript.
 - [JavaScript Equality][js-eq]: This application shows the JavaScript
-  value-comparison operators `==` and `===` in action. It is written in
-  React.js and TypeScript and inspired by the [JavaScript Equality
-  Table][js-eq-dorey].
-- [Capybara::Webmock][webmock]: A gem that mocks external requests for Capybara
-  JavaScript drivers. Written with [Dillon Hafer][dh].
-- [Capybara Driver Benchmarking][capybara]: This is the application I built for
-  a talk at Hashrocket's Summer Miniconf 2015. Its purpose is to benchmark the
-  performance of drivers available for use with Capybara.
-- [Ceramic Nation][novel]: A Markov Chain generated novel.
+  value-comparison operators `==` and `===` in action, and is inspired by the
+  [JavaScript Equality Table][js-eq-dorey]. Written in React.js and TypeScript.
+- [Ceramic Nation][novel]: A Markov Chain generated novel. Written in Ruby.
 
 ### Talks
 
