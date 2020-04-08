@@ -1,5 +1,3 @@
-import '../../css/prism.css'
-
 import { Link, graphql } from 'gatsby'
 import React from 'react'
 
