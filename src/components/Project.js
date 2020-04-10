@@ -23,13 +23,17 @@ const Project = props => {
       </p>
       {repo && (
         <p>
-          <strong>Code:</strong> <a href={repo}>Github</a>
+          <strong>Code:</strong> <a href={repo}>GitHub</a>
         </p>
       )}
       <p>
         <strong>Live:</strong> <a href={link}>View site</a>
       </p>
-      <img src={image} alt={title} />
+      <p>
+        <a className="img-link" href={link}>
+          <img className="img-link" src={image} alt={title} />
+        </a>
+      </p>
       <p>
         <strong>Project Purpose and Goal:</strong> {purpose}
       </p>

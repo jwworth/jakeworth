@@ -43,12 +43,14 @@ const About = props => {
         <p>Thanks for stopping by!</p>
         <p>Jake</p>
       </div>
-      <h3>Projects</h3>
-      <ul>
-        {projects.map(props => (
-          <Project {...props} />
-        ))}
-      </ul>
+      <div className="projects">
+        <h3>Projects</h3>
+        <ul>
+          {projects.map(props => (
+            <Project {...props} />
+          ))}
+        </ul>
+      </div>
       <h3>Talks</h3>
       <ul>
         <li>
