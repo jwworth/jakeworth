@@ -18,8 +18,7 @@ const About = props => {
         <p>Hi there! I’m Jake. 👋</p>
         <p>
           I am an Army veteran, self-taught programmer, and consultant working
-          remotely at <a href="https://hashrocket.com/">Hashrocket</a> in
-          Chicago.
+          remotely at <a href="https://hashrocket.com/">Hashrocket</a>.
         </p>
         <p>
           I strive to be reliable, positive, systematic, a great listener and
