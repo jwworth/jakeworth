@@ -2,7 +2,9 @@ import { graphql } from 'gatsby'
 import React from 'react'
 
 import Layout from '../components/Layout'
+import Project from '../components/Project'
 import SEO from '../components/seo'
+import projects from '../data/projects'
 
 const About = props => {
   const { data } = props
@@ -13,7 +15,6 @@ const About = props => {
     <Layout location={props.location} title={siteTitle}>
       <SEO title="About" keywords={['about']} />
       <h1>About</h1>
-
       <div className="hey">
         <p>Hi there! I’m Jake. 👋</p>
         <p>
@@ -42,47 +43,14 @@ const About = props => {
         <p>Thanks for stopping by!</p>
         <p>Jake</p>
       </div>
-      <h3>Projects</h3>
-      <ul>
-        <li>
-          <a href="https://til.hashrocket.com/">Today I Learned</a>: TIL is an{' '}
-          <a href="https://github.com/hashrocket/tilex">open-source</a> project
-          by <a href="https://hashrocket.com/">Hashrocket</a> that exists to
-          catalogue the sharing and accumulation of knowledge as it happens
-          day-to-day. Posts have a 200-word limit, and posting is open to any
-          Rocketeer as well as selected friends of Hashrocket. The original
-          Rails application was my Hashrocket apprentice project. We{' '}
-          <a href="https://hashrocket.com/blog/posts/open-sourcing-today-i-learned">
-            open-sourced
-          </a>{' '}
-          TIL in early 2016, and today I maintain the project with my fellow
-          Rocketeers. Written in Elixir.
-        </li>
-        <li>
-          <a href="https://www.thebellisringing.com/">The Bell</a>: My COVID-19
-          social-distancing project— a way to stay connected when you’re apart.
-          Written in Elixir.
-        </li>
-        <li>
-          <a href="https://conway.now.sh/">Game of Life</a>: My implementation
-          Conway’s Game of Life. Written in React.js and TypeScript.
-        </li>
-        <li>
-          <a href="https://javascript-equality.now.sh/">JavaScript Equality</a>:
-          This application shows the JavaScript value-comparison operators{' '}
-          <code className="language-text">==</code> and{' '}
-          <code className="language-text">===</code> in action, and is inspired
-          by the{' '}
-          <a href="https://dorey.github.io/JavaScript-Equality-Table/">
-            JavaScript Equality Table
-          </a>
-          . Written in React.js and TypeScript.
-        </li>
-        <li>
-          <a href="http://novel.herokuapp.com">Ceramic Nation</a>: A Markov
-          Chain generated novel. Written in Ruby.
-        </li>
-      </ul>
+      <div className="projects">
+        <h3>Projects</h3>
+        <ul>
+          {projects.map(props => (
+            <Project {...props} />
+          ))}
+        </ul>
+      </div>
       <h3>Talks</h3>
       <ul>
         <li>
