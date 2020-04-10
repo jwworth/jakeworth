@@ -34,7 +34,7 @@ const Project = props => {
         <strong>Project Purpose and Goal:</strong> {purpose}
       </p>
       <p>
-        <strong>Stack and Explanation:</strong> {stackExplanation}
+        <strong>Stack Explanation:</strong> {stackExplanation}
       </p>
       {lessonsLearned && (
         <p>
