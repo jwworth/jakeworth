@@ -48,30 +48,6 @@ const About = props => {
         {projects.map(props => (
           <Project {...props} />
         ))}
-        <li>
-          <a href="https://www.thebellisringing.com/">The Bell</a>: My COVID-19
-          social-distancing project— a way to stay connected when you’re apart.
-          Written in Elixir.
-        </li>
-        <li>
-          <a href="https://conway.now.sh/">Game of Life</a>: My implementation
-          Conway’s Game of Life. Written in React.js and TypeScript.
-        </li>
-        <li>
-          <a href="https://javascript-equality.now.sh/">JavaScript Equality</a>:
-          This application shows the JavaScript value-comparison operators{' '}
-          <code className="language-text">==</code> and{' '}
-          <code className="language-text">===</code> in action, and is inspired
-          by the{' '}
-          <a href="https://dorey.github.io/JavaScript-Equality-Table/">
-            JavaScript Equality Table
-          </a>
-          . Written in React.js and TypeScript.
-        </li>
-        <li>
-          <a href="http://novel.herokuapp.com">Ceramic Nation</a>: A Markov
-          Chain generated novel. Written in Ruby.
-        </li>
       </ul>
       <h3>Talks</h3>
       <ul>
