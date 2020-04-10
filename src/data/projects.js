@@ -5,14 +5,14 @@ const projects = [
     stack: 'Elixir, Phoenix, PostgreSQL, Heroku',
     repo: 'https://github.com/hashrocket/tilex/',
     description:
-      "TIL was my apprentice project at Hashrocket. It has grown into a popular developers blog with 2000+ posts, millions of page views per year, and the top-ranked answers on Google to many esoteric developer questions. It's also open-source, one of the first such Phoenix repositories available online. I, and members of my team, used TIL to learn Elixir and develop our growing Elixir practice.",
+      "TIL was my apprentice project at Hashrocket. It has grown into a popular developers blog with 2000+ posts, millions of page views per year, and the top-ranked answers on Google to many an esoteric developer question. It's also open-source, one of the first such Phoenix repositories online. I, and members of my team, used TIL to learn Elixir and develop our growing Elixir practice.",
     purpose:
-      "The initial purpose of this application was to help me develop my skills as a programmer while completing the Hashrocket apprenticeship. Today, TIL exists to catalogue the sharing and accumulation of our team's knowledge as it happens day-to-day. Posts have a 200-word limit, and posting is open to any Rocketeer as well as selected friends of Hashrocket. I serve as the core maintainer of the codebase, collaborating with several interested Hashrocket colleagues and alumni.",
+      "The purpose of this application was to help me develop my skills as a programmer. Today, TIL exists to catalogue the sharing and accumulation of our team's knowledge as it happens day-to-day. Posts have a 200-word limit, and posting is open to any Rocketeer as well as selected friends of Hashrocket. I serve as the maintainer of the codebase, collaborating with several interested Hashrocket colleagues and alumni.",
     stackExplanation:
-      'TIL began as Ruby on Rails app. In 2016, I initiated an Elixir rewrite because I wanted to learn Elixir and see how Phoenix stacked up against Ruby on Rails.',
+      'TIL launched as a Ruby on Rails app. In 2016, I initiated an Elixir rewrite because I wanted to learn Elixir and see how Phoenix stacked up against Ruby on Rails.',
     image: 'https://i.imgur.com/6JMNieU.png',
     lessonsLearned:
-      'Learning in public is a valuable offering. Phoenix stacks up well against Ruby on Rails.',
+      'Learning in public is a valuable offering. Elixir is a joy to write. Phoenix stacks up well against Ruby on Rails.',
   },
   {
     title: 'The Bell',
@@ -21,12 +21,12 @@ const projects = [
     description:
       "The Bell is my COVID-19 social-distancing project— a way to stay connected when you're apart.",
     purpose:
-      'The purpose of this project was to realize an idea in my head, in one weekend. I wanted to feel connected with other people, build something calming that defied a simple explanation, and direct visitors to a charity supporting relief efforts.',
+      'The purpose of this project was feel connected with other people, build something calming that defied simple explanations, and direct visitors to a charity supporting relief efforts.',
     stackExplanation:
-      'The idea chose my stack for me: I wanted real-time, virtually unlimited connections, and Elixir with WebSockets are built for this use case. This was my first project on Gigalixir, which I chose because it offers platform-as-a-service without limitations.',
+      'The idea chose my stack! I wanted real-time, virtually unlimited connections, and Elixir with WebSockets exist for this use case. I chose Gigalixir because it offers platform-as-a-service without limitations on some core features of Elixir.',
     image: 'https://i.imgur.com/HuvOHqP.png',
     lessonsLearned:
-      'This project challenged me as a designer and as a functional programmer. How to I make it look and feel amazing? It was so simple, success was binary: it was either engaging or it was not. My takeaway is that I enjoy building products that rigidly adhere to my imagination.',
+      'This project challenged me as a designer and as a programmer. How to I make the bell look and feel amazing? I felt success was binary: it was either engaging or it was not. My takeaway is that I enjoy building products that follow my imagination.',
   },
   {
     title: 'Game of Life',
@@ -36,9 +36,9 @@ const projects = [
     description:
       "This is my implementation of the classic cellular automaton and programming puzzle, Conway's Game of Life.",
     purpose:
-      'I used this project as a vehicle to better learn React.js and contribute to a growing collection of implementations by my team at Hashrocket.',
+      'I used this project as a vehicle to better learn React.js and contribute to a growing menagerie of implementations by my team at Hashrocket.',
     stackExplanation:
-      "As an frontend-heavy presentation, I chose React.js with TypeScript. For hosting, Zeit's push-to-deploy and global CDN have been outstanding.",
+      "As a highly visual concept, I chose React.js with TypeScript. For hosting, Zeit's push-to-deploy and global CDN have been outstanding.",
     image: 'https://i.imgur.com/gsfpbsx.gif',
   },
   {
@@ -49,9 +49,9 @@ const projects = [
     description:
       'Ceramic Nation is an auto-generated internet novel, one chapter per day, supported by a Ruby gem I wrote call Remarkovable. It produces sometimes enlightening, humorously nonsensical content based on a corpus of classic literature.',
     purpose:
-      "Hashrocket Chicago had a brief obsession with Markov engines: programs that produce content based on a statistical analysis of past content. Imagine listening to a person talk for an hour and then guessing what they'll say next; that's Markov. As a new developer on the team, I embraced FOMO and wrote my own implementation.",
+      "Hashrocket Chicago had a brief obsession with Markov chains: programs that produce content based on a statistical analysis of past content. Imagine listening to a person talk for an hour and then guessing what they'll say next; that's Markov. As a new developer on the team, I embraced FOMO and wrote my own implementation.",
     stackExplanation:
-      'Ceramic Nation is classic Rails CRUD, which was my go-to stack when I wrote the application (ca. 2015).',
+      'Ceramic Nation is classic Ruby on Rails CRUD, which was my go-to stack when I wrote the application (ca. 2015).',
     image: 'https://i.imgur.com/aKp8pH3.png',
   },
 ]
