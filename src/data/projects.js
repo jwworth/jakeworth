@@ -21,9 +21,9 @@ const projects = [
     description:
       "The Bell is my COVID-19 social-distancing project— a way to stay connected when you're apart.",
     purpose:
-      'The purpose of this project was to realize an idea in my head, in one weekend. I wanted to feel connected with other people, build something calming that defied a simple explanation, and direct visitors to a charity supporting the relief efforts.',
+      'The purpose of this project was to realize an idea in my head, in one weekend. I wanted to feel connected with other people, build something calming that defied a simple explanation, and direct visitors to a charity supporting relief efforts.',
     stackExplanation:
-      'The idea chose my stack for me: I wanted real-time, multi-tenant connections, and Elixir with WebSockets are built for this use case. This was my first project on Gigalixir, which I chose because it offers platform-as-a-service without limitations.',
+      'The idea chose my stack for me: I wanted real-time, virtually unlimited connections, and Elixir with WebSockets are built for this use case. This was my first project on Gigalixir, which I chose because it offers platform-as-a-service without limitations.',
     image: 'https://i.imgur.com/HuvOHqP.png',
     lessonsLearned:
       'This project challenged me as a designer and as a functional programmer. How to I make it look and feel amazing? It was so simple, success was binary: it was either engaging or it was not. My takeaway is that I enjoy building products that rigidly adhere to my imagination.',
