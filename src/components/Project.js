@@ -30,7 +30,12 @@ const Project = props => {
         <strong>Live:</strong> <a href={link}>View site</a>
       </p>
       <p>
-        <a className="img-link" href={link}>
+        <a
+          className="img-link"
+          href={link}
+          rel="noopener noreferrer"
+          target="_blank"
+        >
           <img className="img-link" src={image} alt={title} />
         </a>
       </p>
