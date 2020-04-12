@@ -40,11 +40,9 @@ const Project = props => {
       <p>
         <strong>Stack Explanation:</strong> {stackExplanation}
       </p>
-      {lessonsLearned && (
-        <p>
-          <strong>Lessons Learned:</strong> {lessonsLearned}
-        </p>
-      )}
+      <p>
+        <strong>Lessons Learned:</strong> {lessonsLearned}
+      </p>
     </li>
   )
 }
@@ -52,7 +50,7 @@ const Project = props => {
 Project.propTypes = {
   description: PropTypes.string.isRequired,
   image: PropTypes.string.isRequired,
-  lessonsLearned: PropTypes.string,
+  lessonsLearned: PropTypes.string.isRequired,
   link: PropTypes.string.isRequired,
   purpose: PropTypes.string.isRequired,
   repo: PropTypes.string,
