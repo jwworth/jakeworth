@@ -15,34 +15,32 @@ const About = props => {
     <Layout location={props.location} title={siteTitle}>
       <SEO title="About" keywords={['about']} />
       <h1>About</h1>
-      <div className="hey">
-        <p>Hi there! I’m Jake. 👋</p>
-        <p>
-          I am an Army veteran, self-taught programmer, and consultant working
-          remotely at <a href="https://hashrocket.com/">Hashrocket</a>.
-        </p>
-        <p>
-          I strive to be reliable, positive, systematic, a great listener and
-          problem solver. My teammates would describe me as an expert
-          communicator, methodical and rigorous, but also fun and empathetic in
-          writing and conversation. I’m an inquisitive person who{' '}
-          <a href="https://www.swyx.io/writing/learn-in-public/">
-            learns in public
-          </a>
-          — I level up quickly, and bring those around me along for the ride.
-        </p>
-        <p>
-          Check out my <a href="/">blog</a> to explore my writing,{' '}
-          <a href="/now/">now</a> to see what I’m currently jazzed about, and my
-          projects, talks, and profiles below. I’m most proud of my volunteer
-          work at <a href="https://www.codeplatoon.org/">Code Platoon</a>,
-          presenting at RailsConf 2017, and building{' '}
-          <a href="https://til.hashrocket.com/">Today I Learned</a>, a popular
-          blog that’s the number-one referrer of traffic to my company website.
-        </p>
-        <p>Thanks for stopping by!</p>
-        <p>Jake</p>
-      </div>
+      <p>Hi there! I’m Jake. 👋</p>
+      <p>
+        I am an Army veteran, self-taught programmer, and consultant working
+        remotely at <a href="https://hashrocket.com/">Hashrocket</a>.
+      </p>
+      <p>
+        I strive to be reliable, positive, systematic, a great listener and
+        problem solver. My teammates would describe me as an expert
+        communicator, methodical and rigorous, but also fun and empathetic in
+        writing and conversation. I’m an inquisitive person who{' '}
+        <a href="https://www.swyx.io/writing/learn-in-public/">
+          learns in public
+        </a>
+        — I level up quickly, and bring those around me along for the ride.
+      </p>
+      <p>
+        Check out my <a href="/">blog</a> to explore my writing,{' '}
+        <a href="/now/">now</a> to see what I’m currently jazzed about, and my
+        projects, talks, and profiles below. I’m most proud of my volunteer work
+        at <a href="https://www.codeplatoon.org/">Code Platoon</a>, presenting
+        at RailsConf 2017, and building{' '}
+        <a href="https://til.hashrocket.com/">Today I Learned</a>, a popular
+        blog that’s the number-one referrer of traffic to my company website.
+      </p>
+      <p>Thanks for stopping by!</p>
+      <p>Jake</p>
       <div className="projects">
         <h3>Projects</h3>
         <ul>
