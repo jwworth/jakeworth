@@ -10,10 +10,10 @@ const Now = props => {
 
   return (
     <Layout location={props.location} title={siteTitle}>
-      <SEO title="Now" keywords={[`now`]} />
+      <SEO title="Now" keywords={['now', 'react']} />
       <h1>Now</h1>
-      <p>Home base: on the road.</p>
-      <p>This is what I'm working on now:</p>
+      <p>Home base: Maine. 🌲</p>
+      <p>I like to stay busy! Here's what I'm working on right now:</p>
       <ul>
         <li>
           🖥 Coding and consulting remotely for{' '}
@@ -24,10 +24,10 @@ const Now = props => {
           >
             Hashrocket
           </a>
-          , writing mainly Ruby, Elixir, and React.
+          , writing React, Elixir, and Ruby.
         </li>
         <li>
-          💻 Developing side projects. Latest:{' '}
+          💻 Shipping side projects. In progress:{' '}
           <a
             href="https://www.thebellisringing.com/"
             target="_blank"
@@ -35,10 +35,12 @@ const Now = props => {
           >
             The Bell
           </a>
-          .
+          , a poem about the quarantine, and a Gibson Les Paul copy from a
+          guitar kit.
         </li>
         <li>
-          🇺🇸 Teaching and volunteering at{' '}
+          {' '}
+          🇺🇸 Teaching workshops and volunteering at{' '}
           <a
             href="https://www.codeplatoon.org/"
             target="_blank"
@@ -56,17 +58,6 @@ const Now = props => {
             rel="noopener noreferrer"
           >
             Today I Learned
-          </a>
-          .
-        </li>
-        <li>
-          🤝 Organizing the{' '}
-          <a
-            href="https://www.meetup.com/vim-chicago/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Vim Chicago Meetup
           </a>
           .
         </li>
@@ -98,10 +89,7 @@ const Now = props => {
           >
             Learning in public
           </a>{' '}
-          about Ruby, Elixir, React, WebAssembly, SQL, Vim, algorithms, testing,
-          DevOps, design, language design, mentorship, project management,
-          remote work, organizational leadership, public speaking, and the
-          ethics of technology.
+          about React.
         </li>
       </ul>
     </Layout>
