@@ -148,7 +148,7 @@ const About = props => {
           <a href="https://stackoverflow.com/users/2112512/jake-worth">
             Stack Overflow
           </a>
-          : Helping people fix React and Ruby code.
+          : Helping people fix React code.
         </li>
         <li>
           <a href="https://til.hashrocket.com/authors/jakeworth">
@@ -169,8 +169,7 @@ const About = props => {
           from my better talks.
         </li>
         <li>
-          <a href="https://exercism.io/profiles/jwworth">Exercism</a>: My
-          solutions to small code challenges in a variety of languages.
+          <a href="https://dribbble.com/jwworth">Dribbble</a>: My designs.
         </li>
         <li>
           <a href="https://www.meetup.com/members/12542589/">Meetup</a>: Meet me
