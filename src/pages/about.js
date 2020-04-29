@@ -21,7 +21,7 @@ const About = props => {
         remotely at <a href="https://hashrocket.com/">Hashrocket</a>.
       </p>
       <p>
-        Check out my <a href="/">blog</a> to explore my writing,{' '}
+        Check out my <a href="/">homepage</a> to explore my writing,{' '}
         <a href="/now/">now</a> to see what I’m currently jazzed about, and my
         projects, talks, and profiles below. I’m most proud of my volunteer work
         at <a href="https://www.codeplatoon.org/">Code Platoon</a>, presenting
