@@ -76,7 +76,7 @@ const About = props => {
               width="560"
               height="315"
               src="https://www.youtube.com/embed/dwphyQmD6n8"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
             />
           </div>
@@ -102,7 +102,7 @@ const About = props => {
               width="560"
               height="315"
               src="https://www.youtube.com/embed/D9awDBUQvr4"
-              frameborder="0"
+              frameBorder="0"
               allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
             />
           </div>
