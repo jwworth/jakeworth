@@ -71,7 +71,7 @@ const About = props => {
             <em>Format Your Elixir Code Now</em>, Chicago Elixir Meetup /
             ElixirDaze / Atlanta Elixir Meetup, 2018.
           </p>
-          <div class="video-container">
+          <div className="video-container">
             <iframe
               width="560"
               height="315"
@@ -97,7 +97,7 @@ const About = props => {
             <em>Observing Change: A Gold Master Test in Practice</em>, RailsConf
             / Sauce Labs (webinar), 2017.
           </p>
-          <div class="video-container">
+          <div className="video-container">
             <iframe
               width="560"
               height="315"
