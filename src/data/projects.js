@@ -1,5 +1,6 @@
 const projects = [
   {
+    uuid: '92cdf220-8f9f-4f87-bc38-5b2899e79dfb',
     title: 'Today I Learned',
     link: 'https://til.hashrocket.com',
     stack: 'Elixir, Phoenix, PostgreSQL, Heroku',
@@ -15,6 +16,7 @@ const projects = [
       'Learning in public is a valuable offering. Elixir is a joy to write. Phoenix stacks up well against Ruby on Rails.',
   },
   {
+    uuid: '5faab9e4-bf23-4021-8e2d-8156346cdb95',
     title: 'The Bell',
     link: 'https://www.thebellisringing.com/',
     stack: 'Elixir, Phoenix, WebSockets, PostgreSQL, Gigalixir',
@@ -29,6 +31,7 @@ const projects = [
       'This project challenged me as a designer and as a programmer. How to I make the bell look and feel amazing? I felt success was binary: it was either engaging or it was not. My takeaway is that I enjoy building products that follow my imagination.',
   },
   {
+    uuid: '13b17d86-ff3f-4890-8450-e3f662c45e4b',
     title: 'Game of Life',
     link: 'https://conway.now.sh/',
     stack: 'React.js, TypeScript, Zeit',
@@ -44,6 +47,7 @@ const projects = [
       "React is a fantastic platform for visual programs. TypeScript helps me feel more confident in code I didn't test-drive.",
   },
   {
+    uuid: '99f717b0-b3b4-4d11-87ed-782177d50dc8',
     title: 'Ceramic Nation',
     link: 'http://novel.herokuapp.com',
     repo: 'https://github.com/jwworth/novel',

@@ -34,8 +34,8 @@ const About = props => {
       <div className="projects">
         <h3>Projects</h3>
         <ul>
-          {projects.map(props => (
-            <Project {...props} />
+          {projects.map(data => (
+            <Project key={data.uuid} {...data} />
           ))}
         </ul>
       </div>
