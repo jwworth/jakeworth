@@ -13,7 +13,18 @@ const BlogIndex = props => {
 
   return (
     <Layout location={props.location} title={siteTitle}>
-      <SEO title="Blog" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <SEO
+        title="Blog"
+        keywords={[
+          'developer',
+          'elixir',
+          'hashrocket',
+          'mentorship',
+          'react',
+          'ruby',
+          'ui',
+        ]}
+      />
       <Bio />
       {posts.map(({ node }) => {
         const title = node.frontmatter.title || node.fields.slug

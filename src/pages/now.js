@@ -10,7 +10,18 @@ const Now = props => {
 
   return (
     <Layout location={props.location} title={siteTitle}>
-      <SEO title="Now" keywords={['now', 'react']} />
+      <SEO
+        title="Now"
+        keywords={[
+          'developer',
+          'elixir',
+          'hashrocket',
+          'mentorship',
+          'react',
+          'ruby',
+          'ui',
+        ]}
+      />
       <h1>Now</h1>
       <p>Home base: Maine. 🌲</p>
       <p>I like to stay busy! Here's what I'm working on right now:</p>
