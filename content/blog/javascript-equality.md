@@ -6,7 +6,7 @@ date: '2018-07-17T08:27:10-05:00'
 A few weeks ago, I built an app with React.js and create-react-app that I call
 'JavaScript Equality'. It's deployed here:
 
-https://javascript-equality.herokuapp.com/
+https://javascript-equality.now.sh/
 
 This application demonstrates the JavaScript
 value-comparison operators `==` and `===`. It's inspired by the
@@ -24,14 +24,14 @@ My favorite implementation detail of this app is the data model, which is create
 constructor function:
 
 ```javascript
- const comparatorArray = this.axis().map(() => this.axis().slice(0));
- const dataModel = this.axis().map((xValue, index) =>
-   comparatorArray[index].map(yValue => ({
-     // eslint-disable-next-line
-     twoquals: yValue == xValue,
-     threequals: yValue === xValue,
-   }))
- );
+const comparatorArray = this.axis().map(() => this.axis().slice(0));
+const dataModel = this.axis().map((xValue, index) =>
+comparatorArray[index].map(yValue => ({
+  // eslint-disable-next-line
+  twoquals: yValue == xValue,
+  threequals: yValue === xValue,
+}))
+);
 ```
 
 What I do here is create an array of arrays, `comparatorArray`, that has all
