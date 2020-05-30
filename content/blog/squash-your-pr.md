@@ -3,9 +3,9 @@ title: 'Squash Your PR'
 date: '2016-07-03T15:02:41-05:00'
 ---
 
-> What does it mean to 'squash' a Git branch?
+### The Idea
 
-*Disclaimer: This process alters history, so do it on a feature branch, not the default branch. If it's part of a pull request, wait until the project maintainer asks you to do it– changing history on an open pull request can make an ongoing discussion difficult to follow.*
+> What does it mean to squash a Git branch?
 
 Most pull requests go through a loop like this:
 
@@ -15,9 +15,10 @@ Most pull requests go through a loop like this:
 4. Repeat #2 and #3 until pull request is ready to merge
 5. Maintainer merges pull request
 
-Prior to the merge, the pull request branch can be pretty messy. We can fix this by 'squashing' the branch.
+Prior to the merge, the pull request branch can be pretty messy. We can fix
+this by squashing the branch.
 
-Check out this branch:
+Consider this made-up Git branch:
 
 ```
 * 724d574 (HEAD -> issue/38) Good to merge!
@@ -28,13 +29,25 @@ Check out this branch:
 * 4c7ead2 Test breaker
 ```
 
-The final commit, `724d574`, has been approved to merge by the repo maintainer, but it's a mess. We have a commit that's just refactoring (`e2af5ac`), two commits that negate each other (`ea479cb` and `77aee1d`), and one that has failing tests (`4c7ead2`).
+The final commit, `724d574` (at the top), has been approved to merge by the
+repo maintainer. But this branch is  a mess. We have a commit that's just
+refactoring (`e2af5ac`), two commits that negate each other (`ea479cb` and
+`77aee1d`), and one that has failing tests (`4c7ead2`).
 
-Let's squash it!
+Some projects use squash merges, which turn this entire list into one commit.
+That technique can work out okay, but you can lose a ton of context by
+squashing 5, 10, or 20 commits into one. I'd prefer to squash it myself. Let's
+squash it!
+
+*Disclaimer! This process alters history, so do it on a feature branch, not the
+default branch. If it's part of a pull request, wait until the project
+maintainer asks you to do it– changing history on an open pull request can make
+an ongoing discussion difficult to follow.*
 
 ### The Squash
 
-We'll use  `git rebase`, interactive mode, going back to the start of our branch (six commits in the past):
+We'll use  `git rebase`, interactive mode, going back to the start of our
+branch (six commits in the past):
 
 ```
 $ git rebase -i HEAD~6
@@ -70,7 +83,10 @@ pick 724d574 Good to merge!
 # Note that empty commits are commented out
 ```
 
-Our goal is to make the log [atomic](https://en.wikipedia.org/wiki/Atomic_commit). In short, we want each commit to contain distinct changes, that pass all tests, summarized by a simple message.
+Our goal is to make the log
+[atomic](https://en.wikipedia.org/wiki/Atomic_commit). In short, we want each
+commit to contain distinct changes, that pass all tests, summarized by a simple
+message.
 
 Here's some notes on these commits:
 
@@ -92,9 +108,14 @@ s e2af5ac Refactoring the previous commit
 s 724d574 Good to merge!
 ```
 
-This will delete (`d`) our two useless commits, and squash (`s`) all four useful commits together. An alternative to `squash` is `fixup`, `f`, which squashes and picks the first commit message in the list to cover them all. That's bad here, because the first commits' message (`Test breaker`) isn't very good.
+This will delete (`d`) our two useless commits, and squash (`s`) all four
+useful commits together. An alternative to `squash` is `fixup`, `f`, which
+squashes and picks the first commit message in the list to cover them all.
+That's bad here, because the first commits' message (`Test breaker`) isn't very
+good.
 
-Save and close the file, and you'll be in a new commit message editing window, with all four messages available:
+Save and close the file, and you'll be in a new commit message editing window,
+with all four messages available:
 
 ```
 # This is a combination of 4 commits.
@@ -126,7 +147,8 @@ Good to merge!
 # You are currently editing a commit while rebasing branch 'master' on 'dd6bb12'.
 ```
 
-Time to write the squash message. If the issue at hand is issue #38, 'Back button is broken', then I'd change the first line of this file to this:
+Time to write the squash message. If the issue at hand is issue #38, 'Back
+button is broken', then I'd change the first line of this file to this:
 
 ```
 Fixes the back button
@@ -138,7 +160,8 @@ Close #38
 #
 ```
 
-`Close #38` is a Github feature; when the branch is merged into the default branch, Github issue #38 will be closed automatically.
+`Close #38` is a Github feature; when the branch is merged into the default
+branch, Github issue #38 will be closed automatically.
 
 Here's our revised history:
 
@@ -146,7 +169,8 @@ Here's our revised history:
 * 4e763d3 (HEAD -> issue/38) Fixes the back button
 ```
 
-Much better! Force push it to Github, which we can do because we're on our own feature branch:
+Much better! Force push it to Github, which we can do because we're on our own
+feature branch:
 
 ```
 $ git push -f
@@ -162,8 +186,17 @@ Is your rebase going wrong? Don't panic. You can abort the rebase with:
 $ git rebase --abort
 ```
 
-Even with the rebase is complete, you can travel go back in time with the [git reflog](https://til.hashrocket.com/posts/9c3ea5a6f6-undo-a-git-mistake).
+Even with the rebase is complete, you can always travel go back in time with
+the [git
+reflog](https://til.hashrocket.com/posts/9c3ea5a6f6-undo-a-git-mistake).
 
 ### Conclusion
 
-Keeping the history of a big project tidy is a never-ending process. As an open-source project maintainer, I'm always trying to make commits smaller, better organized, more coherent. Do your favorite OSS maintainer and your own projects a favor and do your work on a feature branch, and when finished, squash your commits as logically as you can. It will make your code and the project better.
+Keeping the history of a big project tidy is a never-ending process. As an
+open-source project maintainer, I'm always trying to make commits smaller,
+better organized, more coherent. Do your favorite OSS maintainer and your own
+projects a favor and do your work on a feature branch, and when finished,
+squash your commits as logically as you can. It will make your code and the
+project better.
+
+Thanks for reading.
