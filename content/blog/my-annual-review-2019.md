@@ -4,13 +4,21 @@ date: '2019-12-31T00:00:00-16:00'
 ---
 
 Every year I conduct an annual review to reflect on the ending professional
-year. Here are my notes from this year's review.
+year. I share the results of that review on this blog. For those who may be interested,
+here's the full list:
+
+- [My Annual Review 2015](/my-annual-review-2015/)
+- [My Annual Review 2016](/my-annual-review-2016/)
+- [My Annual Review 2017](/my-annual-review-2017/)
+- [My Annual Review 2018](/my-annual-review-2018/)
+
+And here are my notes from this year's review.
 
 ### Milestones
 
 Here are my milestones from 2019. This year, I:
 
-- [Ported my blog](/gatsby-port) from Rails to Gatsby.js. I am ecstatic about
+- 🎉 [Ported this blog](/gatsby-port) from Rails to Gatsby.js. I am ecstatic about
   this change. Writing React and markdown, and deploying with GitHub, makes for
   an effortless workflow. I also [open sourced](/open-source-again) the
   codebase ([source code](https://github.com/jwworth/jakeworth)). I'd love some
@@ -65,6 +73,6 @@ Here are some of my takeaways after another year in the programming trenches.
 ### Thank You
 
 Thanks to my family and friends, everyone at Hashrocket, and my clients for another
-wonderful year as a programmer. And thank you for reading.
+wonderful years as a programmer. And thank you for reading.
 
 Happy New Year everyone.
