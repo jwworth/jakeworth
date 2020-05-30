@@ -23,8 +23,16 @@ const Now = props => {
         ]}
       />
       <h1>Now</h1>
-      <p>Home base: Maine. 🌲</p>
-      <p>I like to stay busy! Here's what I'm working on right now:</p>
+      <p>
+        <strong>Home base:</strong> Portland, Maine. 🌲
+      </p>
+      <p>
+        <strong>Quote I'm pondering:</strong> "Don’t look for the next
+        opportunity. The one you have in hand is the opportunity." –Paul Adren
+      </p>
+      <p>
+        <strong>What I'm working on right now:</strong>
+      </p>
       <ul>
         <li>
           🖥 Coding and consulting remotely for{' '}
@@ -35,10 +43,11 @@ const Now = props => {
           >
             Hashrocket
           </a>
-          , writing React, Elixir, and Ruby.
+          , writing React, Elixir, and Ruby. Approaching my sixth year on the
+          team!
         </li>
         <li>
-          💻 Shipping side projects. In progress:{' '}
+          💻 Shipping side projects. In progress or recently shipped:{' '}
           <a
             href="https://www.thebellisringing.com/"
             target="_blank"
@@ -46,12 +55,12 @@ const Now = props => {
           >
             The Bell
           </a>
-          , a poem about the quarantine, and a Gibson Les Paul copy from a
-          guitar kit.
+          , a poem about the quarantine, and a Gibson Les Paul electric guitar
+          copy from a kit.
         </li>
         <li>
           {' '}
-          🇺🇸 Teaching workshops and volunteering at{' '}
+          🇺🇸 Teaching SQL workshops and mentoring at{' '}
           <a
             href="https://www.codeplatoon.org/"
             target="_blank"
@@ -69,25 +78,6 @@ const Now = props => {
             rel="noopener noreferrer"
           >
             Today I Learned
-          </a>
-          .
-        </li>
-        <li>
-          🎨 Completing the{' '}
-          <a
-            href="https://www.dailyui.co/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Daily UI
-          </a>{' '}
-          challenge. Follow my progress{' '}
-          <a
-            href="https://twitter.com/search?q=%23DailyUI%20(from%3Ajwworth)"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            here
           </a>
           .
         </li>
