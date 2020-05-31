@@ -29,7 +29,10 @@ const Bio = () => (
           <p>
             I'm <a href="https://twitter.com/jwworth/">{author}</a>, a web
             developer. <Link to={`/`}>Home</Link>{' '}
-            <Link to={`/about/`}>About</Link> <Link to={`/now/`}>Now</Link>
+            <Link to={`/about/`}>About</Link> <Link to={`/now/`}>Now</Link>{' '}
+            <a href={`https://www.getrevue.co/profile/react-explained/`}>
+              Newsletter
+            </a>
           </p>
         </div>
       )
