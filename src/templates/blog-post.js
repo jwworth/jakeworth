@@ -26,6 +26,18 @@ const BlogPostTemplate = props => {
         {post.frontmatter.date} • {post.timeToRead} min read
       </p>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
+
+      <p>
+        <em>
+          P.S. Did you enjoy this post? I'm currently launching a React-focused
+          newsletter to help people get up to speed on this exploding
+          technology.{' '}
+          <a href="https://www.getrevue.co/profile/react-explained/">
+            Subscribe to React Explained here!
+          </a>
+        </em>
+      </p>
+
       <hr
         style={{
           marginBottom: rhythm(1),
