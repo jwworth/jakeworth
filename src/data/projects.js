@@ -16,6 +16,14 @@ const projects = [
       'Learning in public is a valuable offering. Elixir is a joy to write. Phoenix stacks up well against Ruby on Rails.',
   },
   {
+    uuid: '00ffd5ac-93d0-4fe1-9509-4598a4e75414',
+    title: 'React Explained',
+    link: 'https://www.getrevue.co/profile/react-explained/',
+    description:
+      'Do you want to really (really!) learn React, while staying current on this exploding ecosystem? Subscribe to React Explained, a weekly newsletter of amazing, curated React news and resources, simply explained. It’s free! Subscribe now.',
+    image: 'https://imgur.com/vu5MAzm.png',
+  },
+  {
     uuid: '5faab9e4-bf23-4021-8e2d-8156346cdb95',
     title: 'The Bell',
     link: 'https://www.thebellisringing.com/',
