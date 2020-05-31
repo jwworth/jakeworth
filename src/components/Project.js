@@ -18,9 +18,11 @@ const Project = props => {
       <p>
         <strong>{title}:</strong> {description}
       </p>
-      <p>
-        <strong>Stack:</strong> {stack}
-      </p>
+      {stack && (
+        <p>
+          <strong>Stack:</strong> {stack}
+        </p>
+      )}
       {repo && (
         <p>
           <strong>Code:</strong> <a href={repo}>GitHub</a>
@@ -39,15 +41,21 @@ const Project = props => {
           <img className="img-link" src={image} alt={title} />
         </a>
       </p>
-      <p>
-        <strong>Purpose and Goal:</strong> {purpose}
-      </p>
-      <p>
-        <strong>Stack Explanation:</strong> {stackExplanation}
-      </p>
-      <p>
-        <strong>Lessons Learned:</strong> {lessonsLearned}
-      </p>
+      {purpose && (
+        <p>
+          <strong>Purpose and Goal:</strong> {purpose}
+        </p>
+      )}
+      {stackExplanation && (
+        <p>
+          <strong>Stack Explanation:</strong> {stackExplanation}
+        </p>
+      )}
+      {lessonsLearned && (
+        <p>
+          <strong>Lessons Learned:</strong> {lessonsLearned}
+        </p>
+      )}
     </li>
   )
 }
