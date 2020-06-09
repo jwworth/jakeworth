@@ -10,7 +10,7 @@ Here are two mappings I've set up to replace common search behaviors with with
 their Ripgrep equivalent. The first uses Ripgrep for Vim searches, and the
 second uses Ripgrep for `:grep` command-mode searches.
 
-```viml
+```
 if executable('rg')
   " Use ripgrep for Vim search
   let g:ackprg = 'rg --vimgrep'
