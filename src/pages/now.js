@@ -47,7 +47,15 @@ const Now = props => {
           anniversary on the team!
         </li>
         <li>
-          💻 Shipping side projects. In progress or recently shipped:{' '}
+          📦 Shipping side projects. In progress or recently shipped:{' '}
+          <a
+            href="https://www.getrevue.co/profile/react-explained"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            React Explained
+          </a>
+          ,{' '}
           <a
             href="https://www.thebellisringing.com/"
             target="_blank"
@@ -55,8 +63,8 @@ const Now = props => {
           >
             The Bell
           </a>
-          , a poem about the quarantine, and a Gibson Les Paul electric guitar
-          copy from a kit.
+          , a poem about the quarantine, a Gibson Les Paul electric guitar copy
+          from a kit.
         </li>
         <li>
           {' '}
