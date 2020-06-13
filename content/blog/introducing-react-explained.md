@@ -7,7 +7,7 @@ Today, I'd like to introduce my newest project, a free weekly newsletter for
 React learners called [React Explained][re]. 🎉
 
 For as long as React has existed, I've been a fan. And I'm also a big reader of
-curated developer newsletters, from Ruby, PostgresQL, and JavaScript Weekly, to
+curated developer newsletters, from Ruby, PostgreSQL, and JavaScript Weekly, to
 Elixir Weekly, Elixir Radar, and Inside AI.
 
 I also found React hard difficult to learn when I was first starting out.
