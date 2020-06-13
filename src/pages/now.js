@@ -43,8 +43,8 @@ const Now = props => {
           >
             Hashrocket
           </a>
-          , writing React, Elixir, and Ruby. Approaching my sixth year on the
-          team!
+          , writing React, Elixir, and Ruby. Approaching my sixth year
+          anniversary on the team!
         </li>
         <li>
           💻 Shipping side projects. In progress or recently shipped:{' '}
