@@ -27,17 +27,20 @@ const BlogPostTemplate = props => {
       </p>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
 
+      <hr />
+
       <p>
         <em>
-          P.S. Did you enjoy this post? I'm currently launching a React-focused
-          newsletter to help people get up to speed on this exploding
-          technology.{' '}
+          Each week, I write an email about React. It's a collection of quotes,
+          news, conference talks, and documentation curated be me to help you
+          get up to speed on this exploding ecosystem. Join my subscribers today
+          by subscribing to{' '}
           <a href="https://www.getrevue.co/profile/react-explained/">
-            Subscribe to React Explained here!
+            React Explained
           </a>
+          .
         </em>
       </p>
-
       <hr
         style={{
           marginBottom: rhythm(1),
