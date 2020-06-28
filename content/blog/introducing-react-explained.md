@@ -10,11 +10,10 @@ For as long as React has existed, I've been a fan. And I'm also a big reader of
 curated developer newsletters, from Ruby, PostgreSQL, and JavaScript Weekly, to
 Elixir Weekly, Elixir Radar, and Inside AI.
 
-I also found React hard difficult to learn when I was first starting out.
-Despite React's compact API, it is built on a handful of big and revolutionary
-ideas. In my role as a mentor at [Code Platoon][cp], I've watched others
-struggle to learn React, again and again. For many people, it just doesn't
-click right away.
+I also found React difficult to learn when I was first starting out. Despite
+React's compact API, it is built on a handful of revolutionary ideas. In my
+role as a mentor at [Code Platoon][cp], I've watched others struggle to learn
+React, again and again. For many people, it just doesn't click right away.
 
 I did a survey of the landscape and concluded that the existing newsletters in
 the React space aren't geared for beginners. I want to help somebody learning
