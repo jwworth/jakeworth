@@ -40,8 +40,14 @@ const About = props => {
         <a href="https://til.hashrocket.com/">Today I Learned</a>, a popular
         blog that’s the number-one referrer of traffic to my company website.
       </p>
-      <p>Thanks for stopping by!</p>
+
+      <p>
+        The fastest way to get in touch with me is via{' '}
+        <a href="https://twitter.com/jwworth">Twitter</a>. Thanks for stopping
+        by!
+      </p>
       <p>Jake</p>
+
       <div className="projects">
         <h3>Projects</h3>
         <ul>
