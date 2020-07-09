@@ -24,10 +24,10 @@ const Now = props => {
       />
       <h1>Now</h1>
       <p>
-        <strong>Home base:</strong> Portland, Maine. 🌲
+        <strong>Home base:</strong> 🌲 Portland, Maine.
       </p>
       <p>
-        <strong>Quote I'm pondering:</strong> "Don’t look for the next
+        <strong>Quotes I'm pondering:</strong> "Don’t look for the next
         opportunity. The one you have in hand is the opportunity." –Paul Adren
       </p>
       <p>
@@ -43,11 +43,11 @@ const Now = props => {
           >
             Hashrocket
           </a>
-          , writing React, Elixir, and Ruby. Approaching my sixth year
-          anniversary on the team!
+          , writing React, Elixir, and Ruby. Approaching my six-year anniversary
+          on the team!
         </li>
         <li>
-          📦 Shipping side projects. In progress or recently shipped:{' '}
+          📦 Shipping side projects. Recently shipped:{' '}
           <a
             href="https://www.getrevue.co/profile/react-explained"
             target="_blank"
@@ -98,7 +98,15 @@ const Now = props => {
           >
             Learning in public
           </a>{' '}
-          about React.
+          about React via{' '}
+          <a
+            href="https://www.getrevue.co/profile/react-explained"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            React Explained
+          </a>
+          .
         </li>
       </ul>
     </Layout>
