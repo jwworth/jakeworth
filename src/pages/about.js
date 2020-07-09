@@ -26,7 +26,7 @@ const About = props => {
         ]}
       />
       <h1>About</h1>
-      <p>Hi there! I’m Jake. 👋</p>
+      <p>Hi there! I’m Jake. 🎸</p>
       <p>
         I am an Army veteran, self-taught programmer, and consultant working
         remotely at <a href="https://hashrocket.com/">Hashrocket</a>.
