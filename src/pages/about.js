@@ -56,6 +56,7 @@ const About = props => {
           ))}
         </ul>
       </div>
+
       <h3>Talks</h3>
       <ul>
         <li>
@@ -149,6 +150,7 @@ const About = props => {
           2015.
         </li>
       </ul>
+
       <h3>Profiles</h3>
       <ul>
         <li>
