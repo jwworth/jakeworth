@@ -9,8 +9,13 @@ import SEO from '../components/seo'
 const BlogPostTemplate = props => {
   const post = props.data.markdownRemark
   const siteTitle = props.data.site.siteMetadata.title
-  const { previous, next } = props.pageContext
+  const { previous, next, slug } = props.pageContext
+  const editLink = `https://github.com/jwworth/jakeworth/edit/master/content/blog${slug.slice(
+    0,
+    -1
+  )}.md`
 
+  console.log(props)
   return (
     <Layout location={props.location} title={siteTitle}>
       <SEO title={post.frontmatter.title} description={post.excerpt} />
@@ -26,6 +31,9 @@ const BlogPostTemplate = props => {
         {post.frontmatter.date} • {post.timeToRead} min read
       </p>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
+      <p>
+        <a href={editLink}>Edit on GitHub</a>
+      </p>
 
       <hr />
 
