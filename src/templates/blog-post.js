@@ -15,7 +15,6 @@ const BlogPostTemplate = props => {
     -1
   )}.md`
 
-  console.log(props)
   return (
     <Layout location={props.location} title={siteTitle}>
       <SEO title={post.frontmatter.title} description={post.excerpt} />
