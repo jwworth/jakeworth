@@ -63,8 +63,7 @@ const Now = props => {
           >
             The Bell
           </a>
-          , a poem about the quarantine, a Gibson Les Paul electric guitar copy
-          from a kit.
+          , a Gibson Les Paul electric guitar copy from a kit, an owl house.
         </li>
         <li>
           {' '}
