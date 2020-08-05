@@ -15,7 +15,7 @@ Rip them out and start again.
 
 For a JavaScript project, there are two techniques I've used: manual and library-assisted.
 
-Manual cleanup means reading your JavaScript lockfile (usually `package.json`)
+Manual cleanup means reading your JavaScript manifest (usually `package.json`)
 and looking for libraries that may be unused. Read the docs and figure out how
 the library is imported, and then search your codebase with a tool like Ag, Rg,
 or Ack for such an import. Run your tests, too. If you can't find an import,
