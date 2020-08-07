@@ -28,17 +28,18 @@ const About = props => {
       <h1>About</h1>
       <p>Hi there! I’m Jake. 🎸</p>
       <p>
-        I am an Army veteran, self-taught programmer, and consultant working
+        I'm an Army veteran, self-taught programmer, and consultant working
         remotely at <a href="https://hashrocket.com/">Hashrocket</a>.
       </p>
       <p>
-        Check out my <a href="/">homepage</a> to explore my writing,{' '}
-        <a href="/now/">now</a> to see what I’m currently jazzed about, and my
-        projects, talks, and profiles below. I’m most proud of my volunteer work
-        at <a href="https://www.codeplatoon.org/">Code Platoon</a>, presenting
-        at RailsConf, and building{' '}
+        Please visit my <a href="/">homepage</a> to explore my writing,{' '}
+        <a href="/now/">Now</a> to see what I’m currently jazzed about, and my
+        projects, talks, and profiles below. I'm most proud of my volunteer work
+        mentoring and teaching SQL to veterans at{' '}
+        <a href="https://www.codeplatoon.org/">Code Platoon</a>, presenting
+        about automated testing at RailsConf 2017, and building{' '}
         <a href="https://til.hashrocket.com/">Today I Learned</a>, a popular
-        blog that’s the number-one referrer of traffic to my company website.
+        developer blog with millions of annual visitors.
       </p>
 
       <p>
