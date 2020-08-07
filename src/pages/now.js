@@ -1,12 +1,34 @@
+import React, { useMemo } from 'react'
 import { graphql } from 'gatsby'
-import React from 'react'
 
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
 
+const THINKING_ABOUT = [
+  'SPA state management',
+  'autoformatting',
+  'being a senior developer',
+  'code reviews',
+  'development roadmaps',
+  'ethics of technology',
+  'language design',
+  'mentorship & teaching',
+  'organizational change',
+  'programming ergonomics',
+  'remote work',
+  'spaced repetition',
+  'testing',
+  'the limits of SPAs',
+  'tradeoffs',
+  'type safety',
+  'virality',
+]
+
 const Now = props => {
   const { data } = props
   const siteTitle = data.site.siteMetadata.title
+
+  const thoughts = THINKING_ABOUT.join(', ')
 
   return (
     <Layout location={props.location} title={siteTitle}>
@@ -107,6 +129,7 @@ const Now = props => {
           </a>
           .
         </li>
+        <li>🧠 Trying to better understand: {thoughts}. </li>
       </ul>
     </Layout>
   )
