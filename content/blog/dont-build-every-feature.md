@@ -12,7 +12,8 @@ source code, and you'll see that you cannot delete posts through the user
 interface. I've even toyed with the idea of preventing deletes at the data
 layer.
 
-Why ignore a basic CRUD feature? We didn't ignore it. It was intentional.
+Why ignore a basic CRUD feature? We didn't ignore it. It was intentionally
+omitted.
 
 I've thought about this decision a lot over the last two years. It's lasted
 over many pull requests, issues, forks, and discussions. I addressed it
@@ -23,7 +24,7 @@ Preventing deletes was a hack to make Today I Learned feel permanent. If the
 goal of the site was to show the world what we at Hashrocket are learning, why
 allow people to self-censor that journey? The temptation to obsess over your
 output until it's a flawless diamond of competence is too great, especially
-among high performing programmers.
+among high-performing programmers.
 
 As a Hashrocket apprentice, I was certain that my pride would push me to go
 back and delete my old posts. To present a facade to the world that I arrived

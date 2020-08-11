@@ -13,17 +13,17 @@ migrations, each of which can be rolled back. The changes should touch a
 limited number of files, and leave a green test suite. Everything should be
 reversible without side effects.
 
-Anyone who has paired with me knows: when I'm pair programming, I'm quick to
-say: "Can we commit this now?" I want to commit as soon as the tests are green,
-as soon as I have an inkling that refactoring or optimization is imminent, the
-moment we let our attention drift, the second anything other than the current
-feature is up for discussion.
+Anyone who has paired-programmed with me knows that I'm quick to say "Can we
+commit this now?" I want to commit as soon as the tests are green, as soon as I
+have an inkling that refactoring or optimization is imminent, the moment we let
+our attention drift, the second anything other than the current feature is up
+for discussion.
 
 I call this philosophy **Work Small**.
 
 ### What is Working Small?
 
-Working small: obsess about the small task at hand. Measure and remeasure,
+Work small: obsess over the small task at hand. Measure and remeasure,
 discuss edge cases, ponder if you are using the right tools, sharpen them. Pick
 the smallest part of the problem you can solve and solve it. Don't stop until
 it's perfect. When it's perfect, sand the splinters away, cast it in lacquer,
@@ -52,7 +52,7 @@ excuse to cancel your weekend plans.
 As an OSS maintainer, small is everything. Your commits tell a story. If that
 story is a mess, take the time to clean it up before asking someone else to
 load it into their head, too. I'll take four tight commit messages over twenty
-'WIP' every time. I understand each step, and can revert them someday. We can
+'WIP's every time. I understand each step, and can revert them someday. We can
 always squash the pull request once everyone approves the change.
 
 Work small.
