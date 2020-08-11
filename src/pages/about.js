@@ -43,7 +43,7 @@ const About = props => {
       </p>
       <p>
         Please visit my <a href="/">homepage</a> to explore my writing,{' '}
-        <a href="/now/">Now</a> to see what I’m currently jazzed about, and my
+        <a href="/now/">Now</a> to see what I'm currently excited about, and my
         projects, talks, and profiles below. I'm most proud of my volunteer work
         mentoring and teaching SQL to veterans at{' '}
         <a href="https://www.codeplatoon.org/">Code Platoon</a>, presenting
