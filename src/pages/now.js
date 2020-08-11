@@ -10,6 +10,7 @@ const THINKING_ABOUT = [
   'being a senior developer',
   'code reviews',
   'development roadmaps',
+  'entrepreneurship',
   'ethics of technology',
   'language design',
   'mentorship & teaching',
