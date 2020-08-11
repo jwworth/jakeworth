@@ -10,6 +10,16 @@ const About = props => {
   const { data } = props
   const siteTitle = data.site.siteMetadata.title
   const about = data.markdownRemark
+  const day = new Date().getDay()
+  const dayName = [
+    'Sunday',
+    'Monday',
+    'Tuesday',
+    'Wednesday',
+    'Thursday',
+    'Friday',
+    'Saturday',
+  ][day]
 
   return (
     <Layout location={props.location} title={siteTitle}>
@@ -26,7 +36,7 @@ const About = props => {
         ]}
       />
       <h1>About</h1>
-      <p>Hi there! I’m Jake. 🎸</p>
+      <p>Happy {dayName}! I’m Jake. 🎸</p>
       <p>
         I'm an Army veteran, self-taught programmer, and consultant working
         remotely at <a href="https://hashrocket.com/">Hashrocket</a>.
