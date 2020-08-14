@@ -39,17 +39,17 @@ const BlogPostTemplate = props => {
       )}
 
       <hr />
-
       <p>
         <em>
-          Each week, I write an email about React. It's a collection of quotes,
-          news, conference talks, and documentation curated be me to help you
-          get up to speed on this exploding ecosystem. Join my subscribers today
-          by subscribing to{' '}
-          <a href="https://www.getrevue.co/profile/react-explained/">
-            React Explained
-          </a>
-          .
+          Did you enjoy this post? Follow me on{' '}
+          <a
+            href="https://twitter.com/jwworth"
+            rel="norel noreferrer"
+            target="_blank"
+          >
+            Twitter
+          </a>{' '}
+          for more.
         </em>
       </p>
       <hr
