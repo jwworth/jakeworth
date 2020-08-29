@@ -47,16 +47,16 @@ const Now = props => {
         ]}
       />
       <h1>Now</h1>
+
+      <strong>Home base:</strong>
+      <p>⚓️ Portland, Maine.</p>
+
+      <strong>Quote I'm pondering:</strong>
       <p>
-        <strong>Home base:</strong> 🌲 Portland, Maine.
+        "Don’t look for the next opportunity. The one you have in hand is the
+        opportunity." –Paul Adren
       </p>
-      <p>
-        <strong>Quote I'm pondering:</strong>
-        <p>
-          "Don’t look for the next opportunity. The one you have in hand is the
-          opportunity." –Paul Adren
-        </p>
-      </p>
+
       <p>
         <strong>What I'm working on right now:</strong>
       </p>
