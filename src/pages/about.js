@@ -57,7 +57,9 @@ const About = props => {
         <a href="https://twitter.com/jwworth">Twitter</a>. Thanks for stopping
         by!
       </p>
-      <p>Jake</p>
+      <p>
+        <em>Jake</em>
+      </p>
 
       <div className="projects">
         <h3>Projects</h3>
