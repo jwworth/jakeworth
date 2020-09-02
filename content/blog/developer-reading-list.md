@@ -36,3 +36,18 @@ Please reach out to me if you have recommended additions to this list.
 - Weinberg, Gerald M. _The Secrets of Consulting: A Guide to Giving and
   Getting Advice Successfully_. Not just for consultants, but anyone who
   would like to influence a technical organization.
+- Newport, Cal. _So Good They Can't Ignore You: Why Skills Trump Passion in the
+  Quest for Work You Love_. Do you want to be a great programmer? This book
+  makes the case that the passion we chase as professionals only comes when we
+  have first put in the work to be exceptional.
+- Godin, Seth. _The Dip: A Little Book That Teaches You When to Quit (and When
+  to Stick)_. Starting a project or working for a startup both require an
+  important soft skill: knowing when to lean in, and when to walk away.
+- Godin, Seth. _Linchpin: Are You Indispensable?_ This book makes the argument
+  that as more work, including programming, becomes automated, the
+  professionals who will stand out in the future will be those who've mastered
+  the 'soft skills'– authenticity, passion, communication– that many developers
+  ignore.
+- Hansson, David Heinemeier and Fried, Jason. _Remote: Office Not Required_.
+  Can your team function remotely? For almost every team, yes. Should you try
+  it out? Also yes.
