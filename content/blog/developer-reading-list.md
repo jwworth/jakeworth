@@ -3,9 +3,8 @@ title: 'Developer Reading List'
 date: '2019-09-28T00:00:00-06:00'
 ---
 
-Getting started as a programmer, what books should one read?  This is my list
-of the programming books that I think are essential for folks entering the
-field.
+Getting started as a programmer, what books should one read? This is my list of
+the programming books that I think are essential for folks entering the field.
 
 These books are classics. They introduced ideas and terminology that changed
 the discourse. I believe being aware of these seismic shifts is an important
@@ -20,9 +19,20 @@ Please reach out to me if you have recommended additions to this list.
 
 ### My List
 
-- **Beck, Kent and Andres, Cynthia. _Extreme Programming Explained: Embrace Change_**. XP informs so much of modern software development that it's hard to grasp how revolutionary it was.
-- **Hoover, Dave and Oshineye, Adewale. _Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman_**. This book will help anyone create a strategy for their early programming career.
-- **Hunt, Andrew and Thomas, David. _The Pragmatic Programmer: From Journeyman to Master_**. A broad survey of the techniques every programmer must know.
-- **Krug, Steve. _Don't Make Me Think: A Common Sense Approach to Web Usability_.** A clear, concise overview of how good UI reduces the amount of arbitrary choices asked of users.
-- **Metz, Sandi. _Practical Object Oriented Design in Ruby_.** Sandi is my hero! Perhaps the defining introduction to OO.
-- **Weinberg, Gerald M. _The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully_.** Not just for consultants, but anyone who would like to influence a technical organization.
+- Beck, Kent and Andres, Cynthia. _Extreme Programming Explained: Embrace
+  Change_. XP informs so much of modern software development that it's hard
+  to grasp how revolutionary it was in its time.
+- Hoover, Dave and Oshineye, Adewale. _Apprenticeship Patterns: Guidance for
+  the Aspiring Software Craftsman_. This book will help anyone create a
+  strategy for their early programming career.
+- Hunt, Andrew and Thomas, David. _The Pragmatic Programmer: From Journeyman
+  to Master_. A broad survey of the techniques every programmer must know,
+  described in useful metaphors.
+- Krug, Steve. _Don't Make Me Think: A Common Sense Approach to Web
+  Usability_. A clear, concise overview of how good UI reduces the amount of
+  arbitrary choices we ask of our users.
+- Metz, Sandi. _Practical Object Oriented Design in Ruby_. Sandi is my
+  hero! Perhaps the defining introduction to Object-Oriented Programming.
+- Weinberg, Gerald M. _The Secrets of Consulting: A Guide to Giving and
+  Getting Advice Successfully_. Not just for consultants, but anyone who
+  would like to influence a technical organization.
