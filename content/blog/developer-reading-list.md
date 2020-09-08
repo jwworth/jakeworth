@@ -15,7 +15,7 @@ so. I will update this list over time with new classics I discover. In that
 sense, the date on this post is just the moment when I first made the list. It
 will be updated.
 
-Please reach out to me if you have any suggested reading for me.
+Please reach out if you have any suggested reading for me.
 
 ### My List
 
