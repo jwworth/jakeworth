@@ -3,19 +3,19 @@ title: 'Developer Reading List'
 date: '2019-09-28T00:00:00-06:00'
 ---
 
-Getting started as a programmer, what books should one read? This is my list of
-the programming books that I think are essential for folks entering the field.
+Getting started as a programmer, what books should one read? These are the
+programming books that I have found useful in my professional development.
 
-These books are classics. They introduced ideas and terminology that changed
-the discourse. I believe being aware of these seismic shifts is an important
-part of doing this work.
+Some of these books are programming classics; others are business and
+team-focused. I have stolen ideas and terminology from each one that I use
+every day.
 
 Is this list complete? No. I'm still reading, and I expect to always be doing
 so. I will update this list over time with new classics I discover. In that
 sense, the date on this post is just the moment when I first made the list. It
 will be updated.
 
-Please reach out to me if you have recommended additions to this list.
+Please reach out to me if you have any suggested reading for me.
 
 ### My List
 
