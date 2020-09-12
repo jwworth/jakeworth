@@ -114,9 +114,8 @@ to motivate me to pay closer attention to the resources around me.
 
 For my personal learning, this year I got deeper into PostgreSQL, Go, and
 React.js. I improved at pair programming, building strong professional
-relationships, and working with clients. I [replaced all the keys on my
-keyboard with blank ones](http://www.jakeworth.com/hard-mode-keyboard-edition)
-and improved at touch typing.
+relationships, and working with clients. I replaced all the keys on my keyboard
+with blank ones and improved at touch typing.
 
 ### Next Year (2016)
 

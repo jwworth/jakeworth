@@ -18,7 +18,9 @@ This app incorporates all the leading practices I have learned at this stage in 
 * Markdown-supporting
 * Running on a fast Puma webserver and Heroku hosting
 * Loaded with cool gems and tools I want to experiment with
-* Styled by me (although I love Bootstrap) *Edit 2/2016: switched back to Bootstrap, see:* http://www.jakeworth.com/blog-redesign-part-2
+* Styled by me (although I love Bootstrap) *Edit 2/2016: [switched back to Bootstrap][bootstrap]* 
 * Open Source
 
 As a side note, I wrote most of this platform during breaks at RailsConf. Powered by coffee.
+
+[bootstrap]: /blog-redesign-part-2

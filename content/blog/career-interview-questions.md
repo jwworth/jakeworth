@@ -112,16 +112,17 @@ in pursuing a computer programming career?**
 
 Do it.
 
-I wrote this a while ago, to try and distill my suggestions:
-http://www.jakeworth.com/learning-to-program
+[I wrote this a while ago][wrote], to try and distill my suggestions:
 
 If I had to add to the list of tips here:
 
 - Hard skills trump soft skills.
 - Take notes. I use a Moleskine notebook, and also https://til.hashrocket.com/.
   People who write things down are just more effective.
--  Focus on building, not on learning. When I started, I spent a lot of time
-   reading docs and doing tutorials. Try to get to a point where you can build
-   something simple, then just start doing it.
+- Focus on building, not on learning. When I started, I spent a lot of time
+  reading docs and doing tutorials. Try to get to a point where you can build
+  something simple, then just start doing it.
 
 Hope this helps!
+
+[wrote]: /learning-to-program

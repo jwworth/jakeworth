@@ -5,7 +5,7 @@ date: '2016-01-09T19:26:27-06:00'
 
 This week at Hashrocket Chicago we had the first meeting of an internal company book club.
 
-This was something I'd been interested in for a while, beginning with the [Code Club](http://www.jakeworth.com/code-club) I was a part of a few years ago.
+This was something I'd been interested in for a while, beginning with the [Code Club](/code-club) I was a part of a few years ago.
 
 I threw the idea out to some coworkers as a project for the new year, and the response was positive. Launching it during January had a beneficial side-effect of coinciding with a lot of people's New Year's resolutions. Surveying seven interesting or trending languages is a good exercise for programmers of every level.
 
@@ -58,4 +58,4 @@ Finally, added some resources, all of which helped me get an initial grasp on th
 
 https://github.com/jwworth/resources#lua
 
-We are taking a second week to explore Lua, and I hope to write some more complex programs during that time. Overall this was a great exercise, a fun diversion for the people who participated, and a step toward my [goals for 2016](http://www.jakeworth.com/my-annual-review-2015).
+We are taking a second week to explore Lua, and I hope to write some more complex programs during that time. Overall this was a great exercise, a fun diversion for the people who participated, and a step toward my [goals for 2016](/my-annual-review-2015).

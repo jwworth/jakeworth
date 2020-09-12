@@ -3,7 +3,7 @@ title: 'Adding jQuery to Phoenix'
 date: '2017-01-05T21:31:17-06:00'
 ---
 
-We've been building a Phoenix application lately; here's the [backstory](http://www.jakeworth.com/porting-til-to-phoenix-initial-commits).
+We've been building a Phoenix application lately; here's the [backstory](/porting-til-to-phoenix-initial-commits).
 
 Today I stared porting the *Sprinkles of JavaScript*™ to our ongoing Phoenix port, which is now [alive](https://github.com/hashrocket/tilex). Some of that legacy JavaScript code required jQuery, so I needed to figure out how to get that library into the project.
 

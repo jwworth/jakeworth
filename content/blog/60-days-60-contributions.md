@@ -6,8 +6,7 @@ date: '2016-05-18T22:36:40-05:00'
 For the next 58 days, I'm conducting a personal challenge to get more involved
 in the open source software community. It's called '60 Days 60 Contributions'.
 
-I did something similar about a year ago, called '60 Days 60 Hacks':
-http://www.jakeworth.com/60-days-60-hacks.
+I did something similar about a year ago, called ['60 Days 60 Hacks'][60].
 
 We open-sourced 'Today I Learned' in January. Since then I've been maintaining
 the project, and I love it. I'm learning a ton about programming, design,
@@ -52,3 +51,5 @@ Lastly, here is my Github, where these activities will (mostly) be tracked:
 https://github.com/jwworth
 
 Code on!
+
+[60]: /60-days-60-hacks

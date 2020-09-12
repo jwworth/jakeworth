@@ -46,7 +46,7 @@ and I learned a lot about OSS contributing.
 
 Lastly, this year I got into Elixir! The catalyst was reading *Seven More
 Languages in Seven Weeks* in early 2016, which featured Elixir.  I've written a
-lot about it, starting [here](http://www.jakeworth.com/why-elixir). Elixir is
+lot about it, starting [here](/why-elixir). Elixir is
 fun. I'm sharing this journey with some of my coworkers at Hashrocket. We are
 all hungry for an Elixir client project in 2017.
 

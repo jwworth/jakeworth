@@ -11,7 +11,7 @@ It's a fair question. One I occasionally ask myself, usually after building a Mi
 
 ### Rails is My Business
 
-I initially tried to capture my inspiration for this app while I was writing it, in this [post](http://www.jakeworth.com/new-blog). To summarize, 90% of my work is in Rails, and wanted my blog to be able to showcase my abilities.
+I initially tried to capture my inspiration for this app while I was writing it, in this [post](/new-blog). To summarize, 90% of my work is in Rails, and wanted my blog to be able to showcase my abilities.
 
 ### Control
 

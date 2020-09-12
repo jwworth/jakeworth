@@ -64,6 +64,6 @@ The lack of free resources reflect the relative obscurity of the language (zero
 entries in 'Free Programming Books'), so I hope this helps somebody.
 
 Overall this was a great exercise and a significant leap toward my [goals for
-2016](http://www.jakeworth.com/my-annual-review-2015).
+2016](/my-annual-review-2015).
 
 Next week: Elm!
