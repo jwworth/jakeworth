@@ -5,25 +5,15 @@ import Layout from '../components/Layout'
 import SEO from '../components/seo'
 
 const THINKING_ABOUT = [
-  'autoformatting',
-  'virality',
-  'mentorship & teaching',
-  'prototyping',
-  'ethics of technology',
-  'spaced repetition',
-  'remote work',
-  'the limits of SPAs',
+  'product development',
   'organizational change',
-  'tradeoffs',
-  'being a senior developer',
-  'programming ergonomics',
-  'testing',
-  'SPA state management',
-  'entrepreneurship',
+  'ethics of technology',
   'type safety',
+  'mentorship & teaching',
+  'remote work',
+  'being a senior developer',
+  'entrepreneurship',
   'language design',
-  'code reviews',
-  'development roadmaps',
 ]
 
 const Now = props => {
@@ -70,9 +60,10 @@ const Now = props => {
           >
             Hashrocket
           </a>
-          , writing React, Elixir, and Ruby. Approaching my six-year anniversary
+          , writing Ruby, Elixir, and React. Approaching my six-year anniversary
           on the team!
         </li>
+        <li>📣 Preparing for RubyConf 2020. I'm a waitlisted speaker.</li>
         <li>
           📦 Shipping side projects. Recently shipped:{' '}
           <a
@@ -90,7 +81,7 @@ const Now = props => {
           >
             The Bell
           </a>
-          , a Gibson Les Paul electric guitar copy from a kit, an owl house.
+          , a Gibson Les Paul electric guitar copy from a kit.
         </li>
         <li>
           {' '}
@@ -112,25 +103,6 @@ const Now = props => {
             rel="noopener noreferrer"
           >
             Today I Learned
-          </a>
-          .
-        </li>
-        <li>
-          📣{' '}
-          <a
-            href="https://www.swyx.io/writing/learn-in-public/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learning in public
-          </a>{' '}
-          about React via{' '}
-          <a
-            href="https://www.getrevue.co/profile/react-explained"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            React Explained
           </a>
           .
         </li>
