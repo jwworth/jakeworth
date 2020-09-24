@@ -43,8 +43,8 @@ const Now = props => {
 
       <strong>Quote I'm pondering:</strong>
       <p>
-        "Don’t look for the next opportunity. The one you have in hand is the
-        opportunity." –Paul Adren
+        "Not all readers are leaders, but all leaders are readers." –Harry S.
+        Truman
       </p>
 
       <p>
