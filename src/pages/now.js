@@ -43,8 +43,8 @@ const Now = props => {
 
       <strong>Quote I'm pondering:</strong>
       <p>
-        "Not all readers are leaders, but all leaders are readers." –Harry S.
-        Truman
+        "Don't tell people how to do things; tell them what to do and let them
+        surprise you with their results." –Gen. George S. Patton
       </p>
 
       <p>
@@ -60,28 +60,8 @@ const Now = props => {
           >
             Hashrocket
           </a>
-          , writing Ruby, Elixir, and React. Approaching my six-year anniversary
-          on the team!
-        </li>
-        <li>📣 Preparing for RubyConf 2020. I'm a waitlisted speaker.</li>
-        <li>
-          📦 Shipping side projects. Recently shipped:{' '}
-          <a
-            href="https://www.getrevue.co/profile/react-explained"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            React Explained
-          </a>
-          ,{' '}
-          <a
-            href="https://www.thebellisringing.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            The Bell
-          </a>
-          , a Gibson Les Paul electric guitar copy from a kit.
+          , writing Ruby, Elixir, and React. Celebrating six years with this
+          stellar team.
         </li>
         <li>
           {' '}
@@ -105,6 +85,28 @@ const Now = props => {
             Today I Learned
           </a>
           .
+        </li>
+        <li>
+          📦 Shipping side projects. Recently shipped:{' '}
+          <a
+            href="https://www.getrevue.co/profile/react-explained"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            React Explained
+          </a>
+          ,{' '}
+          <a
+            href="https://www.thebellisringing.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            The Bell
+          </a>
+          , a Gibson Les Paul electric guitar copy from a kit.
+        </li>
+        <li>
+          📣 Preparing a talk for RubyConf 2020. I'm a waitlisted speaker.
         </li>
         <li>🧠 Trying to better understand: {thoughts}. </li>
       </ul>
