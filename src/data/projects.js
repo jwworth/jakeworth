@@ -34,7 +34,7 @@ const projects = [
       'The purpose of this project was to feel connected with other people, build something calming that defied simple explanations, and direct visitors to a charity supporting relief efforts.',
     stackExplanation:
       'The idea chose my stack: I wanted real-time, virtually unlimited connections, and Elixir with WebSockets exists for this use case. I chose Gigalixir because it offers platform-as-a-service without limitations on some core Elixir features.',
-    image: 'https://i.imgur.com/HuvOHqP.png',
+    image: 'https://i.imgur.com/C7PX353.gif',
     lessonsLearned:
       'This project challenged me as a designer and as a programmer. How to I make the bell look and feel amazing? I felt success was binary: it was either engaging or it was not. My takeaway is that I enjoy building products that follow my imagination.',
   },
