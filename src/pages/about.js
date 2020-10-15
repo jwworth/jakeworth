@@ -4,6 +4,7 @@ import React from 'react'
 import Layout from '../components/Layout'
 import Project from '../components/Project'
 import SEO from '../components/seo'
+
 import projects from '../data/projects'
 
 const About = props => {
