@@ -29,7 +29,7 @@ const projects = [
     link: 'https://www.thebellisringing.com/',
     stack: 'Elixir, Phoenix, WebSockets, PostgreSQL, Gigalixir',
     description:
-      "The Bell is my COVID-19 social-distancing project— a way to stay connected when you're apart.",
+      'The Bell was a COVID-19-inspired social-distancing code/art project I created and maintained from March until October of 2020. Over the life of the project, The Bell was clicked over 4K times by ringers around the world.',
     purpose:
       'The purpose of this project was to feel connected with other people, build something calming that defied simple explanations, and direct visitors to a charity supporting relief efforts.',
     stackExplanation:
