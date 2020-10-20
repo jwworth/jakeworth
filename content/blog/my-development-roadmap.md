@@ -3,12 +3,16 @@ title: 'My Development Roadmap'
 date: '2020-10-20T00:00:00-06:00'
 ---
 
-I've been working on a development roadmap for my personal projects, and wanted
-to share my working process. Consider this a recipe to turn an idea into
-software.
+I've been working on a development roadmap for my projects, and wanted to share
+my process.
 
-Everything here is essentially à la carte– I wouldn't typically do more than
-this, but I might do less on certain projects of modest scope.
+Consider this a recipe to turn an idea into software. The purpose of codifying
+a workflow like this is to make working with me a predictable and thorough
+experience. Writing software is pretty hard; it's a much harder when you don't
+have a plan.
+
+Everything item here à la carte– I wouldn't typically do more, but I might do
+less on projects of modest scope.
 
 ### Introduction
 
@@ -38,4 +42,4 @@ Here are the steps.
 ### Conclusion
 
 That's it! I plan to update the workflow periodically as I continue to ship and
-refine my priorities.
+refine.
