@@ -11,8 +11,8 @@ a workflow like this is to make working with me a predictable and thorough
 experience. Writing software is pretty hard; it's a much harder when you don't
 have a plan.
 
-Every item here à la carte– I wouldn't typically do more, but I might do less
-on projects of modest scope.
+Every item here is à la carte– I wouldn't typically do more, but I might do
+less on projects of modest scope.
 
 ### Introduction
 
