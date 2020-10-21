@@ -79,6 +79,10 @@ const About = props => {
           2017—present.
         </li>
         <li>
+          <em>How Building a Guitar Made Me a Better Programmer</em>, Hashrocket
+          Remote Miniconf, 2020.
+        </li>
+        <li>
           <em>WebAssembly 101</em>, Hashrocket Winter Miniconf, 2019.
         </li>
         <li>
