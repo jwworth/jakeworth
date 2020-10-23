@@ -274,10 +274,10 @@ fidgeting with your slides, that's what you'll revert to. So, practice a lot,
 and each time act like it's the real thing.
 
 There's another benefit to this process: after running through a talk ten
-times, weaker pieces start to stand out. Remove them out and try again. In this
-extended period, I tend to get some of my best ideas doing mundane tasks like
-cooking. I can't get into that kind of creative headspace unless I become
-almost a big bored by the material. And that just takes reps.
+times, weaker pieces start to stand out. Remove them and try again. In this
+phase, I tend to get some of my best ideas doing mundane tasks like cooking. I
+can't get into that kind of creative headspace unless I become almost a bit
+bored by the material. And that just takes reps.
 
 #### Delivery
 
