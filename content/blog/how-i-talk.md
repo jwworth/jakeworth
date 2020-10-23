@@ -212,7 +212,8 @@ preparing a talk is putting together the visuals and notes you need to speak,
 then Deckset is worth trying.
 
 As for slide design, I follow the guidelines put forth in
-[Speaking.io][speaking] and the Chicago Ruby speaking guidelines. To summarize: 
+[Speaking.io][speaking] and the Chicago Ruby Meetup speaking guidelines. To
+summarize: 
 
 1. Make your text as big as you can.
 1. Use the most basic code examples that you can.
