@@ -131,7 +131,7 @@ To prepare a good talk, I generate a lot of ideas.
 Stephen King's *On Writing: A Memoir of the Craft* contains a useful anecdote.
 As a young writer, King faced rejection after rejection. After much failure,
 one editor took the time to offer King some advice, writing on his manuscript
-"Get rid of 10%". King removed 10% of the words from his manuscript, began
+"Get rid of 10%." King removed 10% of the words from his manuscript, began
 submitting it again, and soon landed his first publication deal. Cutting 10%,
 sometimes again and again, became one of his most valuable tools.
 
