@@ -240,31 +240,44 @@ narrow problem, it's a performance that would fall flat on a page.
 
 #### Practice
 
-Practice is everything. I rehearse each section of my talk at least five times,
-and then run through the entire talk without stopping another 10-20 times prior
-to any presentation. I do every rehearsal with a timer, at a podium, projecting
-my slides onto something (even just a television screen), even wearing the type
-of clothing I'll be wearing at the presentation.
+Practice is everything. I run through the entire talk without stopping at least
+10-20 times prior to any presentation. I do every rehearsal with a visible
+timer, standing at a podium, projecting my slides onto something, even just a
+television screen, even wearing the type of clothing I'll be wearing at the
+presentation.
 
-I practice setting up my equipment, including plugging in the HDMI cable or
-Airplay, putting my devices into Airplane/Do Not Disturb/silent mode, setting
-up live coding, and switching display preferences. These little things can be
-hard to do smoothly when standing in front of 300 people.
+I practice setting up my equipment, plugging in the HDMI cable or Airplay,
+putting my devices into Airplane/Do Not Disturb/silent mode, setting up live
+coding sessions, and switching display preferences. I practice handling loss of
+Internet, my presentation software crashing, and even losing my computer. These
+little things can be hard to do smoothly when standing in front of 300 people. 
 
-I practice handling loss of Internet, my presentation software crashing, and
-even losing my computer.
-
-I practice staying in a time window by writing timestamps like *T: 10:30* in
+I practice staying in a time window by writing timestamps such as *T: 10:30* in
 the presenter notes of each transition point in the talk. If I'm ahead of the
-timestamp, which is usually the case, I breathe and drink water. If I'm behind,
-I speed up.
+timestamp, which is usually the case, I breathe, drink water, walk around. If
+I'm behind, I speed up. At a Meetup you can get away with going long or short;
+conferences are expecting you to be pretty close to time because you're just a
+small part of a much bigger schedule.
 
 If you get a chance, deliver the talk once to a real audience. For a Meetup
 talk, deliver it first to your coworkers or friends. For a conference talk,
-deliver it once at a Meetup. Leave time for Q & A in the practice run; the
-questions your audience asks are very valuable. Answer them preemptively on the
-next run, or add a section addressing common counterarguments or edge cases.
-The end result will be a tighter, stronger argument.
+deliver it once at a Meetup, the bigger the better. Just give it to somebody.
+Leave time for Q & A in the practice run; the questions your audience asks can
+be very valuable. Answer them preemptively on the next run, or add a section
+addressing common counterarguments or edge cases. The end result will be a
+stronger argument.
+
+Why do I rehearse so much? I get nervous, like everyone. When you're nervous,
+you revert to what you have rehearsed. If you've rehearsed sitting down and
+mumbling, that's what you'll revert to. If you rehearsed going too slow and
+fidgeting with your slides, that's what you'll revert to. So, practice a lot,
+and each time act like it's the real thing.
+
+There's another benefit to this process: after running through a talk ten
+times, weaker pieces start to stand out. Remove them out and try again. In this
+extended period, I tend to get some of my best ideas doing mundane tasks like
+cooking. I can't get into that kind of creative headspace unless I become
+almost a big bored by the material. And that just takes reps.
 
 #### Delivery
 
