@@ -213,7 +213,7 @@ then Deckset is worth trying.
 
 As for slide design, I follow the guidelines put forth in
 [Speaking.io][speaking] and the Chicago Ruby Meetup speaking guidelines. To
-summarize: 
+summarize:
 
 1. Make your text as big as you can.
 1. Use the most basic code examples that you can.
@@ -277,8 +277,13 @@ and each time act like it's the real thing.
 There's another benefit to this process: after running through a talk ten
 times, weaker pieces start to stand out. Remove them and try again. In this
 phase, I tend to get some of my best ideas doing mundane tasks like cooking. I
-can't get into that kind of creative headspace unless I become almost a bit
-bored by the material. And that just takes reps.
+can't get into that kind of creative headspace unless I've thought through the
+obvious parts of my idea and become almost a bit bored it. And that just takes
+reps. A pertinent quote:
+
+> If I have ever made any valuable discoveries, it has been due more to patient
+> attention, than to any other talent.
+-- Isaac Newton
 
 #### Delivery
 
