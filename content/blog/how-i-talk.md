@@ -1,5 +1,5 @@
 ---
-title: 'How I Talk'
+title: 'How I Talk: My Guide to Tech Public Speaking'
 date: '2017-08-09T22:41:42-05:00'
 ---
 
