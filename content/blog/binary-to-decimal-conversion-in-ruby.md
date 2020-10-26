@@ -15,10 +15,10 @@ And here is my code:
 
 ```ruby
 class Binary
-  def self.to_decimal(string)
-    raise ArgumentError if string.match?(/[^01]/)
+  def self.to_decimal(binary)
+    raise ArgumentError if binary.match?(/[^01]/)
 
-    string.reverse.chars.map.with_index do |digit, index|
+    binary.reverse.chars.map.with_index do |digit, index|
       digit.to_i * 2**index
     end.sum
   end
@@ -50,15 +50,9 @@ like that it uses `.map` to return a result without an accumulator variable.
 
 ### What I'd Do Differently Next Time
 
-I do not love that my solution takes an argument called `string`. Although
-that's the type the method expects, it doesn't tell the reader a lot about what
-this method does. If I could rewrite it, I'd name that variable something like
-`binary`.
-
-My solution is also a bit clever; I may have golfed this down a little too
-much. In general, I think mathematical functions can get away with terser
-syntax than ordinary functions, because the mathematical principles are easy to
-learn about with a quick Google search.
+I may have golfed this down a little too much. In general, I think mathematical
+functions can get away with terser syntax than ordinary functions, because the
+principles are easy to learn about with a quick Google search.
 
 ### Conclusion
 
