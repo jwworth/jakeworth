@@ -1,21 +1,22 @@
 ---
-title: 'Developer Reading List'
+title: 'My Favorite Programming Books'
 date: '2019-09-28T00:00:00-06:00'
 ---
 
-What books have shaped me as a programmer? In the post, I'd like to share my personal
-developer reading list.
+What books have shaped me as a programmer? In the post, I'd like to share my
+personal developer reading list.
 
 Some of these books are programming classics that have changed minds and the
 discourse. Others focus on teams, management, communication, ethics, etc.– the
 softer side of programming.
 
 This list is not complete; I'm still reading! I will update this list over time
-with new favorites I discover. In that sense, the date on this post is just the
-time when I first made the list. It will continue to grow with me.
+with new favorites I discover.
 
 Please reach out if you have any suggested reading for me. I'm always looking
-for new ideas to consider.
+for new ideas to consider. I'm doing something similar with
+[essays](/essays-on-programming-i-think-about-a-lot); check that out if you
+prefer shorter-form ideas.
 
 ### My List
 
