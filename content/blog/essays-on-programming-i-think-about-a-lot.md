@@ -86,14 +86,18 @@ going to be all about pixels. If you can, build your UI in such a way that
 unfinished parts look unfinished.
 -- Joel Spolsky
 
+---
+
+[XY Problem](http://xyproblem.info/). When you're asking for programming help
+from someone, start by easing them into your situation, stating the problem,
+your assumptions, and what you've tried and learned. Give them the chance to
+poke holes in your logic.
+
+> Remember that if your diagnostic theories were accurate, you wouldn't be asking for help right?
+
 <!-- TODO -->
-<!-- Jason Fried, [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes). -->
-<!-- [XY Problem](http://xyproblem.info/). -->
-<!-- Joel Spolsky, [The Iceberg Secret, revealed](https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/). -->
 <!-- Zed Shaw, [Advice From An Old Programmer][zed]. -->
 <!-- Paul Slaughter, [Conventional comments](https://conventionalcomments.org/). -->
-<!-- Tim Pope, [A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html). -->
-<!-- Shawn Wang, [Pick up what they put down](https://www.swyx.io/writing/learn-in-public-hack/). -->
 <!-- Kent C. Dodds, [AHA Programming](https://kentcdodds.com/blog/aha-programming). -->
 
 ### Conclusion
