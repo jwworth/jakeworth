@@ -68,6 +68,24 @@ communication method, and whether I'm making efficient use of time.
 > Assuming you want your message to reach as many people as possible, blog it. You only have so many hours in the day.
 -- Scott Hanselman
 
+---
+
+Joel Spolsky, [The Iceberg Secret,
+Revealed](https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/).
+Programmers know that what we can see on a web page can represent a small
+fraction or none of the true functionality, completeness, and complexity of the
+application. People who don't write software don't automatically know that.
+Factor this into all communication.
+
+>  Customers Don’t Know What They Want. Stop Expecting Customers to Know What
+They Want. It’s just never going to happen. Get over it.
+-- Joel Spolsky
+
+> Understand that any demos you do in a darkened room with a projector are
+going to be all about pixels. If you can, build your UI in such a way that
+unfinished parts look unfinished.
+-- Joel Spolsky
+
 <!-- TODO -->
 <!-- Jason Fried, [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes). -->
 <!-- [XY Problem](http://xyproblem.info/). -->
