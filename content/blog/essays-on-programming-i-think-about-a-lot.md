@@ -95,6 +95,21 @@ poke holes in your logic.
 
 > Remember that if your diagnostic theories were accurate, you wouldn't be asking for help right?
 
+---
+
+Jon Evans, [Why The New Guy Can’t
+Code](https://techcrunch.com/2011/05/07/why-the-new-guy-cant-code/). The truth
+of this argument has confirmed itself to me over and over again. I think that I
+became a programmer on the job. But you can become a programmer right now by
+doing just one hard thing: committing to a meaningful project, no matter how
+small, and finishing it, in spite of the obstacles you will face.
+
+> So what should a real interview consist of? Let me offer a humble proposal:
+don’t interview anyone who hasn't accomplished anything. Ever. Certificates and
+degrees are not accomplishments; I mean real-world projects with real-world
+users.
+
+
 <!-- TODO -->
 <!-- Zed Shaw, [Advice From An Old Programmer][zed]. -->
 <!-- Paul Slaughter, [Conventional comments](https://conventionalcomments.org/). -->
