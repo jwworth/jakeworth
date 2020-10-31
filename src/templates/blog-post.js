@@ -30,13 +30,9 @@ const BlogPostTemplate = props => {
         {post.frontmatter.date} • {post.timeToRead} min read
       </p>
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
-      {false && (
-        <>
-          <p>
-            <a href={editLink}>Edit on GitHub</a>
-          </p>
-        </>
-      )}
+      <p>
+        <a href={editLink}>Edit this post</a>
+      </p>
 
       <hr />
       <p>
