@@ -109,8 +109,8 @@ don’t interview anyone who hasn't accomplished anything. Ever. Certificates an
 degrees are not accomplishments; I mean real-world projects with real-world
 users.
 
-
 <!-- TODO -->
+<!-- Dan McKinley, [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) -->
 <!-- Zed Shaw, [Advice From An Old Programmer][zed]. -->
 <!-- Paul Slaughter, [Conventional comments](https://conventionalcomments.org/). -->
 <!-- Kent C. Dodds, [AHA Programming](https://kentcdodds.com/blog/aha-programming). -->
