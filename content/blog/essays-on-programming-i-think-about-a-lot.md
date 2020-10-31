@@ -109,9 +109,21 @@ don’t interview anyone who hasn't accomplished anything. Ever. Certificates an
 degrees are not accomplishments; I mean real-world projects with real-world
 users.
 
+---
+
+Zed Shaw via Abhishek Nagekar, [Advice From An Old Programmer][zed]. There will
+likely come a day when you find programming to be a little bit boring. It will
+cease to be joyful as a pure exercise. What do you do then? It's a question I'm
+grappling with. I'm choosing to use that skill to build things I care about,
+and help others become programmers through volunteering.
+
+> Programming as a profession is only moderately interesting. It can be a good
+job, but you could make about the same money and be happier running a fast food
+joint. You’re much better off using code as your secret weapon in another
+profession.
+
 <!-- TODO -->
 <!-- Dan McKinley, [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) -->
-<!-- Zed Shaw, [Advice From An Old Programmer][zed]. -->
 <!-- Paul Slaughter, [Conventional comments](https://conventionalcomments.org/). -->
 <!-- Kent C. Dodds, [AHA Programming](https://kentcdodds.com/blog/aha-programming). -->
 
