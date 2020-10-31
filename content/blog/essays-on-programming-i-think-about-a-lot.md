@@ -108,6 +108,7 @@ small, and finishing it, in spite of the obstacles you will face.
 don’t interview anyone who hasn't accomplished anything. Ever. Certificates and
 degrees are not accomplishments; I mean real-world projects with real-world
 users.
+-- Jon Evans
 
 ---
 
@@ -121,6 +122,7 @@ and help others become programmers through volunteering.
 job, but you could make about the same money and be happier running a fast food
 joint. You’re much better off using code as your secret weapon in another
 profession.
+-- Zed Shaw
 
 <!-- TODO -->
 <!-- Dan McKinley, [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) -->
