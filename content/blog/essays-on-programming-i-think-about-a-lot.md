@@ -112,6 +112,19 @@ users.
 
 ---
 
+Paul Slaughter, [Conventional comments](https://conventionalcomments.org/). I
+believe in code reviews as a technique to raise quality, share information, and
+help people grow. But they can go wrong in so many ways and have an almost
+opposite effect. This technique– labeling comments to help the recipient
+contextualize your feedback– has had a positive impact on several teams I've
+been a part of.
+
+> Labeling comments saves hours of undercommunication and misunderstandings.
+They are also parseable by machines!
+-- Paul Slaughter
+
+---
+
 Zed Shaw via Abhishek Nagekar, [Advice From An Old Programmer][zed]. There will
 likely come a day when you find programming to be a little bit boring. It will
 cease to be joyful as a pure exercise. What do you do then? It's a question I'm
@@ -126,7 +139,6 @@ profession.
 
 <!-- TODO -->
 <!-- Dan McKinley, [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) -->
-<!-- Paul Slaughter, [Conventional comments](https://conventionalcomments.org/). -->
 <!-- Kent C. Dodds, [AHA Programming](https://kentcdodds.com/blog/aha-programming). -->
 
 ### Conclusion
