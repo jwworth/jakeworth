@@ -110,6 +110,14 @@ degrees are not accomplishments; I mean real-world projects with real-world
 users.
 -- Jon Evans
 
+But wait! Isn't this a Catch-22? "If no companies hired anybody without
+experience, than nobody new could enter the field." I don't agree with this
+take on the argument. I've known plenty of self-taught, bootcamp, and CS
+students who built an app for themselves, demo day, or their community, family,
+or friends, and could clear this bar. They have a resourcefulness and quiet
+confidence that leaps out in an interview. To me, that counts as accomplishing
+something.
+
 ---
 
 Paul Slaughter, [Conventional comments](https://conventionalcomments.org/). I
