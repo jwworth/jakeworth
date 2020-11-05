@@ -133,6 +133,17 @@ They are also parseable by machines!
 
 ---
 
+David B. Hayes, [Rubber Duck Debugging: The Psychology of How it
+Works](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/).
+Trying to understand these ideas, which humans aren't inclined to understand,
+has been the most positive influence overall on my debugging skills.
+
+> Because of the psychology of how we humans relate, you’re forced to think
+fresh when you invoke your little rubber ducky, and your problem may be quite
+simply solved.
+
+---
+
 Zed Shaw via Abhishek Nagekar, [Advice From An Old Programmer][zed]. There will
 likely come a day when you find programming to be a little bit boring. It will
 cease to be joyful as a pure exercise. What do you do then? It's a question I'm
