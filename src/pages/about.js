@@ -24,18 +24,7 @@ const About = props => {
 
   return (
     <Layout location={props.location} title={siteTitle}>
-      <SEO
-        title="About"
-        keywords={[
-          'developer',
-          'elixir',
-          'hashrocket',
-          'mentorship',
-          'react',
-          'ruby',
-          'ui',
-        ]}
-      />
+      <SEO title="About" />
       <h1>About</h1>
       <p>Happy {dayName}! I’m Jake. 🎸</p>
       <p>
