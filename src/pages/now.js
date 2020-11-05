@@ -94,9 +94,6 @@ const Now = props => {
           </a>
           , a Gibson Les Paul electric guitar copy from a kit.
         </li>
-        <li>
-          📣 Preparing a talk for RubyConf 2020. I'm a waitlisted speaker.
-        </li>
         <li>🧠 Trying to better understand: {thoughts}. </li>
       </ul>
     </Layout>
