@@ -33,14 +33,12 @@ const Now = props => {
       <p>⚓️ Portland, Maine.</p>
 
       <strong>Quote I'm pondering:</strong>
-      <p>
-        "Don't tell people how to do things; tell them what to do and let them
-        surprise you with their results." –Gen. George S. Patton
-      </p>
+      <p>"Make each day your masterpiece." –Coach John Wooden</p>
 
       <p>
         <strong>What I'm working on right now:</strong>
       </p>
+
       <ul>
         <li>
           🖥 Coding and consulting remotely for{' '}
