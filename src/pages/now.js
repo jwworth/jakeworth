@@ -6,6 +6,8 @@ import SEO from '../components/seo'
 
 const THINKING_ABOUT = [
   'product development',
+  'consulting',
+  'fintech',
   'organizational change',
   'ethics of technology',
   'type safety',
