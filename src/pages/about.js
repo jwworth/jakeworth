@@ -69,7 +69,7 @@ const About = props => {
         </li>
         <li>
           <em>How Building a Guitar Made Me a Better Programmer</em>, Hashrocket
-          Remote Miniconf, 2020.
+          Remote Miniconf, 2020, RubyConf 2020 (waitlisted).
         </li>
         <li>
           <em>WebAssembly 101</em>, Hashrocket Winter Miniconf, 2019.
