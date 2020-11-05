@@ -141,6 +141,7 @@ has been the most positive influence overall on my debugging skills.
 > Because of the psychology of how we humans relate, you’re forced to think
 fresh when you invoke your little rubber ducky, and your problem may be quite
 simply solved.
+-- David B. Hayes
 
 ---
 
