@@ -51,12 +51,20 @@ innovation credits? The deliverable is a written document.
 
 ### UX Design
 
-We'll build a feature map and user flow in Whimsical, and wireframes via Sketch.
+We'll build a feature map and user flow in Whimsical, and wireframes via
+Sketch. I'm still refining my wireframes process, and to paraphrase _The
+Pragmatic Programmer_ chapter 21, I generally ignore:
+
+- Correctness: details don't have to be perfect
+- Completeness: leave off things we don't yet understand
+- Robustness: keep the design simple
+- Style: no colors, no responsive design (desktop or mobile, not both), generic typesetting
 
 ### UI Design
 
 We'll produce style concepts and a style guide via Sketch, and high-fidelity
-mockups via Sketch Cloud.
+mockups via Sketch Cloud. Here I'm taking design and UX more seriously, staying
+mindful of the [Iceberg Secret][iceberg].
 
 ### Prototyping and Estimation
 
@@ -78,3 +86,4 @@ launch! 🚀
 That's it! I plan to update the workflow periodically as I continue to ship and refine.
 
 [boring]:https://mcfunley.com/choose-boring-technology
+[iceberg]: https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/
