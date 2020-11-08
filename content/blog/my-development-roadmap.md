@@ -16,7 +16,16 @@ less on projects of modest scope.
 
 ### Introduction
 
-My process takes heavy inspiration from the following outstanding resources:
+Everything I know about software, I learned working at [Hashrocket][hr]. This
+process is very similar to what I've done dozens of times with my team there.
+The main difference is that I've added a few steps we don't typically do, like
+a competitive analysis, because our clients have usually done that themselves
+prior to our engagement. I've also tried to teach myself enough project
+management and design skills to wear those hats when what I can do is good
+enough.
+
+The flow here also takes heavy inspiration from the following outstanding
+resources:
 
 - https://www.fullstacklabs.co/playbook
 - https://thoughtbot.com/playbook
@@ -32,6 +41,19 @@ The deliverable is a written document via Google Docs or Basecamp.
 
 The first of only a few real meetings! Here's a great overview of this process
 from [Lucidchart](https://www.lucidchart.com/blog/kickoff-meeting-agenda).
+
+A few agenda items for this one-hour meeting:
+
+- Introductions
+- Project Background
+- Project Mission Statement: Short, articulate, and inspiring.
+- Scope
+- Development Roadmap Review
+- Roles
+- Collaboration
+- Questions
+- Next Steps
+
 The deliverable is a productive meeting and notes with action items from the meeting.
 
 ### Competitive Analysis
@@ -87,3 +109,4 @@ That's it! I plan to update the workflow periodically as I continue to ship and 
 
 [boring]:https://mcfunley.com/choose-boring-technology
 [iceberg]: https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/
+[hr]: https://hashrocket.com/
