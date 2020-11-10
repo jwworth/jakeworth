@@ -86,6 +86,11 @@ going to be all about pixels. If you can, build your UI in such a way that
 unfinished parts look unfinished.
 -- Joel Spolsky
 
+A quote I find relevant, from _It’s Not How Good You Are, It’s How Good You
+Want To Be_ by Paul Arden: "The more strikingly visual your presentation is,
+the more people will remember it." Every visual detail you add will translate
+to a working, MVP feature in the eyes of some stakeholders.
+
 ---
 
 [XY Problem](http://xyproblem.info/). When you're asking for programming help
