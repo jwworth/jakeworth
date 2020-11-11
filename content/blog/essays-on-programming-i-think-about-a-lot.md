@@ -150,6 +150,21 @@ simply solved.
 
 ---
 
+Kent C. Dodds, [AHA Programming](https://kentcdodds.com/blog/aha-programming).
+The AHA (Avoid Hasty Abstractions) concept has had a huge impact on my
+development approach in the last few years. Kent quotes Sandi Metz as an
+inspiration: "Prefer duplication over the wrong abstraction." I'd add two more
+favorite Sandi quotes to the mix: "We'll never know less than we know right
+now," and so you should "[a]lways delay making design decisions until you need
+to." DRY is a technique, not a law of nature.
+
+> Now, don't get me wrong, I'm not suggesting anarchy. I'm just suggesting that
+we should be mindful of the fact that we don't really know what requirements
+will be placed upon our code in the future.
+-- Kent C. Dodds
+
+---
+
 Zed Shaw via Abhishek Nagekar, [Advice From An Old Programmer][zed]. There will
 likely come a day when you find programming to be a little bit boring. It will
 cease to be joyful as a pure exercise. What do you do then? It's a question I'm
@@ -164,7 +179,6 @@ profession.
 
 <!-- TODO -->
 <!-- Dan McKinley, [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) -->
-<!-- Kent C. Dodds, [AHA Programming](https://kentcdodds.com/blog/aha-programming). -->
 
 ### Conclusion
 
