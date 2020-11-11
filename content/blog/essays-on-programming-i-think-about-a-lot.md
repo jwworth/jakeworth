@@ -44,6 +44,27 @@ hurt feelings. Then go away and prove them wrong.
 
 ---
 
+David B. Hayes, [Rubber Duck Debugging: The Psychology of How it
+Works](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/).
+Trying to understand these ideas, which humans aren't inclined to understand,
+has been the most positive influence overall on my debugging skills.
+
+> Because of the psychology of how we humans relate, you’re forced to think
+fresh when you invoke your little rubber ducky, and your problem may be quite
+simply solved.
+-- David B. Hayes
+
+---
+
+[XY Problem](http://xyproblem.info/). When you're asking for programming help
+from someone, start by easing them into your situation, stating the problem,
+your assumptions, and what you've tried and learned. Give them the chance to
+poke holes in your logic.
+
+> Remember that if your diagnostic theories were accurate, you wouldn't be asking for help right?
+
+---
+
 Elisabeth Hendrickson, [Momentum >
 Urgency](https://testobsessed.com/2020/02/momentum-urgency/). I found this post
 recently, and it describes the best teams I've worked with. Effective teams
@@ -93,15 +114,6 @@ to a working, MVP feature in the eyes of some stakeholders.
 
 ---
 
-[XY Problem](http://xyproblem.info/). When you're asking for programming help
-from someone, start by easing them into your situation, stating the problem,
-your assumptions, and what you've tried and learned. Give them the chance to
-poke holes in your logic.
-
-> Remember that if your diagnostic theories were accurate, you wouldn't be asking for help right?
-
----
-
 Jon Evans, [Why The New Guy Can’t
 Code](https://techcrunch.com/2011/05/07/why-the-new-guy-cant-code/). The truth
 of this argument has confirmed itself to me over and over again. I think that I
@@ -135,18 +147,6 @@ been a part of.
 > Labeling comments saves hours of undercommunication and misunderstandings.
 They are also parseable by machines!
 -- Paul Slaughter
-
----
-
-David B. Hayes, [Rubber Duck Debugging: The Psychology of How it
-Works](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/).
-Trying to understand these ideas, which humans aren't inclined to understand,
-has been the most positive influence overall on my debugging skills.
-
-> Because of the psychology of how we humans relate, you’re forced to think
-fresh when you invoke your little rubber ducky, and your problem may be quite
-simply solved.
--- David B. Hayes
 
 ---
 
