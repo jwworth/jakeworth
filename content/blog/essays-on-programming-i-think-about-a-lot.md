@@ -152,7 +152,7 @@ simply solved.
 
 Kent C. Dodds, [AHA Programming](https://kentcdodds.com/blog/aha-programming).
 The AHA (Avoid Hasty Abstractions) concept has had a huge impact on my
-development approach in the last few years. Kent quotes Sandi Metz as an
+development approach in the last few months. Kent quotes Sandi Metz as an
 inspiration: "Prefer duplication over the wrong abstraction." I'd add two more
 favorite Sandi quotes to the mix: "We'll never know less than we know right
 now," and so you should "[a]lways delay making design decisions until you need
