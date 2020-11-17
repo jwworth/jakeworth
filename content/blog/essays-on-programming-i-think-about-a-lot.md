@@ -65,6 +65,21 @@ poke holes in your logic.
 
 ---
 
+Dan McKinley, [Choose Boring
+Technology](https://mcfunley.com/choose-boring-technology). This post has
+resonated for me this year as I've cycled through side projects in Phoenix,
+Rails, and React. The technology with which you choose to build anything is a
+crucial choice. I believe we as a community place too much value on things that
+are new. I particularly appreciate the concept of 'innovation tokens':
+
+> Let’s say every company gets about three innovation tokens. You can spend
+these however you want, but the supply is fixed for a long while. You might get
+a few more after you achieve a certain level of stability and maturity, but the
+general tendency is to overestimate the contents of your wallet.
+-- Dan McKinley
+
+---
+
 Elisabeth Hendrickson, [Momentum >
 Urgency](https://testobsessed.com/2020/02/momentum-urgency/). I found this post
 recently, and it describes the best teams I've worked with. Effective teams
@@ -177,8 +192,6 @@ joint. You’re much better off using code as your secret weapon in another
 profession.
 -- Zed Shaw
 
-<!-- TODO -->
-<!-- Dan McKinley, [Choose Boring Technology](https://mcfunley.com/choose-boring-technology) -->
 
 ### Conclusion
 
