@@ -1,5 +1,5 @@
 import React, { useMemo } from 'react'
-import { graphql } from 'gatsby'
+import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
@@ -16,6 +16,7 @@ const THINKING_ABOUT = [
   'being a senior developer',
   'entrepreneurship',
   'language design',
+  'code reviews',
 ]
 
 const Now = props => {
@@ -23,6 +24,11 @@ const Now = props => {
   const siteTitle = data.site.siteMetadata.title
 
   const thoughts = THINKING_ABOUT.join(', ')
+  const latestPost = data.allMarkdownRemark.edges[0].node
+  const {
+    fields: { slug },
+    frontmatter: { title },
+  } = latestPost
 
   return (
     <Layout location={props.location} title={siteTitle}>
@@ -33,7 +39,14 @@ const Now = props => {
       <p>⚓️ Portland, Maine.</p>
 
       <strong>Quote I'm pondering:</strong>
-      <p>"Make each day your masterpiece." –Coach John Wooden</p>
+      <p>"Don't ask for advice. Ask for a code review." –Unknown</p>
+
+      <strong>Latest Post:</strong>
+      <p>
+        <Link style={{ boxShadow: `none` }} to={slug}>
+          {title}
+        </Link>
+      </p>
 
       <p>
         <strong>What I'm working on right now:</strong>
@@ -92,7 +105,7 @@ const Now = props => {
           >
             The Bell
           </a>
-          , a Gibson Les Paul electric guitar copy from a kit.
+          .
         </li>
         <li>🧠 Trying to better understand: {thoughts}. </li>
       </ul>
@@ -107,6 +120,21 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
+      }
+    }
+    allMarkdownRemark(
+      sort: { fields: [frontmatter___date], order: DESC }
+      limit: 1
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+          }
+        }
       }
     }
   }
