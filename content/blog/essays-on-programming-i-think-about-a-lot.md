@@ -66,11 +66,12 @@ poke holes in your logic.
 ---
 
 Dan McKinley, [Choose Boring
-Technology](https://mcfunley.com/choose-boring-technology). This post has
-resonated for me this year as I've cycled through side projects in Phoenix,
-Rails, and React. The technology with which you choose to build anything is a
-crucial choice. I believe we as a community place too much value on things that
-are new. I particularly appreciate the concept of 'innovation tokens':
+Technology](https://mcfunley.com/choose-boring-technology). As I've cycled
+through side projects in Phoenix, Rails, and React this year, this post has
+resonated with me. Picking the right technology with which to build your
+project is massively important, and I believe we as a community place far too
+much value on tools that are new. How do we make pragmatic choices? Consider
+Dan's concept of 'innovation tokens':
 
 > Let’s say every company gets about three innovation tokens. You can spend
 these however you want, but the supply is fixed for a long while. You might get
@@ -145,10 +146,10 @@ users.
 But wait! Isn't this a Catch-22? "If no companies hired anybody without
 experience, than nobody new could enter the field." I don't agree with this
 take on the argument. I've known plenty of self-taught, bootcamp, and CS
-students who built an app for themselves, demo day, or their community, family,
-or friends, and could clear this bar. They have a resourcefulness and quiet
-confidence that leaps out in an interview. To me, that counts as accomplishing
-something.
+students who built an app for themselves, bootcamp demo day, or their
+community, family, or friends, and could clear this bar. They have a
+resourcefulness and quiet confidence that leaps out in an interview. To me,
+that counts as accomplishing something.
 
 ---
 
