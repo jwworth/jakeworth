@@ -36,7 +36,7 @@ const Now = props => {
       <h1>Now</h1>
 
       <strong>Home base:</strong>
-      <p>⚓️ Portland, Maine.</p>
+      <p>&#129438; Portland, Maine.</p>
 
       <strong>Quote I'm pondering:</strong>
       <p>"Don't ask for advice. Ask for a code review." –Unknown</p>
