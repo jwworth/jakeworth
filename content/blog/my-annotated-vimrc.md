@@ -14,8 +14,6 @@ A Vim developer is only as good as their Vim configuration file,
 their `.vimrc`[^1]. In that spirit, here is my personal `.vimrc` with
 annotations.
 
-Onward!
-
 ### My Vimrc
 
 My `.vimrc` is broken up into four groups: settings, mappings, abbreviations,
