@@ -225,6 +225,10 @@ augroup END
 
 ### Conclusion
 
+What have I missed? What could I be doing better? I welcome pull request on my
+[dotfiles](https://github.com/jwworth/dotfiles) repo. Even if I don't merge the
+changes, we'll both learn something.
+
 Interested in copying this file on your root directory, along with the rest of
 my [dotfiles](https://github.com/jwworth/dotfiles)? That's not a bad a idea.
 Alternatively, you could build your own from scratch. You'll learn more about
