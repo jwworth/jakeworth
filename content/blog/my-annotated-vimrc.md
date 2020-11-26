@@ -230,9 +230,9 @@ What have I missed? What could I be doing better? I welcome pull request on my
 changes, we'll both learn something.
 
 Interested in copying this file on your root directory, along with the rest of
-my [dotfiles](https://github.com/jwworth/dotfiles)? That's not a bad a idea.
-Alternatively, you could build your own from scratch. You'll learn more about
-what you value as a developer in that simple exercise than you'll learn from a
-thousand Vim blog posts like this one. Good luck!
+my dotfiles? That's not a bad a idea. Alternatively, you could build your own
+from scratch. You'll learn more about what you value as a developer in that
+simple exercise than you'll learn from a thousand Vim blog posts like this one.
+Good luck!
 
 [^1]: Ever wondered what `rc` stands for? Here's [my answer](https://til.hashrocket.com/posts/zf2nzhqnsx-meaning-of-rc-in-a-dotfile).
