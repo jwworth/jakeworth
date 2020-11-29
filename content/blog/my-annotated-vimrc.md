@@ -16,10 +16,10 @@ annotations.
 
 ### My Vimrc
 
-My `.vimrc` is broken up into four groups: settings, mappings, abbreviations,
-and filetype-specific settings. If you open this file in Vim, you'll see why:
-it's long, and it's folded up by groups as a default. This is one of many tips
-I picked up reading [Learn VimScript The Hard
+My `.vimrc` is broken up into three groups: settings, mappings, and
+filetype-specific settings. If you open this file in Vim, you'll see why: it's
+long, and it's folded up by groups as a default. This is one of many tips I
+picked up reading [Learn VimScript The Hard
 Way](https://learnvimscriptthehardway.stevelosh.com/) by Steve Losh, and the
 dotfiles of programmers I admire.
 
@@ -68,7 +68,7 @@ set splitright
 " Splits split below
 set splitbelow
 
-" Don't abandon hidden buffers (I need them)
+" Hides buffers instead of closing them
 set hidden
 
 " GUI settings (I don't use; duped from Hashrocket Dotmatrix)
@@ -103,20 +103,17 @@ let g:mix_format_silent_errors = 1
 " }}}
 
 " Mappings ---------------------- {{{
-" Disable arrow keys (there are better versions in Vim)
+" Disable arrow keys (helped me learn Vim, and I do not use them)
 noremap <up> <nop>
 noremap <down> <nop>
 noremap <left> <nop>
 noremap <right> <nop>
 
-" Substitute a highlighted word (h/t Vidal Ekechukwu)
-vnoremap <c-r> "hy:%s/<c-r>h//gc<left><left><left>
+" Substitute the word under cursor (h/t u/abraxasknister)
+nnoremap <c-r> :%s/<c-r><c-w>//gc<left><left><left>
 
 " Search for word under cursor with RipGrep
 nnoremap <leader>g :<C-U>execute "Rg ".expand('<cword>') \| cw<CR>
-
-" Enable quick Vim help lookup
-nnoremap <f1> :help <c-r><c-w><cr>
 
 " Remove ^M linebreaks
 nnoremap gsp :e ++ff=dos<cr>:w<cr>
@@ -127,24 +124,15 @@ nnoremap <leader>ev :vsplit $MYVIMRC.local<cr>
 " Source vimrc.local
 nnoremap <leader>sv :source $MYVIMRC.local<cr>
 
-" Dillon and Jake Sort™
-vnoremap <f5> :sort<cr>
-
-" Vidal and Dorian Sort™
+" Vidal and Dorian Sort™. Sort the highlighted lines
 vnoremap <silent> gs :sort<cr>
-
-" Run Rubocop
-nnoremap <leader>ru :! rubocop -a % <cr>
 
 " Insert a UUID with Ruby
 nnoremap ruid :read !ruby -e "require 'securerandom'; p SecureRandom.uuid"<cr>
 
-" Set a default search command for FZF
-let $FZF_DEFAULT_COMMAND = 'ag --hidden -l -g ""'
-
 " Map common FZF commmands
 nnoremap <silent> <c-b> :Buffers<cr>
-nnoremap <silent> <c-g>g :Ag<cr>
+nnoremap <silent> <c-g>g :Rg<cr>
 nnoremap <silent> <c-p> :Files<cr>
 
 " Yank file and line number under cursor (great for code reviews)
@@ -152,8 +140,9 @@ nnoremap <silent> yfl :let @" = join([expand('%'), line(".")], ':')<cr>
 
 " Show me the Vim highlight for word under a cursor (for writing Vim plugins)
 " https://jordanelver.co.uk/blog/2015/05/27/working-with-vim-colorschemes/
-nmap <leader>sp :call <SID>SynStack()<CR>
-function! <SID>SynStack()
+nnoremap <leader>sp :call <SID>SynStack()<CR>
+
+function! <SID>SynStack() abort
   if !exists("*synstack")
     return
   endif
@@ -161,57 +150,38 @@ function! <SID>SynStack()
 endfunc
 " }}}
 
-" Abbreviations ---------------------- {{{
-" Abbreviate my email
-iabbrev @@ jake@jakeworth.com
-" }}}
-
 " Filetype settings ---------------------- {{{
 augroup filetype_crontab
   autocmd!
 
-  "Allow Vim to overwrite the crontab
+  " Allow Vim to overwrite the crontab
   autocmd FileType crontab setlocal bkc=yes
-augroup END
-
-augroup filetype_go
-  autocmd!
-  " Run tests
-  autocmd FileType go nnoremap <leader>gt :GoTest<cr>
-
-  " Run test under cursor
-  autocmd FileType go nnoremap <leader>gtf :GoTestFunc<cr>
-
-  " Run linter
-  autocmd FileType go nnoremap <leader>gl :GoLint<cr>
-
-  " Load documentation for word under cursor
-  autocmd FileType go nnoremap <leader>gd :GoDoc<cr>
-
-  " Run program
-  autocmd FileType go nnoremap <leader>gr :GoRun<cr>
 augroup END
 
 augroup filetype_docs
   autocmd!
 
-  " Turn on spelling
-  autocmd BufNewFile,BufRead *.md,*.rdoc,*.txt setlocal spell
-
-  " Turn off numbers
-  autocmd BufNewFile,BufRead *.md,*.rdoc,*.txt setlocal nonu
+  " Turn off numbers and turn on spelling
+  autocmd FileType markdown setlocal nonumber spell
 augroup END
 
 augroup filetype_vim
   autocmd!
+
   " Fold this file on markers
   autocmd FileType vim setlocal foldmethod=marker
 augroup END
 
 augroup filetype_haml
   autocmd!
+
   " Line up HAML linebreak pipes
   autocmd FileType haml vnoremap <silent> ta :Tabularize /\|<cr>
+augroup END
+
+augroup filetype_ruby
+  " Run Rubocop
+  nnoremap <leader>ru :! rubocop -a % <cr>
 augroup END
 
 augroup filetype_all
@@ -222,6 +192,8 @@ augroup filetype_all
 augroup END
 " }}}
 ```
+
+[GitHub permalink][link]
 
 ### Conclusion
 
@@ -235,4 +207,15 @@ from scratch. You'll learn more about what you value as a developer in that
 simple exercise than you'll learn from a thousand Vim blog posts like this one.
 Good luck!
 
+### Update
+
+I posted this on [Reddit][reddit] and got a lot of attention! Some smart folks
+helped me improve my workflow; the `.vimrc` shown here reflects some of their
+suggestions. I want to give credit to folks who took the time to contribute,
+and also direct future feedback (which I still welcome) to settings that I'm
+currently using.
+
 [^1]: Ever wondered what `rc` stands for? Here's [my answer](https://til.hashrocket.com/posts/zf2nzhqnsx-meaning-of-rc-in-a-dotfile).
+
+[reddit]: https://www.reddit.com/r/vim/comments/k1iv70/my_annotated_vimrc/
+[link]: https://github.com/jwworth/dotfiles/blob/master/.vimrc.local
