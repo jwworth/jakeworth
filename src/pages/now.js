@@ -43,9 +43,7 @@ const Now = props => {
 
       <strong>Latest Post:</strong>
       <p>
-        <Link style={{ boxShadow: `none` }} to={slug}>
-          {title}
-        </Link>
+        <Link to={slug}>{title}</Link>
       </p>
 
       <p>
@@ -54,7 +52,7 @@ const Now = props => {
 
       <ul>
         <li>
-          🖥 Coding and consulting remotely for{' '}
+          &#128187; Coding and consulting remotely for{' '}
           <a
             href="https://hashrocket.com/"
             target="_blank"
@@ -66,8 +64,7 @@ const Now = props => {
           stellar team.
         </li>
         <li>
-          {' '}
-          🇺🇸 Teaching SQL workshops and mentoring at{' '}
+          &#127482;&#127480; Teaching SQL workshops and mentoring at{' '}
           <a
             href="https://www.codeplatoon.org/"
             target="_blank"
@@ -78,7 +75,7 @@ const Now = props => {
           .
         </li>
         <li>
-          🎓 Writing for and maintaining{' '}
+          &#127891; Writing for and maintaining{' '}
           <a
             href="https://til.hashrocket.com"
             target="_blank"
@@ -89,7 +86,7 @@ const Now = props => {
           .
         </li>
         <li>
-          📦 Shipping side projects. Recently shipped:{' '}
+          &#128230; Shipping side projects. Recently shipped:{' '}
           <a
             href="https://www.getrevue.co/profile/react-explained"
             target="_blank"
@@ -107,7 +104,7 @@ const Now = props => {
           </a>
           .
         </li>
-        <li>🧠 Trying to better understand: {thoughts}. </li>
+        <li>&#129504; Trying to better understand: {thoughts}. </li>
       </ul>
     </Layout>
   )
