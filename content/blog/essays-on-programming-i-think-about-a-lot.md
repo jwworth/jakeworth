@@ -130,29 +130,6 @@ to a working, MVP feature in the eyes of some stakeholders.
 
 ---
 
-Jon Evans, [Why The New Guy Can’t
-Code](https://techcrunch.com/2011/05/07/why-the-new-guy-cant-code/). The truth
-of this argument has confirmed itself to me over and over again. I think that I
-became a programmer on the job. But you can become a programmer right now by
-doing just one hard thing: committing to a meaningful project, no matter how
-small, and finishing it, in spite of the obstacles you will face.
-
-> So what should a real interview consist of? Let me offer a humble proposal:
-don’t interview anyone who hasn't accomplished anything. Ever. Certificates and
-degrees are not accomplishments; I mean real-world projects with real-world
-users.
--- Jon Evans
-
-But wait! Isn't this a Catch-22? "If no companies hired anybody without
-experience, than nobody new could enter the field." I don't agree with this
-take on the argument. I've known plenty of self-taught, bootcamp, and CS
-students who built an app for themselves, bootcamp demo day, or their
-community, family, or friends, and could clear this bar. They have a
-resourcefulness and quiet confidence that leaps out in an interview. To me,
-that counts as accomplishing something.
-
----
-
 Paul Slaughter, [Conventional comments](https://conventionalcomments.org/). I
 believe in code reviews as a technique to raise quality, share information, and
 help people grow. But they can go wrong in so many ways and have an almost
