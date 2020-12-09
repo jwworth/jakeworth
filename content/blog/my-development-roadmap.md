@@ -4,25 +4,27 @@ date: '2020-10-20T00:00:00-06:00'
 ---
 
 I've been working on a development roadmap for my projects, and wanted to share
-my process.
+my process. Consider this a recipe to turn an idea into software. 
 
-Consider this a recipe to turn an idea into software. The purpose of codifying
-a workflow like this is to make working with me a predictable and thorough
-experience. Writing software is pretty hard; it's much harder when you don't
-have a plan.
+The purpose of codifying a workflow like this is to make working with me a
+predictable and thorough experience. Writing software is pretty hard; it's much
+harder when you don't have a plan. Every item here is à la carte– I wouldn't
+typically do more, but I might do less on projects of modest scope.
 
-Every item here is à la carte– I wouldn't typically do more, but I might do
-less on projects of modest scope.
+What do I have to show for these words? Several dozen production greenfield and
+legacy client projects, an in-development startup where I'm Developer #1, and a
+few things enumerated on my [about](/about) page. I'm still a work in progress
+and learning, and this is how I do my best work right now.
 
 ### Introduction
 
-Everything I know about software, I learned working at [Hashrocket][hr]. This
-process is very similar to what I've done dozens of times with my team there.
-The main difference is that I've added a few steps we don't typically do, like
-a competitive analysis, because our clients have usually done that themselves
-prior to our engagement. I've also tried to teach myself enough project
-management and design skills to wear those hats when what I can do is good
-enough.
+Everything I know about software, I learned at [Hashrocket][hr]. This process
+is very similar to what I've done dozens of times with my team there.  The main
+difference is that I've added a few steps we don't typically do, like the
+competitive analysis, because our clients have usually done that themselves
+prior to our engagement. We also have dedicated project managers and designers
+at Hashrocket; for my personal projects I've tried to teach myself enough to
+wear those hats when required.
 
 The flow here also takes heavy inspiration from the following outstanding
 resources:
@@ -34,8 +36,11 @@ Here are the steps.
 
 ### Design Discovery
 
-What kind of design expectations are we beholden to, or do we aspire to?
-The deliverable is a written document via Google Docs or Basecamp.
+What kind of design expectations are we beholden to, or do we aspire to?  The
+deliverable is a written document via Google Docs or Basecamp. If neither of
+those platforms is your cup of tea, chose your own document-sharing service. I
+think it's really important that these docs are accessible by everyone at any
+time.
 
 ### Kickoff Meeting
 
@@ -46,7 +51,7 @@ A few agenda items for this one-hour meeting:
 
 - Introductions
 - Project Background
-- Project Mission Statement: Short, articulate, and inspiring.
+- Project Mission Statement: Short, articulate, and inspiring
 - Scope
 - Development Roadmap Review
 - Roles
@@ -54,22 +59,22 @@ A few agenda items for this one-hour meeting:
 - Questions
 - Next Steps
 
-The deliverable is a productive meeting and notes with action items from the meeting.
+The deliverable is a productive meeting and notes with actionable action items.
 
 ### Competitive Analysis
 
-What are the other folks doing? The deliverable is an Airtable spreadsheet.
+What are the other folks doing? The deliverable is an spreadsheet.
 
 ### User personas
 
 Who are our users? We'll brainstorm demographic data about them. The deliverable is
-an Airtable spreadsheet.
+an spreadsheet.
 
 ### Technical Discovery
 
-What kind of technology do we want to use? Which [choose boring
-technologies][boring] are we going to use, and are we planning to spend any
-innovation credits? The deliverable is a written document.
+What kind of technology do we want to use? Which [boring technologies][boring]
+are we going to use, and are we planning to spend any innovation credits? The
+deliverable is a written document.
 
 ### UX Design
 
@@ -105,7 +110,8 @@ launch! 🚀
 
 ### Conclusion
 
-That's it! I plan to update the workflow periodically as I continue to ship and refine.
+That's it! I plan to update the workflow periodically as I continue to ship and
+refine. I hope this was helpful, and keep building.
 
 [boring]:https://mcfunley.com/choose-boring-technology
 [iceberg]: https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/
