@@ -3,7 +3,7 @@ title: 'Exercism Raindrops in Python'
 date: '2020-12-06T00:00:00-06:00'
 ---
 
-I've been learning a bit of Python this fall to facilitate conversations with a
+I've been learning a bit of Python this Fall to facilitate conversations with a
 mentee. In this post, I'm going to share the first Python function I've ever
 written, a solution to the [Exercism](https://exercism.io) challenge
 'Raindrops'.
