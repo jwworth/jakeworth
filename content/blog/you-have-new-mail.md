@@ -35,8 +35,7 @@ Alternatively, you can read this mail file directly. Here's an example entry:
 
 ```
 jake@computer.localdomain  Wed May 20 15:19:20 2020
-Return-Path: <jake@computer
-athan.localdomain>
+Return-Path: <jake@computer.localdomain>
 X-Original-To: jake
 Delivered-To: jake@computer.localdomain
 Received: by computer.localdomain (Postfix, from userid 501)
