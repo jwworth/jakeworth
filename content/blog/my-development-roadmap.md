@@ -18,10 +18,10 @@ and learning, and this is how I do my best work right now.
 
 ### Introduction
 
-Everything I know about software, I learned at [Hashrocket][hr]. This process
-is very similar to what I've done dozens of times with my team there.  The main
-difference is that I've added a few steps we don't typically do, like the
-competitive analysis, because our clients have usually done that themselves
+Almost everything I know about software, I learned at [Hashrocket][hr]. This
+process is very similar to what I've done dozens of times with my team there.
+The main difference is that I've added a few steps we don't typically do, like
+the competitive analysis, because our clients have usually done that themselves
 prior to our engagement. We also have dedicated project managers and designers
 at Hashrocket; for my personal projects I've tried to teach myself enough to
 wear those hats when required.
