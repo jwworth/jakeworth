@@ -26,6 +26,9 @@ anything close to the scrutiny of the code from a popular software project.
 about saying "hey, this is my fault-- and I'll get to the bottom of it."
 -- Jeff Atwood
 
+I tried to make this argument myself before reading the canonical Atwood post,
+which you can read here: [Examine Your Assumptions](/examine-your-assumptions).
+
 ---
 
 Shawn Wang, [Learn in Public][lip]. Be public, leverage the encouragement and

@@ -43,7 +43,7 @@ are the chances such a simple test application exposed one?
 
 Assumptions are hazardous, because they can lead you down long and pointless
 roads of frustration. A huge part of successful debugging is to examine your
-assumptions. This concept is summarized well under the tip "'select' Isn't
+assumptions. This concept is summarized well under the tip "`select` Isn't
 Broken" from _The Pragmatic Programmer_.
 
 In pair programming, rejecting the bad assumption is easier to do. When my pair
@@ -58,9 +58,9 @@ audible words are the most important thing.
 
 Anytime I'm stuck my first instinct is to examine my assumptions:
 
-- 'This application is always slow'... can we benchmark it?
-- 'This Ruby version is old'... does that matter? Is it a supported version?
-- 'This library is breaking my tests'... are we sure? If we remove it, does it
+- 'This application is always slow'...compared to what? Can we benchmark it?
+- 'This Ruby version is old'...does that matter? Is it a supported version?
+- 'This library is breaking my tests'...are we sure? If we remove it, does it
   still fail? What if we include it, but use a different method? Does it still
   break?
 
