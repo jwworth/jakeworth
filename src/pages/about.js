@@ -6,6 +6,7 @@ import Project from '../components/Project'
 import SEO from '../components/seo'
 
 import projects from '../data/projects'
+import socialLinks from '../data/social'
 
 const About = props => {
   const { data } = props
@@ -161,47 +162,14 @@ const About = props => {
 
       <h3>Profiles</h3>
       <ul>
-        <li>
-          <a href="https://github.com/jwworth">GitHub</a>: Home to most of my
-          code.
-        </li>
-        <li>
-          <a href="https://hashrocket.com/blog/rocketeers/jake-worth">
-            Hashrocket Blog
-          </a>
-          : Writing about code and culture for Hashrocket.
-        </li>
-        <li>
-          <a href="https://stackoverflow.com/users/2112512/jake-worth">
-            Stack Overflow
-          </a>
-          : Helping people fix React code.
-        </li>
-        <li>
-          <a href="https://til.hashrocket.com/authors/jakeworth">
-            Today I Learned
-          </a>
-          : Writing about what I learn each day.
-        </li>
-        <li>
-          <a href="https://twitter.com/jwworth">Twitter</a>: Announcements,
-          conversations, and ideas.
-        </li>
-        <li>
-          <a href="https://www.linkedin.com/in/jakeworth">LinkedIn</a>: My
-          professional profile.
-        </li>
-        <li>
-          <a href="https://speakerdeck.com/jwworth">Speaker Deck</a>: Slides
-          from my better talks.
-        </li>
-        <li>
-          <a href="https://dribbble.com/jwworth">Dribbble</a>: My designs.
-        </li>
-        <li>
-          <a href="https://www.meetup.com/members/12542589/">Meetup</a>: Meet me
-          IRL at Vim Chicago and other Meetups.
-        </li>
+        {socialLinks.map(({ link, name, desc }) => (
+          <li key={link}>
+            <a href={link} rel="noopener noreferrer" target="_blank">
+              {name}
+            </a>
+            : {desc}.
+          </li>
+        ))}
       </ul>
     </Layout>
   )
