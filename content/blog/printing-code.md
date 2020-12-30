@@ -11,3 +11,9 @@ format can be tricky, especially for the Vim and Emacs users out there.
 My solution? Open the file in TextEdit, which ships on every Mac. TextEdit
 displays the file in plain text without any frills, just like Vim. `⌘ + P` that
 well-factored, universe-denting document to your printer of choice.
+
+Do this even faster via the command line:
+
+```
+$ open -e your-file.txt
+```
