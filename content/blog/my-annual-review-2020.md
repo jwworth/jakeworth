@@ -49,7 +49,7 @@ This year, I:
 - Taught SQL to three cohorts of [Code Platoon](https://www.codeplatoon.org/)
   with my friend Jack Christensen, revisiting our perennial theme that
   'databases are important.' Congrats Kilo, Lima, Mike platoons.
-- Spoke a Hashrocket MiniConf (Florida and remote) about WebAssembly and
+- Spoke at Hashrocket MiniConf (Florida and remote) about WebAssembly and
   project management.
 - Migrated my note-taking system from
   [LFTM](https://github.com/CoralineAda/lftm) to Bullet Journaling. Bullet
@@ -72,7 +72,7 @@ This year, I:
   Urgency](https://testobsessed.com/2020/02/momentum-urgency/) helps define
   this feeling for me. I've know a couple of Drews in my career and each one
   felt irreplaceable.
-- I acquired enough design and project management ability to fill those role,
+- I acquired enough design and project management ability to fill those roles,
   when required. Doing some of the [DailyUI](https://www.dailyui.co/) challenge
   pushed me to learn [Sketch](https://www.sketch.com/), developing fledgling
   opinions on colors, fonts, layout, and accessibility.
@@ -101,7 +101,7 @@ This year, I:
   answer on the internet." I posted [my vimrc on
   Reddit](https://www.reddit.com/r/vim/comments/k1iv70/my_annotated_vimrc/) and
   stirred up quite a bit of feedback. Apparently nitpicking people's Vim config
-  is an r/vim tradition. I certainly got closet to the right answer for me!
+  is an r/vim tradition. I certainly got closer to the right answer for me!
 - Execution is at least as important as most ideas. To quote Paul Arden: "Do
   not covet your ideas. Give away everything you know and more will come back
   to you."
