@@ -1,5 +1,5 @@
 ---
-title: 'Printing Code'
+title: 'Printing Code on OSX'
 date: '2020-10-13T00:00:00-06:00'
 ---
 
