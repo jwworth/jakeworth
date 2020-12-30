@@ -70,7 +70,7 @@ This year, I:
   a brilliant way to make networking feel less transactional.
 - The value of a great product manager is massive. The blog post [Momentum >
   Urgency](https://testobsessed.com/2020/02/momentum-urgency/) helps define
-  this feeling for me. I've know a couple of Drews in my career and each one
+  this feeling for me. I've known a couple of Drews in my career and each one
   felt irreplaceable.
 - I acquired enough design and project management ability to fill those roles,
   when required. Doing some of the [DailyUI](https://www.dailyui.co/) challenge
@@ -84,8 +84,9 @@ This year, I:
   difficult."
 - As a senior developer, when arguing that something should be done because
   it's a best practice, you have to understand the _why_ and the tradeoffs.
-  Having that information in your back pocket enhances the term Ray Dalio calls
-  believability: how likely it is that the argument you're making is correct.
+  Having that information in your back pocket increases your believability, to
+  use a Ray Dalio term: how likely it is that the argument you're making is
+  correct.
 - On #LearnInPublic: you'll only get feedback from a fraction of the people
   that you might be helping and inspiring. That's okay. Keep going. By the same
   token, if you value the content somebody is making, tell them! You'll make
