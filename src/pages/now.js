@@ -39,7 +39,7 @@ const Now = props => {
       <p>&#129438; Portland, Maine.</p>
 
       <strong>Quote I'm pondering:</strong>
-      <p>"Don't ask for advice. Ask for a code review." –Unknown</p>
+      <p>"Real artists ship." –Steve Jobs</p>
 
       <strong>Latest Post:</strong>
       <p>
