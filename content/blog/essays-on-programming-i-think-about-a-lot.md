@@ -161,6 +161,22 @@ will be placed upon our code in the future.
 
 ---
 
+Paul Graham, [Schlep Blindness](http://www.paulgraham.com/schlep.html). Fixing
+online payments was a massive business idea that was just sitting there,
+waiting be solved. So why didn't anyone solve it before Stripe? Because it was
+a hard problem, full of tedious drudgery and unknowns. Paul argues that our
+brains want to protect us from failure, and thus won't even let us see these
+kind of problems.
+
+> Your unconscious won't even let you see ideas that involve painful schleps.
+> That's schlep blindness.
+-- Paul Graham
+
+What's the workaround? Think about problems that you wish *someone else* would
+solve.
+
+---
+
 Zed Shaw via Abhishek Nagekar, [Advice From An Old Programmer][zed]. There will
 likely come a day when you find programming to be a little bit boring. It will
 cease to be joyful as a pure exercise. What do you do then? It's a question I'm
