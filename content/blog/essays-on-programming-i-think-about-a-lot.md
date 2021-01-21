@@ -100,7 +100,7 @@ is much more effective than a sense of urgency.
 ---
 
 Scott Hanselman, [Do they deserve the gift of your
-keystrokes?](https://www.hanselman.com/blog/do-they-deserve-the-gift-of-your-keystrokes).
+keystrokes?](https://www.hanselman.com/blog/do-they-deserve-the-gift-of-your-keystrokes)
 This post isn't just for programmers, but the statistical nature of it
 resonated with me. Since reading it, I often consider the reach of my chosen
 communication method, and whether I'm making efficient use of time.
@@ -174,6 +174,36 @@ kind of problems.
 
 What's the workaround? Think about problems that you wish *someone else* would
 solve.
+
+---
+
+Adam Wathan, [CSS Utility Classes and "Separation of
+Concerns."](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
+This post makes a thorough, thoughtful case against the dominant CSS strategies
+of today, and a case for a functional, utility-first style exemplified in
+Wathan's library TailwindCSS. I've fought some of these battles myself, the
+advice rings true, and the patterns he describes feel really comfortable to me.
+
+> When you think about the relationship between HTML and CSS in terms of
+> "separation of concerns", it's very black and white. You either have
+> separation of concerns (good!), or you don't (bad!). This is not the right
+> way to think about HTML and CSS. Instead, think about dependency direction.
+-- Adam Wathan
+
+---
+
+Charity Majors, [The Trap of the Premature
+Senior](https://charity.wtf/2020/11/01/questionable-advice-the-trap-of-the-premature-senior/).
+True seniority is earned by moving around and continuing to grow and prove
+yourself on several teams.
+
+> After you have gotten a new job or two, and proven to yourself that you can
+> level up again and master new stacks and technologies, that fretful inner
+> voice questioning whether you deserve the respect you receive or not will
+> calm down. You will have proven to yourself that your success wasn't just a
+> one-off, that you can be dropped into any situation, learn the local ropes
+> and succeed. You will be a senior engineer.
+-- Charity Majors
 
 ---
 
