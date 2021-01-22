@@ -60,24 +60,24 @@ unattributed quote I love: "Don't ask for advice, ask for a code review."
 
 ### Avoid Tutorials &#9940;
 
-This piece of advice is tough for me to write, because it's a trap that I fell
-into often as a junior developer: try to wean yourself off of tutorials in
-favor of building and breaking stuff. This [blog
+One of the best and toughest pieces of advice I'd give to someone learning to
+code: wean yourself off tutorials as soon as you can, in favor of building
+stuff. This [blog
 post](https://www.freecodecamp.org/news/become-a-standout-developer-and-accelerate-your-coding-skills/)
-from Randall Kanna makes the case here pretty well, under the header 'Escape
-Tutorial Hell'.
+from Randall Kanna makes this case here pretty well, under the header 'Escape
+Tutorial Hell.'
 
 I never read tutorials with exception of the official 'Get Started' guides on
 popular open-source projects. Why? I will learn faster and more deeply on my
-own; I prefer to build my own mental models instead of trying to download
-someone else's; and I expect that some element of the tutorial will be
+own. I prefer to build my own mental models instead of trying to download
+someone else's. And I expect that some parts of the tutorial will be
 outdated, leading me toward a momentum-crushing series of side quests.
 
-If you're pondering a tutorial, ask yourself: how did the person who created
-this content learn enough to teach it? They mixed their experience with
-official resources. Tutorials are like secondary sources in academia: great for
-context, but always a little less authoritative than the primary source. I
-always go for the primary source if I can.
+If you're pondering starting a tutorial, ask yourself: how did the person who
+created this content learn enough to teach it? They figured it out, trying
+stuff, reading official docs, searching online, and thinking deeply about their
+problem. Getting stuck and then getting unstuck is how you get better, and
+tutorials rob you of that opportunity.
 
 ### Conclusion
 
