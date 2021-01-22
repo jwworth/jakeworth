@@ -64,8 +64,13 @@ One of the best and toughest pieces of advice I'd give to someone learning to
 code: wean yourself off tutorials as soon as you can, in favor of building
 stuff. This [blog
 post](https://www.freecodecamp.org/news/become-a-standout-developer-and-accelerate-your-coding-skills/)
-from Randall Kanna makes this case here pretty well, under the header 'Escape
-Tutorial Hell.'
+from Randall Kanna makes my argument, under the header 'Escape
+Tutorial Hell':
+
+> Step away from the tutorials as soon as you feel comfortable. Tutorials are
+> great when you’re starting out. But at a certain point, they only slow down
+> your learning if you rely on them too much.
+-- Randal Kanna
 
 I never read tutorials with exception of the official 'Get Started' guides on
 popular open-source projects. Why? I will learn faster and more deeply on my
