@@ -21,8 +21,7 @@ any more time into the idea.
 
 A contrived example would be an application that simulates human intelligence.
 Can we build that? What resources will it take? If such a goal is your goal,
-focus on it. Pass the Turing test, and then then maybe work on that Slack
-notifier.
+focus on it. Pass the Turing test, then work on that Slack notifier.
 
 If you fail, that's okay. At least your didn't waste your time! Regroup and
 move forward.
