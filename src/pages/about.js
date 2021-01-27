@@ -27,7 +27,7 @@ const About = props => {
     <Layout location={props.location} title={siteTitle}>
       <SEO title="About" />
       <h1>About</h1>
-      <p>Happy {dayName}! I’m Jake. &#127928;</p>
+      <p>&#128075; Happy {dayName}! I’m Jake.</p>
       <p>
         I'm an Army veteran, self-taught programmer, and consultant working
         remotely at <a href="https://hashrocket.com/">Hashrocket</a>.
