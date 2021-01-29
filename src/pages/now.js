@@ -35,21 +35,20 @@ const Now = props => {
       <SEO title="Now" />
       <h1>Now</h1>
 
-      <strong>Home base:</strong>
+      <h3>Home base</h3>
       <p>&#129438; Portland, Maine.</p>
 
-      <strong>Quote I'm pondering:</strong>
-      <p>"Real artists ship." –Steve Jobs</p>
+      <h3>Quote</h3>
+      <blockquote>
+        <p>"Don't ask for advice. Ask for a code review." –Unknown</p>
+      </blockquote>
 
-      <strong>Latest Post:</strong>
+      <h3>Latest Post</h3>
       <p>
         <Link to={slug}>{title}</Link>
       </p>
 
-      <p>
-        <strong>What I'm working on right now:</strong>
-      </p>
-
+      <h3>Working On</h3>
       <ul>
         <li>
           &#128187; Coding and consulting remotely for{' '}
