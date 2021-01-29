@@ -3,8 +3,8 @@ title: 'Do the Hard Things First'
 date: '2021-01-25T00:00:00-06:00'
 ---
 
-> First thing in the morning, eat a live frog, and you can go through the rest
-> of your day knowing the worst is behind you.
+> "First thing in the morning, eat a live frog, and you can go through the rest
+> of your day knowing the worst is behind you."
 -- Mark Twain
 
 An entrepreneurial inspiration for me is 'Do the Hard Thing First', via Ben
