@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react'
+import React, { useEffect } from 'react'
 import { Link, graphql } from 'gatsby'
 
 import Layout from '../components/Layout'
@@ -29,6 +29,18 @@ const Now = props => {
     fields: { slug },
     frontmatter: { title },
   } = latestPost
+
+  useEffect(() => {
+    const script = document.createElement('script')
+    script.src = 'https://platform.twitter.com/widgets.js'
+    script.async = true
+
+    document.body.appendChild(script)
+
+    return () => {
+      document.body.removeChild(script)
+    }
+  }, [])
 
   return (
     <Layout location={props.location} title={siteTitle}>
@@ -105,6 +117,17 @@ const Now = props => {
         </li>
         <li>&#129504; Trying to better understand: {thoughts}. </li>
       </ul>
+
+      <h3>Tweeting</h3>
+      <p>
+        <a
+          class="twitter-timeline"
+          data-tweet-limit="5"
+          href="https://twitter.com/jwworth?ref_src=twsrc%5Etfw"
+        >
+          Tweets by jwworth
+        </a>
+      </p>
     </Layout>
   )
 }
