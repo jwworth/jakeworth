@@ -134,15 +134,19 @@ to a working, MVP feature in the eyes of some stakeholders.
 ---
 
 Paul Slaughter, [Conventional comments](https://conventionalcomments.org/). I
-believe in code reviews as a technique to raise quality, share information, and
-help people grow. But they can go wrong in so many ways and have an almost
-opposite effect. This technique– labeling comments to help the recipient
-contextualize your feedback– has had a positive impact on several teams I've
-been a part of.
+believe code reviews can raise quality, share information, and help people
+grow. But they can go wrong in so many ways. This technique– labeling comments
+to help the recipient contextualize your feedback– has had a positive impact on
+several teams I've been a part of.
 
 > Labeling comments saves hours of undercommunication and misunderstandings.
 They are also parseable by machines!
 -- Paul Slaughter
+
+In Bitbucket and GitHub, you can take the `suggestion:` prefix a step farther
+by embedding a code suggestion in your comment. If the reviewer likes your
+proposal, they can click a button and merge your change! This really reduces
+the extra conversation around a suggestion.
 
 ---
 
