@@ -17,3 +17,9 @@ shipping 52 issues of [React
 Explained](https://www.getrevue.co/profile/react-explained) and launching a
 side project I've been thinking about for some time. I won't accomplish either
 of these things if I'm pushing bits on the platform.
+
+Since I can't work on this platform, here's a list of features I'd like to add.
+I hope to add them when the freeze breaks.
+
+- Add blog post banner images
+- Change hyperlink color to something darker, like <span style="color: #1d4ed8;">#1d4ed8</span>
