@@ -32,17 +32,6 @@ represent a small fraction or none of the true functionality, completeness, and
 complexity of the application. People who don't write software don't
 automatically know that.
 
-**Names Matter.** Names are important, much more important than they first
-appear, so pick them well. Here's the argument I made on the [Hashrocket
-blog](https://hashrocket.com/blog/posts/pick-a-good-name):
-
-> "Bad names make it difficult to search through the code. They make it
-> difficult to talk about the code, because the name confers inaccurate
-> meaning, or no meaning. They make it difficult to refactor or change
-> behavior, because the name becomes a handle. Like a handle on a basket, when
-> you've mentally reached for it enough times in a certain way, you become
-> trained to do that forever."
-
 **Prioritization.** Once you can deliver consistent quality in your
 programming, there is no concept of moving 'faster.' You can only change your
 prioritization. Focus on the user and ruthlessly eliminate busywork and bike
