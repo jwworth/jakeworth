@@ -48,18 +48,13 @@ Thanks for reading. I'll be updating and augmenting this post in the future.
 <!-- TODO -->
 <!-- -->
 <!-- **Avoid Hasty Abstractions.** -->
-<!-- **Backwards planning.** -->
 <!-- **Belt and suspenders** -->
-<!-- **Choose boring technology.** -->
-<!-- **Choose tools you know.** -->
 <!-- **Conway's Law.** -->
 <!-- **Databases matter** -->
 <!-- **Defensive Programming.** -->
 <!-- **Delay making decisions.** -->
 <!-- **Demorgan's Law** -->
 <!-- **Feature flags should enable the feature and have meaning.** -->
-<!-- **First principles thinking.** -->
-<!-- **Good ideas come from anywhere.** -->
 <!-- **Occam's Razor.** -->
 <!-- **Robustness principle.** -->
 <!-- **Schelp Blindness.** -->
