@@ -15,31 +15,38 @@ colleague.
 ### Models
 
 **Anchoring.** The first number spoken aloud in a story pointing sets the
-[Overton window](https://en.wikipedia.org/wiki/Overton_window) for the
-discussion. If you want accurate pointing informed by everyone in the room, not
-just the extroverts, consider some form of planning poker. Here's [a
+[Overton window](https://en.wikipedia.org/wiki/Overton_window). If you want
+accurate pointing informed by everyone in the room, not just the extroverts,
+consider planning poker. Here's [a
 technique](https://hashrocket.com/blog/posts/planning-poker-speed-mode) I've
 used.
 
-**Fuel, Air, or Spark.** When an internal combustion engine isn't starting,
-one of three ingredients is absent: fuel, air, or spark. Each of these
-subsystems is complex on its own. Before you look into any them, inspect the
-final output of each. If you jump right to a subsystem, you'll risk
-troubleshooting parts of the engine that are working.
+**Databases matter.** Invest the integrity of the data layer. The database will
+likely outlive every single other part of your application, including the API,
+frontend, and mobile clients. Add validations where prudent, but the database
+is the source of truth.
+
+**Fuel, Air, or Spark.** When an internal combustion engine isn't starting, one
+of three ingredients is absent: fuel, air, or spark. Before you look into any
+them, inspect the final output of each. If you jump right to a subsystem,
+you'll risk troubleshooting parts of the engine that are working.
 
 **The Iceberg Secret.** Programmers know that what we can see on a web page can
 represent a small fraction or none of the true functionality, completeness, and
-complexity of the application. People who don't write software don't
-automatically know that.
+complexity of the application. People who don't write code don't automatically
+know that.
 
 **Prioritization.** Once you can deliver consistent quality in your
-programming, there is no concept of moving 'faster.' You can only change your
+programming, there is no concept of 'faster.' You can only change your
 prioritization. Focus on the user and ruthlessly eliminate busywork and bike
 shedding.
 
+**Schlep Blindness.** Our brains prevent us from even seeing difficult
+problems.
+
 **Survivorship Bias.** A practical example: a hiring process that consistently
-delivers good people isn't necessarily good; you have to consider good people
-who did not make it through the process.
+delivers good people isn't necessarily good; you must consider good people who
+did not make it through the process.
 
 ### Conclusion
 
