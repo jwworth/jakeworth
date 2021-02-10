@@ -21,10 +21,10 @@ consider planning poker. Here's [a
 technique](https://hashrocket.com/blog/posts/planning-poker-speed-mode) I've
 used.
 
-**Databases matter.** Invest the integrity of the data layer. The database will
-likely outlive every single other part of your application, including the API,
-frontend, and mobile clients. Add validations where prudent, but the database
-is the source of truth.
+**Databases matter.** Invest in the integrity of the data layer. The database
+will likely outlive every single other part of your application, including the
+API, frontend, and mobile clients. Add validations where prudent, but the
+database is the source of truth.
 
 **Fuel, Air, or Spark.** When an internal combustion engine isn't starting, one
 of three ingredients is absent: fuel, air, or spark. Before you look into any
