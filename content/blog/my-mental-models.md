@@ -27,10 +27,10 @@ will likely outlive every single other part of your application. The database
 is the source of truth.
 
 **Dunning-Kruger Effect.** People with low ability at a task tend to
-overestimate their ability. The biggest leap forward I experienced as a
-programmer was meeting a Vim-using Hashrocket consultant and realizing how many
-levels of the programming game exist. Often causes the [Trap of the Premature
-Senior][trap].
+overestimate their ability. Often contributes to the [Trap of the Premature
+Senior][trap].  The biggest leap forward I experienced as a programmer was
+meeting a Vim-using Hashrocket consultant and realizing how many levels of the
+programming game exist.
 
 **Fuel, Air, or Spark.** When an internal combustion engine isn't starting, one
 of three ingredients is absent: fuel, air, or spark. Before you look into any
