@@ -28,7 +28,7 @@ is the source of truth.
 
 **Dunning-Kruger Effect.** People with low ability at a task tend to
 overestimate their ability. Often contributes to the [Trap of the Premature
-Senior][trap].  The biggest leap forward I experienced as a programmer was
+Senior][trap]. The biggest leap forward I experienced as a programmer was
 meeting a Vim-using Hashrocket consultant and realizing how many levels of the
 programming game exist.
 
