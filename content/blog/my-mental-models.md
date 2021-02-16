@@ -18,9 +18,11 @@ colleague.
 [Overton window][overton]. If you want accurate pointing informed by everyone
 in the room, consider [planning poker][poker], or abandon pointing as a metric.
 
-**Code is for humans.** One of the primary consumers of your software product
-is other programmers. Prioritize readability, usability, accessibility, and a
-general boringness in your codebase over premature optimization and cleverness.
+**Code is for humans.** One of the primary consumers of your software is other
+programmers. Prioritize readability, usability, accessibility, and a general
+boringness in your codebase over premature optimization and cleverness. If you
+want human feedback, deliver your code in small, focused increments that humans
+can conceptualize.
 
 **Databases matter.** Invest in the integrity of the data layer. The database
 will likely outlive every single other part of your application. The database
