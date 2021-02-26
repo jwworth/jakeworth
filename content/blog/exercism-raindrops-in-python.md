@@ -9,19 +9,17 @@ written, a solution to the [Exercism](https://exercism.io) challenge
 'Raindrops'.
 
 Is this good Python code? I don't know; that's why I'm posting it here. I've
-read `$ python3 -c 'import this'` but I still feel gloriously ignorant. Below
-I'll share the problem description, my solution, and a code review via praise
-and criticism.
+read `$ python3 -c 'import this'` yet am still gloriously ignorant. Below I'll
+share the problem, my solution, and a code self-review via praise and
+criticism.
 
 ### Problem Description
 
-Via Exercism:
-
-Your task is to convert a number into a string that contains raindrop sounds
-corresponding to certain potential factors. A factor is a number that evenly
-divides into another number, leaving no remainder. The simplest way to test if
-a one number is a factor of another is to use the [modulo
-operation](https://en.wikipedia.org/wiki/Modulo_operation).
+> Your task is to convert a number into a string that contains raindrop sounds
+> corresponding to certain potential factors. A factor is a number that evenly
+> divides into another number, leaving no remainder. The simplest way to test if
+> a one number is a factor of another is to use the [modulo
+> operation](https://en.wikipedia.org/wiki/Modulo_operation).
 
 The rules of `raindrops` are that if a given number:
 
@@ -49,17 +47,19 @@ def convert(number):
 
 ### Praise
 
-I like that this solution is compilable Python code (starting with a low bar
-here). I think the solution is very readable. My return statement is a bit
-clever; it's a take on this solution I've never thought of before, and I
-love that novelty.
+Starting with a very low bar, I like that this solution is compilable Python
+code. I think the solution is very readable. My return statement is a bit
+clever; it takes the last item in the string which is either some variant of
+the Raindrops string, or the number itself as a string. I've done this exercise
+in a few languages and it's a take I've never thought of before, and so I enjoy
+the novelty there.
 
 ### Criticism
 
 I don't like that my function argument is called `number`; I took that from the
-setup code but I prefer to avoid argument names that overlap with their type.
-In this case, the input really is a meaningless number, so I'm not sure what a
-better alternative would be.
+setup code but I prefer to avoid argument names that carry their type.  In this
+case, the input really is a meaningless number, so I'm not sure what a better
+alternative would be.
 
 I try to avoid conditionals and there are three here. I'd prefer a data
 structure that we can fetch from whenever possible. For the sake of speed and
@@ -67,9 +67,9 @@ simplicity, I didn't go that route, but I am sure that I will as I get more
 comfortable with Python.
 
 As mentioned in the previous section, `return result.split()[-1]` is clever, in
-both meanings for the word. I can imagine someone who is newer to string
-manipulation struggling with that a bit. It isn't the most beginner-friendly code
-I've ever written.
+both the good and bad meanings of that word. I can imagine someone who is newer
+to string manipulation struggling with that a bit. It isn't the most
+beginner-friendly code I've ever written.
 
 ### Conclusion
 
