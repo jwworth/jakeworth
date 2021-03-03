@@ -68,9 +68,9 @@ a few domains, i.e. the 'T-shaped' developer.
 isn't necessarily good; you must consider good people who did not make it
 through the process.
 
-**Redundancy.** Also know as 'belt and suspenders' or 'two is one, one is
-none': avoid single points of failure. If users need emails, require them in
-the HTML, the JavaScript form, the API, and the database.
+**Redundancy.** Avoid single points of failure. If the customer model need an
+email address, require it in the HTML, the JavaScript form, the API, and the
+database.
 
 ### Conclusion
 
