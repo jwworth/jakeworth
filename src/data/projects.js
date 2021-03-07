@@ -19,8 +19,11 @@ const projects = [
     uuid: '00ffd5ac-93d0-4fe1-9509-4598a4e75414',
     title: 'React Explained',
     link: 'https://www.getrevue.co/profile/react-explained/',
+    stack: 'Revue',
     description:
-      'Here\'s the pitch: "Do you want to really (really!) learn React, while staying current on this exploding ecosystem? Subscribe to React Explained, a weekly newsletter of amazing, curated React news and resources, simply explained. It’s free! Subscribe now."',
+      'Here\'s the pitch: "Do you want to really (really!) learn React, while staying current on this exploding ecosystem? Subscribe to React Explained, a bi-weekly newsletter of amazing, curated React news and resources, simply explained. It’s free! Subscribe now."',
+    purpose:
+      "I found React difficult to learn, because it's built on a couple of revolutionary ideas. In my role as a mentor at Code Platoon, I’ve watched others struggle to learn React, again and again. In 2020, I did surveyed the landscape and concluded that the existing newsletters in the React space aren't geared for beginners. I want to help somebody learning React today– a person who is overwhelmed by the rapid growth of the ecosystem and tons of shared context in the community.",
     image: 'https://imgur.com/vu5MAzm.png',
   },
   {
