@@ -1,5 +1,5 @@
 ---
-title: 'Week 50'
+title: 'Week in Review: Week 50, 2014'
 date: '2014-12-12T11:13:16-06:00'
 ---
 

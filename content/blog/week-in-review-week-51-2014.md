@@ -1,5 +1,5 @@
 ---
-title: 'Week 51'
+title: 'Week in Review: Week 51, 2014'
 date: '2014-12-19T15:36:09-06:00'
 ---
 
@@ -56,11 +56,16 @@ The ideas are built from scraping Wikipedia for software types and programming l
 
 ### Secret Santa
 
-Remember Secret Santa?  You pass around a hat with everybody's name inside, each person draws a name, and then you purchase a gift for the person whose name you drew.  It's fun, but the setup is slow, because somebody always draws themselves, or two people draw each other, which isn't fun.
+Remember Secret Santa? You pass around a hat with everybody's name inside,
+each person draws a name, and then you purchase a gift for the person whose
+name you drew.  It's fun, but the setup is slow, because somebody always draws
+themselves, or two people draw each other, which isn't fun.
 
-<a href='https://github.com/jwworth/secret_santa'>Secret Santa</a> solves this.  Run it, enter names, and you will get a random list and an image file.  Nobody can draw themselves, and no two people can draw each other.
+<a href='https://github.com/jwworth/secret_santa'>Secret Santa</a> solves this.
+Run it, enter names, and you will get a random list and an image file. Nobody
+can draw themselves, and no two people can draw each other.
 
-Any time you need a round-robin assignment you can use Secret Santa.  I will be using it in 2015.
+Any time you need a round-robin assignment you can use Secret Santa. I will be using it in 2015.
 
 ### Command Chaining
 

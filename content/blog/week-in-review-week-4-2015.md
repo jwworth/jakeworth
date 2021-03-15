@@ -1,5 +1,5 @@
 ---
-title: 'Week 4: The DOM'
+title: 'Week in Review: Week 4, 2015'
 date: '2015-01-23T15:57:39-06:00'
 ---
 
