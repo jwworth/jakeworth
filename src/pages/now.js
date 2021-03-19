@@ -107,7 +107,7 @@ const Now = props => {
           </a>
           ,{' '}
           <a
-            href="https://www.thebellisringing.com/"
+            href="https://github.com/jwworth/bell"
             target="_blank"
             rel="noopener noreferrer"
           >

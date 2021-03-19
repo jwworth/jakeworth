@@ -29,7 +29,7 @@ const projects = [
   {
     uuid: '5faab9e4-bf23-4021-8e2d-8156346cdb95',
     title: 'The Bell',
-    link: 'https://www.thebellisringing.com/',
+    link: 'https://github.com/jwworth/bell',
     stack: 'Elixir, Phoenix, WebSockets, PostgreSQL, Gigalixir',
     description:
       'The Bell was a COVID-19-inspired social-distancing code/art project I created and maintained from March until October of 2020. Over the life of the project, The Bell was clicked over 4K times by ringers around the world.',
