@@ -33,8 +33,10 @@ in TypeScript. I expect the compiler errors and I don't expect (and almost
 never see) the runtime errors.
 
 I'm getting opinionated about JavaScript imports. Below is the format my team
-has followed for almost a year. I think any convention is better than no
-convention.
+has followed for almost a year. Imports are alphabetized into three separate
+groups: library imports (React, Lodash, Moment, etc.), components from our
+codebase ('Header'), and utility functions (API helpers, route helpers, etc.).
+I think any convention is better than no convention.
 
 ```js
 // library imports, alphabetized
@@ -43,7 +45,7 @@ import * as React from 'react';
 // our component imports, alphabetized
 import Header from 'modules/common/components/Header'
 
-// utility functions, internal and external, alphabetized
+// utility functions, alphabetized
 import { get } from 'utils/api';
 ```
 
