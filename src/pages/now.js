@@ -6,17 +6,14 @@ import SEO from '../components/seo'
 
 const THINKING_ABOUT = [
   'product development',
-  'consulting',
   'fintech',
   'organizational change',
   'ethics of technology',
-  'type safety',
   'mentorship & teaching',
   'remote work',
-  'being a senior developer',
+  'engineering management',
   'entrepreneurship',
-  'language design',
-  'code reviews',
+  'communication',
 ]
 
 const Now = props => {
