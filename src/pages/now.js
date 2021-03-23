@@ -49,7 +49,7 @@ const Now = props => {
 
       <h3>Quote</h3>
       <blockquote>
-        <p>"Don't ask for advice. Ask for a code review." –Unknown</p>
+        <p>"Be so good they can't ignore you." –Steve Martin</p>
       </blockquote>
 
       <h3>Latest Post</h3>
