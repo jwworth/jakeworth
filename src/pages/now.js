@@ -45,7 +45,7 @@ const Now = props => {
       <h1>Now</h1>
 
       <h3>Home base</h3>
-      <p>&#129438; Portland, Maine.</p>
+      <p>&#127794; Portland, Maine.</p>
 
       <h3>Quote</h3>
       <blockquote>
