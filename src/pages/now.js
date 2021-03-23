@@ -102,14 +102,6 @@ const Now = props => {
           >
             React Explained
           </a>
-          ,{' '}
-          <a
-            href="https://github.com/jwworth/bell"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            The Bell
-          </a>
           .
         </li>
         <li>&#129504; Trying to better understand: {thoughts}. </li>
