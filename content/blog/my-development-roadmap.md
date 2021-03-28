@@ -4,7 +4,7 @@ date: '2020-10-20T00:00:00-06:00'
 ---
 
 I've been working on a development roadmap for my projects, and wanted to share
-my process. Consider this a recipe to turn an idea into software. 
+my process. Consider this my recipe to turn an idea into software.
 
 The purpose of codifying a workflow like this is to make working with me a
 predictable and thorough experience. Writing software is pretty hard; it's much
@@ -29,10 +29,21 @@ wear those hats when required.
 The flow here also takes heavy inspiration from the following outstanding
 resources:
 
+- Hashrocket (saying that again)
 - https://www.fullstacklabs.co/playbook
 - https://thoughtbot.com/playbook
 
 Here are the steps.
+
+- Design Discovery
+- Kickoff Meeting
+- Competitive Analysis
+- User Personas
+- Technical Discovery
+- UX Design
+- UI Design
+- Prototyping and Estimation
+- Development
 
 ### Design Discovery
 
@@ -65,7 +76,7 @@ The deliverable is a productive meeting and notes with actionable action items.
 
 What are the other folks doing? The deliverable is an spreadsheet.
 
-### User personas
+### User Personas
 
 Who are our users? We'll brainstorm demographic data about them. The deliverable is
 an spreadsheet.
@@ -108,11 +119,23 @@ estimation, planning, development, delivery, and retrospectives. The
 deliverable is the universe-denting software. When we're finished, we'll
 launch! 🚀
 
+I'll use a wide variety of tools here, writing code with Vim and tmux,
+hardening my work with techniques like pair programming and code review,
+persisting data with databases like PostgreSQL, building functionality with
+languages like Ruby, JavaScript, and Elixir, leveraging frameworks like Rails,
+Phoenix, Create React App, and Gatsby.js, deploying to platforms like AWS,
+Heroku, Vercel, Netlify, and Gigalixir, envisioning design with tools like
+Sketch, managing stories with Pivotal Tracker, video conferencing with Skype,
+Google Meet, or Zoom, running retrospective via [Easy Retro][easy] or Basecamp,
+and more. A craftsperson is only as good as their tools. I am constantly
+upgrading and sharpening mine.
+
 ### Conclusion
 
 That's it! I plan to update the workflow periodically as I continue to ship and
 refine. I hope this was helpful, and keep building.
 
 [boring]:https://mcfunley.com/choose-boring-technology
-[iceberg]: https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/
+[easy]: https://easyretro.io/
 [hr]: https://hashrocket.com/
+[iceberg]: https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/
