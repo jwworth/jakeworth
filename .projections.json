@@ -7,5 +7,30 @@
       "date: '2021-01-01T00:00:00-06:00'",
       "---"
     ]
+  },
+  "content/blog/week-in-review-*.md": {
+    "type": "review",
+    "template": [
+      "---",
+      "title: 'Week in Review: {capitalize|blank}'",
+      "date: '2021-01-01T00:00:00-06:00'",
+      "---",
+      "",
+      "Here's my weekly review for this week.",
+      "",
+      "### Previous Action Items",
+      "",
+      "### What Went Well",
+      "",
+      "### What Could Have Gone Better",
+      "",
+      "### Forming Opinions",
+      "",
+      "### Action Items",
+      "",
+      "### Parting Thought",
+      "",
+      "> \"\" --Person"
+    ]
   }
 }
