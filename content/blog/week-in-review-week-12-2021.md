@@ -37,7 +37,7 @@ average click rate is 2.08%. The open rate across all industries is 21.33% and
 the click rate all industries is 2.62%. So, my open rate is ~9% higher than the
 industry average, and my click rate is ~13% higher (about 5x).
 
-My conclusion is that I'm a building a newsletter people want to read. My hope
+My conclusion is that I'm building a newsletter people want to read. My hope
 is that once I get to a certain scale, let's call it one thousand subscribers,
 this thing could blow up. I'm having fun and learning either way.
 
