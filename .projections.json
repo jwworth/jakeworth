@@ -1,10 +1,14 @@
 {
   "content/blog/*.md": {
     "type": "blog",
+    "template": ["---", "title: '{capitalize|blank}'", "date: ''", "---"]
+  },
+  "content/blog/til-*.md": {
+    "type": "til",
     "template": [
       "---",
-      "title: '{capitalize|blank}'",
-      "date: '2021-01-01T00:00:00-06:00'",
+      "title: 'Today I Learned: {capitalize|blank}'",
+      "date: ''",
       "---"
     ]
   },
@@ -13,7 +17,7 @@
     "template": [
       "---",
       "title: 'Week in Review: {capitalize|blank}'",
-      "date: '2021-01-01T00:00:00-06:00'",
+      "date: ''",
       "---",
       "",
       "Here's my weekly review for this week.",
