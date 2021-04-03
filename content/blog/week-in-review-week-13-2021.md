@@ -83,7 +83,7 @@ import `Avatar` from anywhere, even a file in the same directory:
 import { Avatar } from 'modules/common/components/Avatar';
 ```
 
-The longer I write React, the more have come to depend on fuzzy find. I've
+The longer I write React, the more I have come to depend on fuzzy find. I've
 mapped fuzzy finding files to `CTRL-P` in Vim. I love not having to hold my
 project's directory structure in my head at all times.
 
