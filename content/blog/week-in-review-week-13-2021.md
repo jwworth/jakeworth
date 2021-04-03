@@ -21,6 +21,9 @@ with my 134 subscribers.
 I worked for fourteen hours on my side project. Longer focused sessions are not
 possible most weeks, but when they are, I get a _lot_ done.
 
+I answered [this question](https://stackoverflow.com/a/66931145/2112512) about
+ternary operators and ERB on Stack Overflow.
+
 ### What Could Have Gone Better
 
 I overscheduled myself. Thursday and Friday were the payment, as I had
