@@ -57,15 +57,13 @@ $ tree src/
 ├── modules
 │   ├── common
 │   │   └── components
-│   │       ├── Avatar.tsx
-│   │       ├── Button.tsx
-│   │       ├── FlashMessage.tsx
+│   │       └── Avatar.tsx
 │   ├── dashboard
 │   │   └── components
 │   │       └── Dashboard.tsx
 │   ├── login
 │   │   └── components
-│   │       ├── Login.tsx
+│   │       └── Login.tsx
 │   └── setup
 │       └── components
 │           └── Setup.tsx
