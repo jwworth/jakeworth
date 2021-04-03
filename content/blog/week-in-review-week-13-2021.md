@@ -43,7 +43,8 @@ route. Shared components live in `common/`. I found this after abandoning two
 other patterns: a flat tree (doesn't scale), and directories organized by
 component (hides code while imparting no meaning).
 
-Here's a sample:
+So, if I have three routes, `dashboard/`, `login/` and `setup/`, here's an
+example tree:
 
 ```
 $ tree src/
