@@ -57,7 +57,7 @@ issue.
 _How much of this week did I spend on stuff that was truly my comparative
 advantage? For everything else, how can I get out of the loop?_
 
-💗 This week after 6.5 years of use, I weaned myself of the [Hashrocket
+💗 This week after 6.5 years of use, I weaned myself off the [Hashrocket
 Dotmatrix](https://github.com/hashrocket/dotmatrix). It was difficult! I think
 this will be to my advantage because I'll deepen my configuration skills, I
 won't be dependant on other (stellar) people to maintain my environment, and I
