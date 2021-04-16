@@ -8,7 +8,7 @@ When I find an idea that resonates with me, I turn into an evangelist for it to
 everyone who works with me.
 
 Here are some of my favorites. There's a recency bias; I can't remember some of
-the formative essays from my early years as a programmer. 
+the formative essays from my early years as a programmer.
 
 Thanks to [Ben Kuhn](https://www.benkuhn.net/progessays/) for this idea!
 
@@ -211,6 +211,17 @@ yourself on several teams.
 
 ---
 
+Shawn Wang, [The Meta-Creator Ceiling][ceiling]. Creating content about
+creating, e.g. writing a "How Elon Musk thinks" blog post, can be a limiting
+path because it's available to everyone and zero-sum. You could be missing an
+opportunity to create something truly original.
+
+> Assume you will be successful at whatever game you play. Are you playing a
+> game you want to win?
+-- Shawn Wang
+
+---
+
 Zed Shaw via Abhishek Nagekar, [Advice From An Old Programmer][zed]. There will
 likely come a day when you find programming to be a little bit boring. It will
 cease to be joyful as a pure exercise. What do you do then? It's a question I'm
@@ -230,6 +241,7 @@ I plan to keep this list updated as I continue to read. Send me the essays you
 keep returning to via [Twitter][twitter]!
 
 [atwood]: https://blog.codinghorror.com/the-first-rule-of-programming-its-always-your-fault/
+[ceiling]: https://www.swyx.io/meta-creator-ceiling/
 [expert-beginner]: https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 [lip]: https://www.swyx.io/writing/learn-in-public/
 [twitter]: https://twitter.com/jwworth
