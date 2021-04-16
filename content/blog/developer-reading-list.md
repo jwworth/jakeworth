@@ -40,8 +40,7 @@ prefer shorter-form ideas.
   A clear, concise overview of how good UI reduces the amount of arbitrary
   choices we ask of our users.
 - Metz, Sandi. _Practical Object Oriented Design in Ruby_. Sandi is my hero!
-  Perhaps the defining introduction to Object-Oriented Programming.
-  exceptional.
+  Perhaps the defining introduction to Object-Oriented Programming. Exceptional.
 - Olsen, Russ. _Eloquent Ruby_. What is the 'Ruby Way'? Move beyond competence
   and into fluency.
 - Shaw, Zed. _Learn Ruby the Hard Way: A Simple and Idiomatic Introduction to
