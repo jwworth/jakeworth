@@ -28,6 +28,8 @@ prefer shorter-form ideas.
 - Beck, Kent and Andres, Cynthia. _Extreme Programming Explained: Embrace
   Change_. XP informs so much of modern software development that it's hard to
   grasp how revolutionary it was in its time.
+- Hartl, Michael. _Rails Tutorial_. My first Rails book. A big headfirst dive
+  into Rails.
 - Hoover, Dave and Oshineye, Adewale. _Apprenticeship Patterns: Guidance for
   the Aspiring Software Craftsman_. Will help anyone create a strategy for
   their early programming career.
@@ -42,6 +44,10 @@ prefer shorter-form ideas.
   exceptional.
 - Olsen, Russ. _Eloquent Ruby_. What is the 'Ruby Way'? Move beyond competence
   and into fluency.
+- Shaw, Zed. _Learn Ruby the Hard Way: A Simple and Idiomatic Introduction to
+  the Imaginative World of Computational Thinking with Code_. My first Ruby
+  book. Zed's 'type it then understand it', magic-free approach has greatly
+  influenced me.
 - Simpson, Kyle. _This & Object Prototypes_. Succinctly explains some of the
   thornier features of JavaScript.
 
