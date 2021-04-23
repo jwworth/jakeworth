@@ -5,19 +5,9 @@ const social = [
     desc: 'Home to most of my code',
   },
   {
-    link: 'https://hashrocket.com/blog/rocketeers/jake-worth',
-    name: 'Hashrocket Blog',
-    desc: 'Writing about code and culture for Hashrocket',
-  },
-  {
     link: 'https://stackoverflow.com/users/2112512/jake-worth',
     name: 'Stack Overflow',
     desc: 'Helping people fix code',
-  },
-  {
-    link: 'https://til.hashrocket.com/authors/jakeworth',
-    name: 'Today I Learned',
-    desc: 'Writing about what I learn each day',
   },
   {
     link: 'https://twitter.com/jwworth',

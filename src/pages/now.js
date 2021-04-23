@@ -7,6 +7,7 @@ import SEO from '../components/seo'
 const THINKING_ABOUT = [
   'product development',
   'fintech',
+  'e-commerce',
   'organizational change',
   'ethics of technology',
   'mentorship & teaching',
@@ -45,7 +46,7 @@ const Now = props => {
       <h1>Now</h1>
 
       <h3>Home base</h3>
-      <p>&#127794; Portland, Maine.</p>
+      <p>Portland, Maine.</p>
 
       <h3>Quote</h3>
       <blockquote>
@@ -60,19 +61,19 @@ const Now = props => {
       <h3>Working On</h3>
       <ul>
         <li>
-          &#128187; Coding and consulting remotely for{' '}
+          Working at{' '}
           <a
-            href="https://hashrocket.com/"
+            href="https://www.framebridge.com/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Hashrocket
+            Framebridge
           </a>
-          , writing Ruby, Elixir, and React. Celebrating six years with this
-          stellar team.
+          . I'm a senior individual contributor, building web applications and
+          integrations to help employees design and manufacture frames.
         </li>
         <li>
-          &#127482;&#127480; Teaching SQL workshops and mentoring at{' '}
+          Teaching SQL workshops and mentoring at{' '}
           <a
             href="https://www.codeplatoon.org/"
             target="_blank"
@@ -83,18 +84,7 @@ const Now = props => {
           .
         </li>
         <li>
-          &#127891; Writing for and maintaining{' '}
-          <a
-            href="https://til.hashrocket.com"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Today I Learned
-          </a>
-          .
-        </li>
-        <li>
-          &#128230; Shipping side projects. Recently shipped:{' '}
+          Shipping side projects. Recently shipped:{' '}
           <a
             href="https://www.getrevue.co/profile/react-explained"
             target="_blank"
@@ -104,7 +94,7 @@ const Now = props => {
           </a>
           .
         </li>
-        <li>&#129504; Trying to better understand: {thoughts}. </li>
+        <li>Trying to better understand: {thoughts}. </li>
       </ul>
 
       <h3>Tweeting</h3>

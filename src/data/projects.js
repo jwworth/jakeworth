@@ -8,7 +8,7 @@ const projects = [
     description:
       "TIL was my apprentice project at Hashrocket. It has grown into a popular developers blog with 2000+ posts, millions of page views per year, and the top-ranked answers on Google to many an esoteric developer question. It's also open-source, one of the first such Phoenix repositories online. My team used TIL as a vehicle to learn Elixir and develop our growing Elixir practice.",
     purpose:
-      "The purpose of this application was to help me develop my skills as a programmer. Today, TIL exists to catalogue the sharing and accumulation of Hashrocket's knowledge as it happens day-to-day. Posts have a 200-word limit, and posting is open to any Rocketeer as well as selected friends of Hashrocket. I maintain the codebase with a team of interested Hashrocket colleagues and alumni.",
+      "The purpose of this application was to help me develop my skills as a programmer. Today, TIL exists to catalogue the sharing and accumulation of Hashrocket's knowledge as it happens day-to-day. Posts have a 200-word limit, and posting is open to any Rocketeer as well as selected friends of Hashrocket.",
     stackExplanation:
       'TIL launched as a Ruby on Rails app. In 2016, we rewrote the application in Elixir to learn that language and see how Phoenix compared to Ruby on Rails.',
     image: 'https://i.imgur.com/6JMNieU.png',

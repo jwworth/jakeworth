@@ -27,10 +27,10 @@ const About = props => {
     <Layout location={props.location} title={siteTitle}>
       <SEO title="About" />
       <h1>About</h1>
-      <p>&#128075; Happy {dayName}! I’m Jake.</p>
+      <p>Happy {dayName}! I’m Jake. &#128075; </p>
       <p>
-        I'm an Army veteran, self-taught programmer, and consultant working
-        remotely at <a href="https://hashrocket.com/">Hashrocket</a>.
+        I'm an Army veteran and self-taught programmer working remotely at{' '}
+        <a href="https://www.framebridge.com/">Framebridge</a>.
       </p>
       <p>
         Please visit my <a href="/">homepage</a> to explore my writing,{' '}
