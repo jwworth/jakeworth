@@ -14,7 +14,7 @@ Thanks to [Ben Kuhn](https://www.benkuhn.net/progessays/) for this idea!
 
 ### Essays
 
-Jeff Atwood, [The First Rule of Programming: It's Always Your Fault][atwood]. I
+Jeff Atwood, [The First Rule of Programming: It's Always Your Fault][your-fault]. I
 like to answer questions on Stack Overflow, and an amazing amount of questions
 on that website have a title like "Found a bug in React?" paired with an
 introductory sentence: "I'm brand new to React." It's human to assume there's a
@@ -240,9 +240,9 @@ profession.
 I plan to keep this list updated as I continue to read. Send me the essays you
 keep returning to via [Twitter][twitter]!
 
-[atwood]: https://blog.codinghorror.com/the-first-rule-of-programming-its-always-your-fault/
 [ceiling]: https://www.swyx.io/meta-creator-ceiling/
 [expert-beginner]: https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 [lip]: https://www.swyx.io/writing/learn-in-public/
 [twitter]: https://twitter.com/jwworth
+[your-fault]: https://blog.codinghorror.com/the-first-rule-of-programming-its-always-your-fault/
 [zed]: https://www.nagekar.com/2018/06/advice-from-an-old-programmer-zed-shaw.html
