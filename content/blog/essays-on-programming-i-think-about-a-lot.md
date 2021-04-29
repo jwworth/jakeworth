@@ -7,10 +7,11 @@ Programming is a game of abstractions, and we programmers traffic in ideas.
 When I find an idea that resonates with me, I turn into an evangelist for it to
 everyone who works with me.
 
-Here are some of my favorites. There's a recency bias; I can't remember some of
-the formative essays from my early years as a programmer.
+Here are my favorites. Some of these essays are purely about technology, and
+some are about programming culture. The longer I work in this field, the more
+these two domains merge in my mind.
 
-Thanks to [Ben Kuhn](https://www.benkuhn.net/progessays/) for this idea!
+Thanks to [Ben Kuhn](https://www.benkuhn.net/progessays/) for this idea.
 
 ### Essays
 
@@ -234,11 +235,9 @@ joint. You’re much better off using code as your secret weapon in another
 profession.
 -- Zed Shaw
 
-
 ### Conclusion
 
-I plan to keep this list updated as I continue to read. Send me the essays you
-keep returning to via [Twitter][twitter]!
+I plan to keep this list updated as I continue to read.
 
 [ceiling]: https://www.swyx.io/meta-creator-ceiling/
 [expert-beginner]: https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
