@@ -49,7 +49,7 @@ None of significance.
 ### Parting Thought
 
 > "If, instead of seeking approval, you ask, 'What’s wrong with it? How can I
-> make it better?", you are more likely to get a truthful, critical answer." 
+> make it better?', you are more likely to get a truthful, critical answer."
 --Paul Arden
 
 [demeter]: https://avdi.codes/demeter-its-not-just-a-good-idea-its-the-law/
