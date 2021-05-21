@@ -77,8 +77,8 @@ const BlogPostTemplate = props => {
 
       <Disqus
         config={{
-          url: props.location.pathname,
-          identifier: post.id,
+          url: props.location.href,
+          identifier: props.location.pathname,
           title: title,
         }}
       />
