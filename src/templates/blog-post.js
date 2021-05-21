@@ -1,5 +1,6 @@
-import { Link, graphql } from 'gatsby'
 import React from 'react'
+import { Disqus } from 'gatsby-plugin-disqus'
+import { Link, graphql } from 'gatsby'
 
 import { rhythm, scale } from '../utils/typography'
 import Bio from '../components/Bio'
@@ -10,11 +11,12 @@ const BlogPostTemplate = props => {
   const post = props.data.markdownRemark
   const siteTitle = props.data.site.siteMetadata.title
   const { previous, next, slug } = props.pageContext
+  const { title } = post.frontmatter
 
   return (
     <Layout location={props.location} title={siteTitle}>
-      <SEO title={post.frontmatter.title} description={post.excerpt} />
-      <h1>{post.frontmatter.title}</h1>
+      <SEO title={title} description={post.excerpt} />
+      <h1>{title}</h1>
       <p
         style={{
           ...scale(-1 / 5),
@@ -72,6 +74,14 @@ const BlogPostTemplate = props => {
           )}
         </li>
       </ul>
+
+      <Disqus
+        config={{
+          url: props.location.pathname,
+          identifier: post.id,
+          title: title,
+        }}
+      />
     </Layout>
   )
 }
