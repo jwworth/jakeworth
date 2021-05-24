@@ -76,6 +76,7 @@ prefer shorter-form ideas.
 - Newport, Cal. _So Good They Can't Ignore You: Why Skills Trump Passion in the
   Quest for Work You Love_. Makes the case that the passion we chase as
   professionals only comes when we have first put in the work to be
+  exceptional.
 - Swartz, Aaron. _The Boy Who Could Change the World: The Writings of Aaron
   Swartz_. Thoughtful essays about technology and ethics from one of the Web's
   pioneers.
