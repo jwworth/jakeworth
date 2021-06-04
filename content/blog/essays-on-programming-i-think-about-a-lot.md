@@ -48,8 +48,7 @@ hurt feelings. Then go away and prove them wrong.
 
 ---
 
-David B. Hayes, [Rubber Duck Debugging: The Psychology of How it
-Works](https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/).
+David B. Hayes, [Rubber Duck Debugging: The Psychology of How it Works][duck].
 Trying to understand these ideas, which humans aren't inclined to understand,
 has been the most positive influence overall on my debugging skills.
 
@@ -60,22 +59,28 @@ simply solved.
 
 ---
 
-[XY Problem](http://xyproblem.info/). When you're asking for programming help
-from someone, start by easing them into your situation, stating the problem,
-your assumptions, and what you've tried and learned. Give them the chance to
-poke holes in your logic.
+[XY Problem][xy]. When you're asking for programming help from someone, start
+by easing them into your situation, stating the problem, your assumptions, and
+what you've tried and learned. Start from the beginning and give them the
+chance to poke holes in _all_ of your logic.
 
-> Remember that if your diagnostic theories were accurate, you wouldn't be asking for help right?
+> Remember that if your diagnostic theories were accurate, you wouldn't be
+asking for help right?
+
+This echos one of my favorite quotes about feedback:
+
+> If, instead of seeking approval, you ask, ‘What’s wrong with it? How can I
+make it better?’, you are more likely to get a truthful, critical answer.
+-- Paul Arden
 
 ---
 
-Dan McKinley, [Choose Boring
-Technology](https://mcfunley.com/choose-boring-technology). As I've cycled
-through side projects in Phoenix, Rails, and React this year, this post has
-resonated with me. Picking the right technology with which to build your
-project is massively important, and I believe we as a community place far too
-much value on tools that are new. How do we make pragmatic choices? Consider
-Dan's concept of 'innovation tokens':
+Dan McKinley, [Choose Boring Technology][boring]. As I've cycled through side
+projects in Phoenix, Rails, and React this year, this post has resonated with
+me. Picking the right technology with which to build your project is massively
+important, and I believe we as a community place far too much value on tools
+that are new. How do we make pragmatic choices? Consider Dan's concept of
+'innovation tokens':
 
 > Let’s say every company gets about three innovation tokens. You can spend
 these however you want, but the supply is fixed for a long while. You might get
@@ -166,12 +171,11 @@ will be placed upon our code in the future.
 
 ---
 
-Paul Graham, [Schlep Blindness](http://www.paulgraham.com/schlep.html). Fixing
-online payments was a massive business idea that was just sitting there,
-waiting be solved. So why didn't anyone solve it before Stripe? Because it was
-a hard problem, full of tedious drudgery and unknowns. Paul argues that our
-brains want to protect us from failure, and thus won't even let us see these
-kind of problems.
+Paul Graham, [Schlep Blindness][schlep]. Fixing online payments was a massive
+business idea that was just sitting there, waiting be solved. So why didn't
+anyone solve it before Stripe? Because it was a hard problem, full of tedious
+drudgery and unknowns. Paul argues that our brains want to protect us from
+failure, and thus won't even let us see these kind of problems.
 
 > Your unconscious won't even let you see ideas that involve painful schleps.
 > That's schlep blindness.
@@ -182,12 +186,11 @@ solve.
 
 ---
 
-Adam Wathan, [CSS Utility Classes and "Separation of
-Concerns."](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)
-This post makes a thorough, thoughtful case against the dominant CSS strategies
-of today, and a case for a functional, utility-first style exemplified in
-Wathan's library TailwindCSS. I've fought some of these battles myself, the
-advice rings true, and the patterns he describes feel really comfortable to me.
+Adam Wathan, [CSS Utility Classes and "Separation of Concerns."][wathan]. Makes
+a thorough, thoughtful case against the dominant CSS strategies of today, and a
+case for a functional, utility-first style exemplified in Wathan's library
+TailwindCSS. I've fought some of these battles myself, the advice rings true,
+and the patterns he describes feel really comfortable to me.
 
 > When you think about the relationship between HTML and CSS in terms of
 > "separation of concerns", it's very black and white. You either have
@@ -197,10 +200,9 @@ advice rings true, and the patterns he describes feel really comfortable to me.
 
 ---
 
-Charity Majors, [The Trap of the Premature
-Senior](https://charity.wtf/2020/11/01/questionable-advice-the-trap-of-the-premature-senior/).
-True seniority is earned by moving around and continuing to grow and prove
-yourself on several teams.
+Charity Majors, [The Trap of the Premature Senior][trap]. True seniority is
+earned by moving around and continuing to grow and prove yourself on several
+teams.
 
 > After you have gotten a new job or two, and proven to yourself that you can
 > level up again and master new stacks and technologies, that fretful inner
@@ -239,9 +241,15 @@ profession.
 
 I plan to keep this list updated as I continue to read.
 
+[boring]: https://mcfunley.com/choose-boring-technology
 [ceiling]: https://www.swyx.io/meta-creator-ceiling/
+[duck]: https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/
 [expert-beginner]: https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 [lip]: https://www.swyx.io/writing/learn-in-public/
+[schep]: http://www.paulgraham.com/schlep.html
+[trap]: https://charity.wtf/2020/11/01/questionable-advice-the-trap-of-the-premature-senior/
 [twitter]: https://twitter.com/jwworth
+[wathan]: https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
+[xy]: http://xyproblem.info/
 [your-fault]: https://blog.codinghorror.com/the-first-rule-of-programming-its-always-your-fault/
 [zed]: https://www.nagekar.com/2018/06/advice-from-an-old-programmer-zed-shaw.html
