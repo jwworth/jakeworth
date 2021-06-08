@@ -16,17 +16,6 @@ const projects = [
       'Learning in public is a valuable offering. Elixir is a joy to write. Phoenix stacks up well against Ruby on Rails.',
   },
   {
-    uuid: '00ffd5ac-93d0-4fe1-9509-4598a4e75414',
-    title: 'React Explained',
-    link: 'https://www.getrevue.co/profile/react-explained/',
-    stack: 'Revue',
-    description:
-      'Here\'s the pitch: "Do you want to really (really!) learn React, while staying current on this exploding ecosystem? Subscribe to React Explained, a bi-weekly newsletter of amazing, curated React news and resources, simply explained. It’s free! Subscribe now."',
-    purpose:
-      "In 2020, I surveyed the technical newletter space and concluded that the existing React newsletters aren't geared for beginners. I want to help somebody learning React today– a person who is overwhelmed by the rapid growth of the ecosystem and tons of shared context in the community.",
-    image: 'https://imgur.com/vu5MAzm.png',
-  },
-  {
     uuid: '5faab9e4-bf23-4021-8e2d-8156346cdb95',
     title: 'The Bell',
     link: 'https://github.com/jwworth/bell',
@@ -40,6 +29,19 @@ const projects = [
     image: 'https://i.imgur.com/C7PX353.gif',
     lessonsLearned:
       'This project challenged me as a designer and as a programmer. How do I make the bell look and feel amazing? I felt success was binary: it was either engaging or it was not. My takeaway is that I enjoy building products that follow my imagination.',
+  },
+  {
+    uuid: '00ffd5ac-93d0-4fe1-9509-4598a4e75414',
+    title: 'React Explained',
+    link: 'https://www.getrevue.co/profile/react-explained/',
+    stack: 'Revue',
+    description:
+      'Here\'s the pitch: "Do you want to really (really!) learn React, while staying current on this exploding ecosystem? Subscribe to React Explained, a bi-weekly newsletter of amazing, curated React news and resources, simply explained. It’s free! Subscribe now."',
+    purpose:
+      "In 2020, I surveyed the technical newletter space and concluded that the existing React newsletters aren't geared for beginners. I want to help somebody learning React today– a person who is overwhelmed by the rapid growth of the ecosystem and tons of shared context in the community.",
+    image: 'https://imgur.com/vu5MAzm.png',
+    lessonsLearned:
+      "I learned how to develop and launch a product. There's still ample opportunity for introductory-level React courses and content. Creating a weekly newsletter is rewarding and hard work. There's a direct correlation between the energy you put in and the quality of the resource.",
   },
   {
     uuid: '13b17d86-ff3f-4890-8450-e3f662c45e4b',
