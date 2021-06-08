@@ -5,16 +5,16 @@ import Layout from '../components/Layout'
 import SEO from '../components/seo'
 
 const THINKING_ABOUT = [
-  'product development',
-  'fintech',
-  'e-commerce',
-  'organizational change',
-  'ethics of technology',
-  'mentorship & teaching',
-  'remote work',
-  'engineering management',
-  'entrepreneurship',
-  'communication',
+  'bootstrapping',
+  'design',
+  'collaboration',
+  'technical management',
+  'MVP development',
+  'apprenticeships',
+  'estimation',
+  'type safety',
+  'test strategy',
+  'learning cultures'
 ]
 
 const Now = props => {
