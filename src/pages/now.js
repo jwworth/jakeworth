@@ -50,7 +50,11 @@ const Now = props => {
 
       <h3>Quote</h3>
       <blockquote>
-        <p>"Be so good they can't ignore you." –Steve Martin</p>
+        <p>
+          "If, instead of seeking approval, you ask, 'What’s wrong with it? How
+          can I make it better?', you are more likely to get a truthful,
+          critical answer." —Paul Arden
+        </p>
       </blockquote>
 
       <h3>Latest Post</h3>
