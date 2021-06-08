@@ -65,8 +65,8 @@ const About = props => {
       <ul>
         <li>
           <em>SQL Workshop</em>, Code Platoon (Bravo, Charlie, Delta, Foxtrot,
-          Golf, Hotel, India, Juliet, Kilo, Lima, Mike, and November cohorts),
-          2017—present.
+          Golf, Hotel, India, Juliet, Kilo, Lima, Mike, November, and Oscar
+          cohorts), 2017—present.
         </li>
         <li>
           <em>How Building a Guitar Made Me a Better Programmer</em>, Hashrocket
