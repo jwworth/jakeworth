@@ -47,14 +47,14 @@ const projects = [
     uuid: '13b17d86-ff3f-4890-8450-e3f662c45e4b',
     title: 'Game of Life',
     link: 'https://conway.now.sh/',
-    stack: 'React.js, TypeScript, Zeit',
+    stack: 'React.js, TypeScript, Vercel',
     repo: 'https://github.com/jwworth/conway',
     description:
       "This is my implementation of the classic cellular automaton and programming puzzle, Conway's Game of Life.",
     purpose:
       'I used this project as a vehicle to better learn React.js and contribute to a growing menagerie of GOL implementations by my team at Hashrocket.',
     stackExplanation:
-      "I knew this project would be highly visual, so I chose React.js, and difficult to test, so I added TypeScript. For hosting, Zeit's push-to-deploy and global CDN have been outstanding.",
+      "I knew this project would be highly visual, so I chose React.js, and difficult to test, so I added TypeScript. For hosting, Vercel's push-to-deploy and global CDN have been outstanding.",
     image: 'https://i.imgur.com/gsfpbsx.gif',
     lessonsLearned:
       "React is a fantastic platform for visual programs. TypeScript helps me feel more confident in code I didn't test-drive.",
