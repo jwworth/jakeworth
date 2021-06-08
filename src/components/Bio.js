@@ -12,12 +12,13 @@ const Bio = () => (
       return (
         <div
           style={{
-            display: `flex`,
+            display: 'flex',
+            justifyContent: 'space-between',
             marginBottom: rhythm(2.5),
           }}
         >
           <p>
-            I'm{' '}
+            Blog of{' '}
             <a
               href="https://twitter.com/jwworth/"
               rel="noopener noreferrer"
@@ -25,16 +26,13 @@ const Bio = () => (
             >
               {author}
             </a>
-            , web developer. <Link to={`/`}>Home</Link>{' '}
-            <Link to={`/about/`}>About</Link> <Link to={`/now/`}>Now</Link>{' '}
-            <a
-              href="https://www.getrevue.co/profile/react-explained/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              Newsletter
-            </a>
+            .
           </p>
+          <nav>
+            <Link to={`/`}>Home</Link>
+            <Link to={`/about/`}>About</Link>
+            <Link to={`/now/`}>Now</Link>
+          </nav>
         </div>
       )
     }}
