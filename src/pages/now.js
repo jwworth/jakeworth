@@ -77,6 +77,17 @@ const Now = props => {
           integrations to help employees design and manufacture frames.
         </li>
         <li>
+          Shipping side projects. Most recent public project:{' '}
+          <a
+            href="https://www.getrevue.co/profile/react-explained"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            React Explained
+          </a>
+          .
+        </li>
+        <li>
           Teaching SQL workshops and mentoring at{' '}
           <a
             href="https://www.codeplatoon.org/"
@@ -84,17 +95,6 @@ const Now = props => {
             rel="noopener noreferrer"
           >
             Code Platoon
-          </a>
-          .
-        </li>
-        <li>
-          Shipping side projects. Recently shipped:{' '}
-          <a
-            href="https://www.getrevue.co/profile/react-explained"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            React Explained
           </a>
           .
         </li>
