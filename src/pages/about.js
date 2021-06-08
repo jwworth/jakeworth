@@ -122,7 +122,7 @@ const About = props => {
         <li>
           <p>
             <em>Observing Change: A Gold Master Test in Practice</em>, RailsConf
-            / Sauce Labs (webinar), 2017.
+            / Sauce Labs Webinar, 2017.
           </p>
           <div className="video-container">
             <iframe
