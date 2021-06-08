@@ -1,7 +1,7 @@
 {
   "name": "jakeworth",
   "private": true,
-  "description": "Blog of Jake Worth, web developer.",
+  "description": "Blog of Jake Worth",
   "version": "1.0.0",
   "engines": {
     "node": "10.17.0"
