@@ -33,7 +33,7 @@ const About = props => {
         <a href="https://www.framebridge.com/">Framebridge</a>.
       </p>
       <p>
-        Please visit my <a href="/">homepage</a> to explore my writing,{' '}
+        Please visit my <a href="/">blog</a> to explore my writing,{' '}
         <a href="/now/">Now</a> to see what I'm currently excited about, and my
         projects, talks, and profiles below. I'm most proud of my volunteer work
         mentoring and teaching SQL to veterans at{' '}

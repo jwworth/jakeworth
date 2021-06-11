@@ -17,21 +17,11 @@ const Bio = () => (
             marginBottom: rhythm(2.5),
           }}
         >
-          <p>
-            Blog of{' '}
-            <a
-              href="https://twitter.com/jwworth/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              {author}
-            </a>
-            .
-          </p>
+          <p>Blog of {author}.</p>
           <nav>
-            <Link to={`/`}>Home</Link>
-            <Link to={`/about/`}>About</Link>
+            <Link to={`/`}>Blog</Link>
             <Link to={`/now/`}>Now</Link>
+            <Link to={`/about/`}>About</Link>
           </nav>
         </div>
       )
