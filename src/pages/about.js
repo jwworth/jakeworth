@@ -19,7 +19,7 @@ const About = props => {
     'Tuesday',
     'Wednesday',
     'Thursday',
-    'Friday',
+    'Friyay',
     'Saturday',
   ][day]
 
