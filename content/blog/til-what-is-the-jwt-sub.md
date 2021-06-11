@@ -1,5 +1,5 @@
 ---
-title: 'Today I Learned: What is the JWT sub?'
+title: 'What is the JWT sub?'
 date: '2021-04-02T14:13:51-0400'
 ---
 
