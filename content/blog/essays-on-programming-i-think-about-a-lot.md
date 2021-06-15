@@ -225,6 +225,18 @@ opportunity to create something truly original.
 
 ---
 
+Shawn Wang, [Preemptive Pluralization is (Probably) Not Evil][preemptive].
+YAGNI (You Aren't Going to Need It) and 'Premature Optimization is Bad' are
+fundamental tenets to my programming. Yet I also want to create designs that
+are future-proof and scalable. This post tries to identify the very fine line
+separating these concepts.
+
+> Before you write any code — ask if you could ever possibly want multiple
+> kinds of the thing you are coding. If yes, just do it. Now, not later.
+-- Shawn Wang
+
+---
+
 Zed Shaw via Abhishek Nagekar, [Advice From An Old Programmer][zed]. There will
 likely come a day when you find programming to be a little bit boring. It will
 cease to be joyful as a pure exercise. What do you do then? It's a question I'm
@@ -246,6 +258,7 @@ I plan to keep this list updated as I continue to read.
 [duck]: https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/
 [expert-beginner]: https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 [lip]: https://www.swyx.io/writing/learn-in-public/
+[preemptive]: https://www.swyx.io/preemptive-pluralization/
 [schep]: http://www.paulgraham.com/schlep.html
 [trap]: https://charity.wtf/2020/11/01/questionable-advice-the-trap-of-the-premature-senior/
 [twitter]: https://twitter.com/jwworth
