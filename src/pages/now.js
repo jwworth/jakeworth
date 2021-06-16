@@ -104,7 +104,7 @@ const Now = props => {
       <h3>Tweeting</h3>
       <p>
         <a
-          class="twitter-timeline"
+          className="twitter-timeline"
           data-tweet-limit="5"
           href="https://twitter.com/jwworth?ref_src=twsrc%5Etfw"
         >
