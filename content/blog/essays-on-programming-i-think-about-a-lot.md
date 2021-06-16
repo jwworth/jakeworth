@@ -30,7 +30,7 @@ about saying "hey, this is my fault-- and I'll get to the bottom of it."
 I tried to make this argument myself before reading the canonical Atwood post,
 which you can read here: [Examine Your Assumptions](/examine-your-assumptions).
 
----
+〰〰〰
 
 Shawn Wang, [Learn in Public][lip]. Be public, leverage the encouragement and
 criticism of others, and build a footprint for yourself on the internet. There
@@ -46,7 +46,7 @@ you suck. You want to just feel good or you want to be good? No objections, no
 hurt feelings. Then go away and prove them wrong.
 -- Shawn Wang
 
----
+〰〰〰
 
 David B. Hayes, [Rubber Duck Debugging: The Psychology of How it Works][duck].
 Trying to understand these ideas, which humans aren't inclined to understand,
@@ -57,7 +57,7 @@ fresh when you invoke your little rubber ducky, and your problem may be quite
 simply solved.
 -- David B. Hayes
 
----
+〰〰〰
 
 [XY Problem][xy]. When you're asking for programming help from someone, start
 by easing them into your situation, stating the problem, your assumptions, and
@@ -73,7 +73,7 @@ This echos one of my favorite quotes about feedback:
 make it better?’, you are more likely to get a truthful, critical answer.
 -- Paul Arden
 
----
+〰〰〰
 
 Dan McKinley, [Choose Boring Technology][boring]. As I've cycled through side
 projects in Phoenix, Rails, and React this year, this post has resonated with
@@ -88,7 +88,7 @@ a few more after you achieve a certain level of stability and maturity, but the
 general tendency is to overestimate the contents of your wallet.
 -- Dan McKinley
 
----
+〰〰〰
 
 Elisabeth Hendrickson, [Momentum >
 Urgency](https://testobsessed.com/2020/02/momentum-urgency/). I found this post
@@ -103,7 +103,7 @@ that obstacle, considering it a top priority.
 is much more effective than a sense of urgency.
 -- Elisabeth Hendrickson
 
----
+〰〰〰
 
 Scott Hanselman, [Do they deserve the gift of your
 keystrokes?](https://www.hanselman.com/blog/do-they-deserve-the-gift-of-your-keystrokes)
@@ -114,7 +114,7 @@ communication method, and whether I'm making efficient use of time.
 > Assuming you want your message to reach as many people as possible, blog it. You only have so many hours in the day.
 -- Scott Hanselman
 
----
+〰〰〰
 
 Joel Spolsky, [The Iceberg Secret,
 Revealed](https://www.joelonsoftware.com/2002/02/13/the-iceberg-secret-revealed/).
@@ -137,7 +137,7 @@ Want To Be_ by Paul Arden: "The more strikingly visual your presentation is,
 the more people will remember it." Every visual detail you add will translate
 to a working, MVP feature in the eyes of some stakeholders.
 
----
+〰〰〰
 
 Paul Slaughter, [Conventional comments](https://conventionalcomments.org/). I
 believe code reviews can raise quality, share information, and help people
@@ -169,7 +169,7 @@ we should be mindful of the fact that we don't really know what requirements
 will be placed upon our code in the future.
 -- Kent C. Dodds
 
----
+〰〰〰
 
 Paul Graham, [Schlep Blindness][schlep]. Fixing online payments was a massive
 business idea that was just sitting there, waiting be solved. So why didn't
@@ -184,7 +184,7 @@ failure, and thus won't even let us see these kind of problems.
 What's the workaround? Think about problems that you wish *someone else* would
 solve.
 
----
+〰〰〰
 
 Adam Wathan, [CSS Utility Classes and "Separation of Concerns."][wathan]. Makes
 a thorough, thoughtful case against the dominant CSS strategies of today, and a
@@ -198,7 +198,7 @@ and the patterns he describes feel really comfortable to me.
 > way to think about HTML and CSS. Instead, think about dependency direction.
 -- Adam Wathan
 
----
+〰〰〰
 
 Charity Majors, [The Trap of the Premature Senior][trap]. True seniority is
 earned by moving around and continuing to grow and prove yourself on several
@@ -212,7 +212,7 @@ teams.
 > and succeed. You will be a senior engineer.
 -- Charity Majors
 
----
+〰〰〰
 
 Shawn Wang, [The Meta-Creator Ceiling][ceiling]. Creating content about
 creating, e.g. writing a "How Elon Musk thinks" blog post, can be a limiting
@@ -223,7 +223,7 @@ opportunity to create something truly original.
 > game you want to win?
 -- Shawn Wang
 
----
+〰〰〰
 
 Shawn Wang, [Preemptive Pluralization is (Probably) Not Evil][preemptive].
 YAGNI (You Aren't Going to Need It) and 'Premature Optimization is Bad' are
@@ -235,7 +235,7 @@ separating these concepts.
 > kinds of the thing you are coding. If yes, just do it. Now, not later.
 -- Shawn Wang
 
----
+〰〰〰
 
 Zed Shaw via Abhishek Nagekar, [Advice From An Old Programmer][zed]. There will
 likely come a day when you find programming to be a little bit boring. It will
