@@ -1,6 +1,8 @@
 ---
 title: 'One Skill for an Apprentice Candidate'
 date: '2016-07-15T14:32:31-05:00'
+tags:
+  - testing
 ---
 
 > What is one skill I could learn to set myself apart from other apprentice candidates? 

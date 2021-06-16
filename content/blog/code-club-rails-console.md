@@ -1,6 +1,8 @@
 ---
 title: 'Code Club: Rails Console'
 date: '2014-08-19T13:25:52-05:00'
+tags:
+  - ruby
 ---
 
 Another week, another showdown in the Code Club.

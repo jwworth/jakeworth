@@ -1,6 +1,8 @@
 ---
 title: 'Intro to TDD'
 date: '2019-09-11T00:00:00-06:00'
+tags:
+  - testing
 ---
 
 If one wanted to learn Test-Driven Development, AKA TDD, in 2019, where should

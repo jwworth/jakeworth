@@ -1,6 +1,8 @@
 ---
 title: 'Code Club: Rack and Rails Server'
 date: '2014-08-27T18:20:40-05:00'
+tags:
+  - ruby
 ---
 
 This week in Code Club we explored Rack, the middleware of the Rails stack.  Rack is newsworthy of late due to a change in ownership, prompting inevitable questions about the future.  As Rails developers, we wanted to know what Rack really does.

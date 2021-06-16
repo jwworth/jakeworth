@@ -1,6 +1,8 @@
 ---
 title: 'Run Length Encoding in Elixir'
 date: '2016-07-31T13:34:10-05:00'
+tags:
+  - elixir
 ---
 
 I've been working through the Elixir challenges on [Exercism.io](http://exercism.io/), to learn the language in the same way James Edward Gray recently attempted ([link](https://soundcloud.com/elixirfountain/elixir-fountain-james-edward-gray-2016-05-31)). If you haven't tried the site, it's awesome. You'll learn TDD, how to install and run different languages, respond to comments, and most importantly, write code in an unfamiliar language.

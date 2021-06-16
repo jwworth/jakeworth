@@ -1,6 +1,8 @@
 ---
 title: 'Git Bisect Demo'
 date: '2016-12-02T13:53:01-06:00'
+tags:
+  - git
 ---
 
 I just built a new project, called 'Git Bisect Demo'. It's available

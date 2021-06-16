@@ -1,6 +1,8 @@
 ---
 title: 'WebAssembly: The Next Language of the Web'
 date: '2020-01-30T00:00:00-10:00'
+tags:
+  - wasm
 ---
 
 Interested in WebAssembly? At Hashrocket's Winter Miniconf 2020, I presented my

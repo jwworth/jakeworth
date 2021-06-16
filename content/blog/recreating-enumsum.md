@@ -1,6 +1,8 @@
 ---
 title: "Recreating Elixir's Enum.sum"
 date: '2016-06-30T11:16:59-05:00'
+tags:
+  - elixir
 ---
 
 I'm learning Elixir, and today as an exercise, I was challenged to recreate `Enum.sum` using recursion.

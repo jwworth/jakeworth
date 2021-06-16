@@ -1,6 +1,8 @@
 ---
 title: 'Use Yarn Like a Pro'
 date: '2019-02-23T11:14:12-06:00'
+tags:
+  - javascript
 ---
 
 Last week, I published a post on the Hashrocket blog about my favorite

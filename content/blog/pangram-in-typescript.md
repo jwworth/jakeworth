@@ -1,6 +1,8 @@
 ---
 title: 'Pangram in TypeScript'
 date: '2019-07-29T02:54:43-05:00'
+tags:
+  - typescript
 ---
 
 I've been doing Exercism's TypeScript exercises, and wanted to share some of my

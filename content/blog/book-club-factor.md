@@ -1,6 +1,8 @@
 ---
 title: 'Book Club: Factor'
 date: '2016-01-21T21:13:57-06:00'
+tags:
+  - factor
 ---
 
 This week at Hashrocket Chicago, we had the second meeting of an internal

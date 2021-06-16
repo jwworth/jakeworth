@@ -1,6 +1,8 @@
 ---
 title: 'From One End to the Other in Ruby'
 date: '2016-03-06T17:57:40-06:00'
+tags:
+  - ruby
 ---
 
 A while back I tackled the following programming challenge:

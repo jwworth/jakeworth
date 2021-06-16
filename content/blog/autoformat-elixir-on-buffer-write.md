@@ -1,6 +1,8 @@
 ---
 title: 'Autoformat Elixir on Buffer Write'
 date: '2018-02-17T11:48:04-06:00'
+tags:
+  - vim
 ---
 
 I've been working with the Elixir 1.6 autoformatter a lot this year. Part of that journey was adding the following to my local Vim configuration file:

@@ -1,6 +1,8 @@
 ---
 title: 'ACR 2019: Functioning in React'
 date: '2019-09-04T00:00:00-06:00'
+tags:
+  - react
 ---
 
 This October I'll be presenting a talk titled _Functioning in React: A

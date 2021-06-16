@@ -1,6 +1,8 @@
 ---
 title: 'Sum of Multiples in Elixir'
 date: '2016-08-26T21:37:56-05:00'
+tags:
+  - elixir
 ---
 
 Today I solved Exercism's [Sum of Multiples](http://exercism.io/exercises/elixir/sum-of-multiples/readme) problem.

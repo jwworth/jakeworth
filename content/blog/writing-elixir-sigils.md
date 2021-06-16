@@ -1,6 +1,8 @@
 ---
 title: 'Writing Elixir Sigils'
 date: '2016-07-04T15:12:44-05:00'
+tags:
+  - elixir
 ---
 
 Sigils are a mechanism for working with textual representations in Elixir. If you've ever made an array of Strings in Ruby with `%w()`, the API is similar.

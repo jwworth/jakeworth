@@ -1,6 +1,8 @@
 ---
 title: 'Tmux List Sessions'
 date: '2015-10-13T10:03:00-05:00'
+tags:
+  - tmux
 ---
 
 Today while hacking on Rails I stumbled upon the Tmux 'list sessions' command.

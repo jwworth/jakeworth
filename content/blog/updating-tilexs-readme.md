@@ -1,6 +1,8 @@
 ---
 title: Updating Tilex's README
 date: '2017-11-13T08:55:58-06:00'
+tags:
+  - elixir
 ---
 
 Today was day one of the [Code Quality Challenge](https://www.codequalitychallenge.com/). I think it's a great professional challenge and am excited to be in the first cohort.

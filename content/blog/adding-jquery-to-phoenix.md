@@ -1,6 +1,8 @@
 ---
 title: 'Adding jQuery to Phoenix'
 date: '2017-01-05T21:31:17-06:00'
+tags:
+  - elixir
 ---
 
 We've been building a Phoenix application lately; here's the [backstory](/porting-til-to-phoenix-initial-commits).

@@ -1,6 +1,8 @@
 ---
 title: 'Vim or Bust'
 date: '2014-08-20T16:26:12-05:00'
+tags:
+  - vim
 ---
 
 Starting with this blog post, I will be using Vim as my primary text editor.

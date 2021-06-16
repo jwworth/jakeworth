@@ -1,6 +1,8 @@
 ---
 title: 'Why is Your Blog on Rails?'
 date: '2016-07-04T18:29:17-05:00'
+tags:
+  - ruby
 ---
 
 > Why is your blog on Rails?

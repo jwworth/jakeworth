@@ -1,6 +1,8 @@
 ---
 title: 'Interview: Jeremy Huffman, Dialyxir'
 date: '2019-04-11T11:14:12-06:00'
+tags:
+  - elixir
 ---
 
 Today, I published a post on the Hashrocket blog presenting a recent interview

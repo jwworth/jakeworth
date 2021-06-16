@@ -1,6 +1,8 @@
 ---
 title: 'FileUtils For All'
 date: '2015-09-30T20:01:27-05:00'
+tags:
+  - ruby
 ---
 
 A step in the Ruby deploy scripts for one of my projects shells out as such: `rm -rf build/assets/ui`. This prevents all design artifacts from going out with the production push. Pretty cool, right?

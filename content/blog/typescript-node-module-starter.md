@@ -1,6 +1,8 @@
 ---
 title: TypeScript Node Module Starter
 date: '2019-01-18'
+tags:
+  - typescript
 ---
 
 Recently I started writing a Node module, and I realized I wanted unit tests

@@ -1,6 +1,8 @@
 ---
 title: '30 Days of Vim'
 date: '2014-09-23T18:09:58-05:00'
+tags:
+  - vim
 ---
 
 It's been a month since I started using Vim full-time; it's time to reflect.

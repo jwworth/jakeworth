@@ -1,6 +1,8 @@
 ---
 title: 'RailsConf 2014 Wrap-Up'
 date: '2014-04-30T10:44:04-05:00'
+tags:
+  - ruby
 ---
 
 I just returned from <a href='http://www.railsconf.com/'>Rails Conf</a> 2014 here in Chicago.

@@ -1,6 +1,8 @@
 ---
 title: 'Keyword, Match, and Region in VimScript'
 date: '2016-04-20T22:40:49-05:00'
+tags:
+  - vim
 ---
 
 After a recent talk I gave that included VimScript, an attendee asked a question about the differences between `keyword`, `match`, and `region` following `syn` in a Vim syntax highlighting file.

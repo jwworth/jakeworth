@@ -1,6 +1,8 @@
 ---
 title: 'My Annotated Vimrc'
 date: '2020-11-26T00:00:00-06:00'
+tags:
+  - vim
 ---
 
 I am obsessed with Vim. Folks who've programmed with me, or attended the Vim

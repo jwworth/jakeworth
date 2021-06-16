@@ -1,6 +1,9 @@
 ---
 title: 'Porting TIL from Rails to Phoenix: Initial Commits'
 date: '2016-11-29T13:31:53-06:00'
+tags:
+  - elixir
+  - ruby
 ---
 
 Last week, I started a new project: porting [Today I

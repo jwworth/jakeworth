@@ -1,6 +1,8 @@
 ---
 title: 'My RubyConf 2020 Abstract'
 date: '2020-10-10T00:00:00-06:00'
+tags:
+  - ruby
 ---
 
 This Fall, I learned that I've been selected as a waitlisted speaker to

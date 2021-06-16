@@ -1,6 +1,8 @@
 ---
 title: 'mgrim: Everything Updated All The Time'
 date: '2018-07-11T10:49:00-05:00'
+tags:
+  - git
 ---
 
 My current favorite command line alias is `mgrim`, composed of four other aliases:

@@ -1,6 +1,8 @@
 ---
 title: 'Ruby Symbol#to_proc'
 date: '2014-10-31T13:39:25-05:00'
+tags:
+  - ruby
 ---
 
 Explore a Rails app, and you might see something like this:

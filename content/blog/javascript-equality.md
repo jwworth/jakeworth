@@ -1,6 +1,8 @@
 ---
 title: 'JavaScript Equality'
 date: '2018-07-17T08:27:10-05:00'
+tags:
+  - javascript
 ---
 
 A few weeks ago, I built an app with React.js and create-react-app that I call

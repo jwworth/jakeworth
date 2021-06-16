@@ -1,6 +1,8 @@
 ---
 title: 'Git Bisect Demo Pt. 2'
 date: '2016-12-11T12:58:43-06:00'
+tags:
+  - git
 ---
 
 This week I rebuilt my Elixir Git Bisect Demo project in Ruby; it's available [here](https://github.com/jwworth/git_bisect_demo_ruby). Doing so allowed me to demo an automated Git bisect for my coworkers using only `git bisect run`.

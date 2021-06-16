@@ -1,6 +1,8 @@
 ---
 title: 'Vim Cheat Sheet'
 date: '2014-08-22T10:56:22-05:00'
+tags:
+  - vim
 ---
 
 The Vim adventures continue.  Today I started reading through the 'help' section, which is vast and full of surprising ideas.  Starting to see why people like this editor so much.  It's a blank slate that you can make into whatever you want.

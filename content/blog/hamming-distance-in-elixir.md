@@ -1,6 +1,8 @@
 ---
 title: 'Hamming Distance in Elixir'
 date: '2016-09-11T21:15:36-05:00'
+tags:
+  - elixir
 ---
 
 Today I solved the Exercism Hamming Distance problem in Elixir.

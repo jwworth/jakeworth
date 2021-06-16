@@ -1,6 +1,8 @@
 ---
 title: 'ActiveRecord After Commit Callback'
 date: '2015-10-05T17:08:11-05:00'
+tags:
+  - ruby
 ---
 
 Today I used a pretty awesome Rails callback, `after_commit`.

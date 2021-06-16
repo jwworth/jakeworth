@@ -1,6 +1,8 @@
 ---
 title: 'Book Club: Elm'
 date: '2016-02-07T10:05:09-06:00'
+tags:
+  - elm
 ---
 
 This week at Hashrocket Chicago we had the third meeting of an internal company book club. Our focus was chapter three of [Seven More Languages in Seven Weeks](https://pragprog.com/book/7lang/seven-more-languages-in-seven-weeks), 'Elm'.

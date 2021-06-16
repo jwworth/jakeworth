@@ -1,6 +1,8 @@
 ---
 title: 'Rails Action Name Method'
 date: '2015-10-07T17:58:46-05:00'
+tags:
+  - ruby
 ---
 
 Today I was trying to control what rendered on a page based on which controller action called it, and discovered the `action_name` method. It's located in `actionview`:

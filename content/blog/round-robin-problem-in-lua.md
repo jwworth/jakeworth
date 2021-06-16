@@ -1,6 +1,8 @@
 ---
 title: 'Round Robin Problem in Lua'
 date: '2016-03-06T18:20:36-06:00'
+tags:
+  - lua
 ---
 
 A while ago, I solved the following programming challenge:

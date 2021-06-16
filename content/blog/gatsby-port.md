@@ -1,6 +1,9 @@
 ---
 title: 'Porting from Rails to Gatsby'
 date: '2019-01-05'
+tags:
+  - ruby
+  - javascript
 ---
 
 Jake Worth Dot Com power-users will notice that I've revamped this site. This

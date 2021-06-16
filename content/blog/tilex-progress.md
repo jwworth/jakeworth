@@ -1,6 +1,8 @@
 ---
 title: 'Tilex Progress'
 date: '2017-06-05T22:54:43-05:00'
+tags:
+  - elixir
 ---
 
 First, some [background](/porting-til-to-phoenix-initial-commits).

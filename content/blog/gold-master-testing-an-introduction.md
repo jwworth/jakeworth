@@ -1,6 +1,8 @@
 ---
 title: 'Gold Master Testing: An Introduction'
 date: '2016-10-26T10:33:36-05:00'
+tags:
+  - testing
 ---
 
 I've been researching, thinking about, and preparing to write a Gold Master

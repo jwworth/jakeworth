@@ -1,6 +1,8 @@
 ---
 title: 'Vim Nonrecursive Mappings'
 date: '2016-12-17T12:44:21-06:00'
+tags:
+  - vim
 ---
 
 My first PR to a new Vim plugin was merged this week, [check it out](https://github.com/dillonhafer/vim-termbux/pull/1).

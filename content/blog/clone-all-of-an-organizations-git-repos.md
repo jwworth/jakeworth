@@ -1,6 +1,8 @@
 ---
 title: Clone All of an Organization's Git Repos
 date: "2019-06-11T22:12:03.284Z"
+tags:
+  - git
 ---
 
 Today, using parts of this [Gist](https://gist.github.com/caniszczyk/3856584) I

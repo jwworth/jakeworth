@@ -1,6 +1,8 @@
 ---
 title: 'Binary to Decimal Conversion in Ruby'
 date: '2017-05-04T18:12:42-05:00'
+tags:
+  - ruby
 ---
 
 This week I wrote a small algorithm in Ruby to convert binary numbers into

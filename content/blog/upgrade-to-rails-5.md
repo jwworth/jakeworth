@@ -1,6 +1,8 @@
 ---
 title: 'Upgrade To Rails 5'
 date: '2016-05-31T08:53:31-05:00'
+tags:
+  - ruby
 ---
 
 Today I upgraded this blog to the Rails 5 first release candidate. Here is the pull request where the changes were made:

@@ -1,6 +1,8 @@
 ---
 title: 'WebAssembly 101'
 date: '2019-12-18T00:00:00-06:00'
+tags:
+  - wasm
 ---
 
 I'm happy to announce that in January 2020, I'll be giving my first

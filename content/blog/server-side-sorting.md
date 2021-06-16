@@ -1,6 +1,8 @@
 ---
 title: 'Server Side Sorting in Ruby'
 date: '2016-06-28T15:02:26-05:00'
+tags:
+  - ruby
 ---
 
 Recently a friend asked me a question about sorting in Rails, and I thought I'd share my

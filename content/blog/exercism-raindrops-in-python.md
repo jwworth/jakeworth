@@ -1,6 +1,8 @@
 ---
 title: 'Exercism Raindrops in Python'
 date: '2020-12-06T00:00:00-06:00'
+tags:
+  - python
 ---
 
 I've been learning a bit of Python this Fall to facilitate conversations with a

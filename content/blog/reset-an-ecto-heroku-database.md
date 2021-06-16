@@ -1,6 +1,8 @@
 ---
 title: 'Reset an Ecto Heroku Postgres Database'
 date: '2017-01-07T18:03:36-06:00'
+tags:
+  - elixir
 ---
 
 We introduced some breaking database changes to our [Phoenix port](https://github.com/hashrocket/tilex) of [Today I Learned](https://til.hashrocket.com) on Friday; today I deployed them to staging. Resetting an Ecto Heroku database, with new seed data, turned out to be a little tricky, and I wanted to document what I learned.

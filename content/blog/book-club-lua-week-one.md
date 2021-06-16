@@ -1,6 +1,8 @@
 ---
 title: 'Book Club: Lua'
 date: '2016-01-09T19:26:27-06:00'
+tags:
+  - lua
 ---
 
 This week at Hashrocket Chicago we had the first meeting of an internal company book club.

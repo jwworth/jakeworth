@@ -1,6 +1,8 @@
 ---
 title: 'Duplicate your Development Branch for QA'
 date: '2020-10-09T00:00:00-06:00'
+tags:
+  - git
 ---
 
 I'm working on a team where we keep a clone of the `development` branch (the main

@@ -1,6 +1,8 @@
 ---
 title: 'Squash Your PR'
 date: '2016-07-03T15:02:41-05:00'
+tags:
+  - git
 ---
 
 ### The Idea

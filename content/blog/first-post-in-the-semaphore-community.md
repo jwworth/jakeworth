@@ -1,6 +1,8 @@
 ---
 title: 'First Post in the Semaphore Community'
 date: '2017-01-24T22:01:29-06:00'
+tags:
+  - elixir
 ---
 
 Today I am pleased to share my first post in the Semaphore community, available

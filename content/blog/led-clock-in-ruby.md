@@ -1,6 +1,8 @@
 ---
 title: 'LED Clock in Ruby'
 date: '2016-03-06T17:37:03-06:00'
+tags:
+  - ruby
 ---
 
 A few weeks ago I attempted to solve a programming challenge that was described as such:

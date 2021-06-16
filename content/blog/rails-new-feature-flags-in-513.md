@@ -1,6 +1,8 @@
 ---
 title: 'New Feature Flags in Rails 5.1.3'
 date: '2017-08-06T18:23:10-05:00'
+tags:
+  - ruby
 ---
 
 Not long ago I created a new Ruby on Rails web application using the Rails 5.1.3 release. Our goal was a Rails API supporting a React.js frontend, and it couldn't have been easier. The Rails team has recognized this important design pattern, and is taking great strides to simplify the setup.
