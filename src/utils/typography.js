@@ -2,8 +2,8 @@ import Typography from 'typography'
 import Wordpress2016 from 'typography-theme-wordpress-2016'
 
 Wordpress2016.overrideThemeStyles = () => ({
-  body: { color: '#111822' },
-  a: { color: '#3e7cb1' },
+  body: { color: '#1f2937' },
+  a: { color: '#1d4ed8' },
 })
 
 delete Wordpress2016.googleFonts

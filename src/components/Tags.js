@@ -13,7 +13,7 @@ const Tags = ({ tags }) => {
         <li
           key={tagName}
           style={{
-            background: '#a5b4fc',
+            background: '#d1d5db',
             padding: '0.1rem 0.75rem',
             marginRight: '0.5rem',
             marginBottom: '0',
