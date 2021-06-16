@@ -68,7 +68,7 @@ Project.propTypes = {
   purpose: PropTypes.string.isRequired,
   repo: PropTypes.string,
   stack: PropTypes.string.isRequired,
-  stackExplanation: PropTypes.string.isRequired,
+  stackExplanation: PropTypes.string,
   title: PropTypes.string.isRequired,
 }
 
