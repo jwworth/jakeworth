@@ -237,6 +237,18 @@ separating these concepts.
 
 〰〰〰
 
+Matt Pocock, [State Management: How to tell a bad boolean from a good
+boolean][booleans]. This post changed how I think about and write booleans. It
+is far too easy in programming to assign two boolean variables in state called
+`loading` and `complete`, and then create a situation where they are both true
+and nothing makes sense. I think booleans are an overused primitive in all of
+programming, and this post offers a path to sanity.
+
+> Bad booleans represent state. Good booleans are derived from state.
+-- Matt Pocock
+
+〰〰〰
+
 Zed Shaw via Abhishek Nagekar, [Advice From An Old Programmer][zed]. There will
 likely come a day when you find programming to be a little bit boring. It will
 cease to be joyful as a pure exercise. What do you do then? It's a question I'm
@@ -253,6 +265,7 @@ profession.
 
 I plan to keep this list updated as I continue to read.
 
+[booleans]: https://dev.to/mpocock1/state-management-how-to-tell-a-bad-boolean-from-a-good-boolean-260n
 [boring]: https://mcfunley.com/choose-boring-technology
 [ceiling]: https://www.swyx.io/meta-creator-ceiling/
 [duck]: https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/
