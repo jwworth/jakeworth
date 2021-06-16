@@ -272,7 +272,7 @@ I plan to keep this list updated as I continue to read.
 [expert-beginner]: https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 [lip]: https://www.swyx.io/writing/learn-in-public/
 [preemptive]: https://www.swyx.io/preemptive-pluralization/
-[schep]: http://www.paulgraham.com/schlep.html
+[schlep]: http://www.paulgraham.com/schlep.html
 [trap]: https://charity.wtf/2020/11/01/questionable-advice-the-trap-of-the-premature-senior/
 [twitter]: https://twitter.com/jwworth
 [wathan]: https://adamwathan.me/css-utility-classes-and-separation-of-concerns/
