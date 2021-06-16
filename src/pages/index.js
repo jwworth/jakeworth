@@ -5,7 +5,7 @@ import { rhythm } from '../utils/typography'
 import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
-import Tags from '../components/tags'
+import Tags from '../components/Tags'
 
 const BlogIndex = props => {
   const { data } = props
