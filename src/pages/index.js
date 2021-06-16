@@ -5,6 +5,7 @@ import { rhythm } from '../utils/typography'
 import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
+import Tags from '../components/tags'
 
 const BlogIndex = props => {
   const { data } = props
@@ -28,9 +29,19 @@ const BlogIndex = props => {
                 {title}
               </Link>
             </h3>
-            <small>
-              {node.frontmatter.date} • {node.timeToRead} min read
-            </small>
+            <div
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                marginBottom: '0.75rem',
+              }}
+            >
+              <small style={{ marginRight: '0.5rem' }}>
+                {node.frontmatter.date} • {node.timeToRead} min read
+              </small>
+              {node.frontmatter.tags && <Tags tags={node.frontmatter.tags} />}
+            </div>
+
             <p dangerouslySetInnerHTML={{ __html: node.excerpt }} />
           </div>
         )
@@ -59,6 +70,7 @@ export const pageQuery = graphql`
           frontmatter {
             date(formatString: "MMMM DD, YYYY")
             title
+            tags
           }
         }
       }

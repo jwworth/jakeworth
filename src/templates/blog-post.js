@@ -1,17 +1,18 @@
 import React from 'react'
 import { Disqus } from 'gatsby-plugin-disqus'
 import { Link, graphql } from 'gatsby'
-
 import { rhythm, scale } from '../utils/typography'
+
 import Bio from '../components/Bio'
 import Layout from '../components/Layout'
 import SEO from '../components/seo'
+import Tags from '../components/Tags'
 
 const BlogPostTemplate = props => {
   const post = props.data.markdownRemark
   const siteTitle = props.data.site.siteMetadata.title
   const { previous, next, slug } = props.pageContext
-  const { title } = post.frontmatter
+  const { tags, title } = post.frontmatter
 
   return (
     <Layout location={props.location} title={siteTitle}>
@@ -27,6 +28,12 @@ const BlogPostTemplate = props => {
       >
         {post.frontmatter.date} • {post.timeToRead} min read
       </p>
+
+      {tags && (
+        <div style={{ marginBottom: '2rem' }}>
+          <Tags tags={tags} />
+        </div>
+      )}
 
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
 
@@ -104,6 +111,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        tags
       }
     }
   }
