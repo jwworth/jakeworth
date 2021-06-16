@@ -1,6 +1,8 @@
 ---
 title: 'How I Clean Up JavaScript Dependencies'
 date: '2020-08-03T00:00:00-00:00'
+tags:
+  - javascript
 ---
 
 Unused dependencies are bad: they increase the size of your project, slow down

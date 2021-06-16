@@ -1,6 +1,8 @@
 ---
 title: 'Introducing React Explained'
 date: '2020-06-12T00:00:00-06:00'
+tags:
+  - react
 ---
 
 Today, I'd like to introduce my newest project, a free weekly newsletter for

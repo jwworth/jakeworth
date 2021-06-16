@@ -1,6 +1,8 @@
 ---
 title: 'Week in Review: Week 13, 2021'
 date: '2021-04-02T14:16:51-0400'
+tags:
+  - react
 ---
 
 Here's my review for this week.
