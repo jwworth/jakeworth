@@ -37,19 +37,6 @@ const BlogPostTemplate = props => {
 
       <div dangerouslySetInnerHTML={{ __html: post.html }} />
 
-      <p>
-        <em>
-          Did you enjoy this post? Follow me on{' '}
-          <a
-            href="https://twitter.com/jwworth"
-            rel="norel noreferrer"
-            target="_blank"
-          >
-            Twitter
-          </a>{' '}
-          for more.
-        </em>
-      </p>
       <hr
         style={{
           marginBottom: rhythm(1),
