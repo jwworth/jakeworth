@@ -90,14 +90,10 @@ general tendency is to overestimate the contents of your wallet.
 
 〰〰〰
 
-Elisabeth Hendrickson, [Momentum >
-Urgency](https://testobsessed.com/2020/02/momentum-urgency/). I found this post
-recently, and it describes the best teams I've worked with. Effective teams
-focus on process, not outcome. Managers of such teams know that a team member
-being blocked isn't a frustrating detail that that team member will have to
-remedy, but rather a process failure that was luckily exposed while many more
-remain hidden. They'll use their managerial clout to fight with you against
-that obstacle, considering it a top priority.
+Elisabeth Hendrickson, [Momentum > Urgency][momentum]. Effective teams focus on
+process, not outcome. A blocked story isn't a temporary distraction from the
+process, it is the process. Effective technical management will focus on it
+like a laser.
 
 > What I've learned is that if we want things to go fast, a sense of momentum
 is much more effective than a sense of urgency.
@@ -271,6 +267,7 @@ I plan to keep this list updated as I continue to read.
 [duck]: https://www.thoughtfulcode.com/rubber-duck-debugging-psychology/
 [expert-beginner]: https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 [lip]: https://www.swyx.io/writing/learn-in-public/
+[momentum]: https://testobsessed.com/2020/02/momentum-urgency/
 [preemptive]: https://www.swyx.io/preemptive-pluralization/
 [schlep]: http://www.paulgraham.com/schlep.html
 [trap]: https://charity.wtf/2020/11/01/questionable-advice-the-trap-of-the-premature-senior/
