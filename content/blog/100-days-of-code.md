@@ -3,13 +3,20 @@ title: '100 Days of Code'
 date: '2018-09-08T11:11:46-05:00'
 ---
 
-For the next 97 days, I'll be doing the [100 Days of Code](https://www.100daysofcode.com/) challenge. I vow to code for at least an hour every day until mid-December, unless I'm exhausted or forget.
+For the next 97 days, I'll be doing the [100 Days of
+Code](https://www.100daysofcode.com/) challenge. I vow to code for at least an
+hour every day until mid-December, unless I'm exhausted or forget.
 
 My goals for this project:
 
-1. Rapidly level-up in my skills. This happened with both [60 Days 60 Contributions](/60-days-60-contributions) and [60 Days 60 Hacks](/60-days-60-hacks), and it's been about two years since I've done such a challenge.
+1. Rapidly level-up in my skills. This happened with both [60 Days 60
+   Contributions](/60-days-60-contributions) and [60 Days 60
+   Hacks](/60-days-60-hacks), and it's been about two years since I've done
+   such a challenge.
 2. Wander into the more esoteric realms of my field.
 
-Possible areas of study include: language design, statically typed JavaScript (Flow, TypeScript, ReasonML), automated content creation, and understanding my operating system better. I welcome any idea that pops into my head.
+Possible areas of study include: language design, statically typed JavaScript
+(Flow, TypeScript, ReasonML), automated content creation, and understanding my
+operating system better. I welcome any idea that pops into my head.
 
 **Update:** I finished the challenge!

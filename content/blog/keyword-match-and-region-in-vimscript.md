@@ -5,7 +5,9 @@ tags:
   - vim
 ---
 
-After a recent talk I gave that included VimScript, an attendee asked a question about the differences between `keyword`, `match`, and `region` following `syn` in a Vim syntax highlighting file.
+After a recent talk I gave that included VimScript, an attendee asked a
+question about the differences between `keyword`, `match`, and `region`
+following `syn` in a Vim syntax highlighting file.
 
 These three short chapters from 'Learn VimScript the Hard Way' help explain:
 

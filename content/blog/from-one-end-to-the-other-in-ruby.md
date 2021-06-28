@@ -16,11 +16,22 @@ My solution is below, and here:
 
 https://gist.github.com/jwworth/5a5b3647a44b9a782896
 
-I like that this solution is relatively fast, at 0.36 seconds. I like that it doesn't imply what the answer might be by having a ceiling to the search— the code will run forever if my conditional is wrong. I like that it uses the `rotate` method, something I didn't know existed until I tried to solve this problem.
+I like that this solution is relatively fast, at 0.36 seconds. I like that it
+doesn't imply what the answer might be by having a ceiling to the search— the
+code will run forever if my conditional is wrong. I like that it uses the
+`rotate` method, something I didn't know existed until I tried to solve this
+problem.
 
-I don't like that this code isn't tested, and that it turns the integer into a string. String manipulation is one of the best features of Ruby, but I rely on it too often.
+I don't like that this code isn't tested, and that it turns the integer into a
+string. String manipulation is one of the best features of Ruby, but I rely on
+it too often.
 
-This code came after a major refactor, viewable in the Gist history. My first draft arrived at the same solution, but telegraphed the answer via a range, which is a little misleading. Ironically, this is closer to the type of code I would have written when I was just getting started as a programmer. I didn't know how to find the answer first then, so I had to write code that made zero assumptions.
+This code came after a major refactor, viewable in the Gist history. My first
+draft arrived at the same solution, but telegraphed the answer via a range,
+which is a little misleading. Ironically, this is closer to the type of code I
+would have written when I was just getting started as a programmer. I didn't
+know how to find the answer first then, so I had to write code that made zero
+assumptions.
 
 ```ruby
 # from_one_end_to_the_other.rb
@@ -38,7 +49,8 @@ end
 # 153846
 ```
 
-For the curious, I also solved this in Elm. No syntax highlighting available at the time of posting, so enjoy the bleeding edge:
+For the curious, I also solved this in Elm. No syntax highlighting available at
+the time of posting, so enjoy the bleeding edge:
 
 ```elm
 import Graphics.Element exposing (show)

@@ -5,7 +5,9 @@ tags:
   - ruby
 ---
 
-Today I was trying to control what rendered on a page based on which controller action called it, and discovered the `action_name` method. It's located in `actionview`:
+Today I was trying to control what rendered on a page based on which controller
+action called it, and discovered the `action_name` method. It's located in
+`actionview`:
 
 ```ruby
 pry> method(:action_name).source_location
