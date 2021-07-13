@@ -6,7 +6,7 @@ const Tags = ({ tags }) => {
       style={{
         display: 'flex',
         listStyleType: 'none',
-        marginBottom: '0',
+        margin: '0',
       }}
     >
       {tags.map(tagName => (
