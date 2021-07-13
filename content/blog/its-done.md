@@ -3,7 +3,7 @@ title: It's Done
 date: '2017-07-19T12:53:12-05:00'
 ---
 
-A coworker recently taught me a client management technique that I love ❤️.
+A coworker recently taught me a client management technique that I love.
 
 When a stakeholder asks for a change to the software we're developing, my
 standard response is, roughly: "Sure thing."
